@@ -16,6 +16,9 @@ Kila kikao, kabla ya kuonyesha kipande:
 4. **Chujio la fitna (mwongozo 9.4):** kabla ya kutumia tovuti yoyote kama kigezo, angalia nani kachapisha. Tovuti hutumika kwa USHAHIDI wa tahajia/taarifa tu, kamwe si kigezo cha itikadi.
 5. Lisilothibitika mtandaoni: `MASWALI.md` + `[?]`, kama kawaida.
 
+## Kanuni ya vichwa vya ndani (agizo la mtumiaji, 28 Julai 2026)
+Vichwa vya ndani ya sura HAVIONGEZWI na mfasiri. Vichwa vinaandikwa pale tu: (a) vipo kwenye asili ya Kiarabu (mf. «فصل», pamoja na vya wahariri vilivyo kwenye mabano, vikitajwa kuwa ni vyao), au (b) kwa kutenganisha sauti za waandishi (mwongozo 6.3, mf. «Maneno ya Ibn al-Jawzī…»). Mtiririko wa mwandishi unaounganishwa kwa «Na…» haukatwi kwa vichwa vya mfasiri.
+
 ## Kanuni ya kuchagua kipande (agizo la mtumiaji, 28 Julai 2026)
 1. Kipande huchaguliwa kwa **mshono wa asili**: mwisho wa hoja kamili, mlango, au fasili. Kamwe si katikati ya hoja, hadithi, mfululizo wa mifano, au jibu la swali.
 2. Kabla ya kutafsiri kipande kipya: **soma tena mwisho wa kipande kilichotangulia** (faili la tafsiri) NA kurasa za Kiarabu zinazotangulia mara moja. Sentensi ya kwanza ya kipande kipya lazima iungane na ya mwisho ya kilichotangulia kama vile hazikuwahi kugawanywa: kiunganishi, sauti, na mada visikatike.
