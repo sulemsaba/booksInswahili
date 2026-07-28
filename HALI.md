@@ -5,6 +5,9 @@
 **Inayofuata:** Kitabu cha Elimu, sehemu ya 2: hadithi ya Abu Musa (uk. 14–15 za Kiarabu), kuendelea hadi mwisho wa kitabu (uk. 26).
 **LAKINI:** sampuli ya sasa (dibaji + elimu sehemu ya 1) inasubiri idhini ya mtumiaji. Usianze sehemu mpya kabla ya idhini (mwongozo 12.2).
 
+## Kanuni ya tafsiri, si maelezo (agizo la mtumiaji, 28 Julai 2026)
+**Tunatafsiri; hatuelezei maana.** Vifaa vya mwandishi mwenyewe vinatafsiriwa kama alivyoviandika: fomula zake za maswali (فإن قيل = «Basi ikisemwa», فالجواب: أنّ = «Jibu ni kwamba»), viunganishi vyake (وـ mwanzoni mwa kifungu = «Na…»), na mpangilio wake wa kauli. Hatuongezi maneno yasiyokuwapo («huenda», «wengine», «nyingi»), wala hatugeuzi fomula yake kuwa maelezo yetu. Mtindo wake halisi wa uandishi unahifadhiwa kila kitu.
+
 ## Kanuni ya kuchagua kipande (agizo la mtumiaji, 28 Julai 2026)
 1. Kipande huchaguliwa kwa **mshono wa asili**: mwisho wa hoja kamili, mlango, au fasili. Kamwe si katikati ya hoja, hadithi, mfululizo wa mifano, au jibu la swali.
 2. Kabla ya kutafsiri kipande kipya: **soma tena mwisho wa kipande kilichotangulia** (faili la tafsiri) NA kurasa za Kiarabu zinazotangulia mara moja. Sentensi ya kwanza ya kipande kipya lazima iungane na ya mwisho ya kilichotangulia kama vile hazikuwahi kugawanywa: kiunganishi, sauti, na mada visikatike.
