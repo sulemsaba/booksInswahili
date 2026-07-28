@@ -1,5 +1,18 @@
 /* Mtindo wa kitabu — Mukhtasar Minhaj al-Qasidin (Kiswahili) */
 
+/* Fonti ya Kiarabu: Amiri (static, si variable) — Kiarabu kinachotolewa
+   kwenye PDF kinabaki Unicode halisi inayoweza kunakiliwa. */
+@font-face {
+  font-family: "Amiri";
+  src: url("fonti/Amiri-Regular.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Amiri";
+  src: url("fonti/Amiri-Bold.ttf");
+  font-weight: bold;
+}
+
 @page {
   size: 150mm 222mm;
   margin: 19mm 16mm 17mm 16mm;
@@ -44,7 +57,7 @@ body {
   margin-top: 28mm;
 }
 .jalada-ar {
-  font-family: "Noto Naskh Arabic";
+  font-family: "Amiri";
   font-size: 26pt;
   margin-bottom: 8mm;
 }
@@ -59,17 +72,22 @@ body {
 .yaliyomo { page-break-after: always; }
 .yaliyomo h1 { string-set: kichwa-kitabu "Yaliyomo"; }
 .yaliyomo ol { list-style: none; padding: 0; }
-.yaliyomo li { margin: 2.2mm 0; font-size: 10.5pt; }
-.yaliyomo a { text-decoration: none; color: #111; }
+.yaliyomo li { margin: 2.2mm 0; font-size: 10.5pt; border-bottom: 0.3pt dotted #bbb; }
+.yaliyomo a {
+  text-decoration: none;
+  color: #111;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
 .yaliyomo a::after {
-  content: leader(". ") target-counter(attr(href), page);
+  content: target-counter(attr(href url), page);
   color: #333;
 }
 
 /* ---------- Vichwa ---------- */
 article.kitabu {
   page-break-before: always;
-  counter-reset: fnref footnote;
 }
 .robo-kichwa {
   text-align: center;
@@ -95,7 +113,8 @@ h2 {
 /* ---------- Tabaka tatu ---------- */
 .kifungu { margin-bottom: 4.5mm; }
 .ar {
-  font-family: "Noto Naskh Arabic";
+  font-family: "Amiri";
+  font-kerning: none;
   font-size: 13pt;
   line-height: 1.95;
   direction: rtl;
@@ -111,16 +130,11 @@ h2 {
 .kanuni-orodha li { margin-bottom: 2.5mm; text-align: justify; }
 
 /* ---------- Maelezo ya chini (footnotes) ---------- */
-a.fnref {
-  counter-increment: fnref;
-  text-decoration: none;
-  color: #14538b;
-}
-a.fnref::after {
-  content: counter(fnref);
-  vertical-align: super;
+a.fnref { text-decoration: none; color: #14538b; }
+a.fnref sup {
   font-size: 6.8pt;
   font-weight: bold;
+  line-height: 0;
 }
 .fn {
   float: footnote;
@@ -131,11 +145,12 @@ a.fnref::after {
   direction: ltr;
 }
 .fn::footnote-call { content: ""; }
-.fn::footnote-marker { content: counter(footnote) ". "; font-weight: bold; }
+.fn::footnote-marker { content: ""; }
+.fn-num { font-weight: bold; }
 
 /* Herufi za Kiarabu ndani ya matini ya Kilatini */
 .ar-inline {
-  font-family: "Noto Naskh Arabic";
+  font-family: "Amiri";
   unicode-bidi: embed;
   direction: rtl;
 }

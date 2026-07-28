@@ -15,7 +15,9 @@
 | 2 | Sura ya mfano | — | IMEONDOLEWA kwa agizo la mtumiaji: tafsiri inakwenda kwa mfuatano tangu mwanzo |
 | — | Jalada + Kanuni za Mfasiri + Kuhusu toleo | ✅ | `sura/00-utangulizi/00–02` |
 | — | Dibaji ya mwandishi (uk. 9–12) | ✅ | `sura/00-utangulizi/03-dibaji-ya-mwandishi.html` — inasubiri mapitio |
-| — | Zana ya PDF (WeasyPrint + mtindo.css + TOC + maelezo ya chini yanayobofyeka) | ✅ | `python3 zana/jenga-pdf.py` |
+| — | Zana ya PDF (Chromium + Paged.js + Amiri; TOC na maelezo ya chini yanayobofyeka) | ✅ | `python3 zana/jenga-pdf.py`. WeasyPrint iliachwa: iliharibu unakili wa Kiarabu (CLAUDE.md §10d) |
+| — | Mtindo v1.2 (bila em dash; masimulizi Kiswahili tu; rejista rahisi) umetumika kwenye sampuli | ✅ | CLAUDE.md §10. Dibaji + Elimu (uk. 13–14) zimerekebishwa |
+| — | **Yanayosubiri uthibitisho wa mtumiaji:** (a) hadithi kubaki na Kiarabu wa matn (pendekezo la mfasiri: NDIYO); (b) athar za Maswahaba na kauli za wanazuoni kuwa Kiswahili tu; (c) sampuli iliyorekebishwa ikubaliwe kabla ya kuendelea | ⬜ | Tazama CLAUDE.md §10b |
 
 ## B. TAFSIRI — ROBO YA 1: IBADA (uk. 13–70)
 

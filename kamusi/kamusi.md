@@ -36,14 +36,14 @@
 | السلف الصالح | Salafus-Swalih | pamoja na tafsiri: "wema waliotangulia" |
 | العزلة | kujitenga (ʿuzlah) | tafsiri + istilahi kwa mabano mara ya kwanza |
 
-## B. Heshima (honorifics — LOCKED)
+## B. Heshima (honorifics — LOCKED; muundo wa mabano kwa agizo la mtumiaji, §10a ya CLAUDE.md)
 
 | Kwa | Fomula |
 |---|---|
-| Mtume Muhammad | – Rehema na Amani zimshukie – (ﷺ) |
+| Mtume Muhammad | (Rehema na Amani zimshukie), au alama ﷺ |
 | Allah | Subhanahu wa Ta'ala |
-| Wanazuoni waliotangulia | Allah amrehemu |
-| Maswahaba | Allah amuwie radhi |
+| Wanazuoni waliotangulia | (Allah amrehemu) |
+| Maswahaba | (Allah amuwie radhi); wawili: (Allah awawie radhi wote wawili) |
 
 ## C. Yaliyofungwa kwa chaguo-msingi (Julai 2026 — mtumiaji akitaka, hubadilishwa)
 

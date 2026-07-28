@@ -44,9 +44,10 @@ minhaj-tafsiri-workspace/
 |---|---|
 | Chanzo (source) | Kiarabu — maneno ya Ibn Qudamah mwenyewe. Toleo la Arna'ut ni rejea (tazama 1a) |
 | Aya na Hadithi | Arabic script → transliteration (italics) → maana kwa Kiswahili |
+| Masimulizi ya mwandishi | Kiswahili TU, bila Kiarabu sambamba (tazama §10b) |
 | Maneno ya dini | swala, zaka, tawhidi, ikhlasi, khofu, subira, shukrani, zuhudi, tawakkali, nia, twahara |
 | Maneno mapya yaliyofungwa | **rajaa** (matumaini — kwa mabano mara ya kwanza tu), **taqwa** (haitafsiriwi), **nafsi**, *'ubudiyyah* → itaamuliwa kwenye kamusi kabla ya sura ya kwanza |
-| Mtume | – Rehema na Amani zimshukie – (ﷺ) |
+| Mtume | (Rehema na Amani zimshukie) kwa mabano, au alama ﷺ — si kwa vistari (§10a) |
 | Allah | Subhanahu wa Ta'ala |
 | Wanazuoni | Allah amrehemu |
 | Maswahaba | Allah amuwie radhi |
@@ -91,13 +92,13 @@ Kabla ya kutafsiri kila sehemu:
 
 ---
 
-## 3. MPANGILIO WA TABAKA TATU (Three-layer structure)
+## 3. MPANGILIO WA MATINI (umerekebishwa na §10b — Julai 2026)
 
-Kila kifungu kikuu kinafuata mpangilio huu:
-
-**Tabaka 1 — Kiarabu asilia** (matini ya Ibn Qudamah)
-**Tabaka 2 — Tafsiri ya Kiswahili**
-**Tabaka 3 — Maelezo (footnotes):** chanzo cha hadithi, daraja (kwa kumtaja mwenye hukumu), ufafanuzi wa neno mara ya kwanza.
+- **Masimulizi ya Ibn Qudamah:** Kiswahili TU. Hakuna Kiarabu sambamba.
+- **Aya za Qur'an:** Kiarabu ﴿ ﴾ → transliteration (italiki) → "Maana yake: «…» (Sura: n)".
+- **Matini za hadithi za Mtume:** Kiarabu wa matn tu (isnad/simulizi kwa Kiswahili) → transliteration → "Maana yake: «…»" + footnote ya chanzo na hukumu.
+- **Maelezo ya chini:** chanzo cha hadithi, daraja (kwa kumtaja mwenye hukumu), ufafanuzi wa neno mara ya kwanza.
+- Kauli za Maswahaba (athar) na za wanazuoni zilizonukuliwa: Kiswahili tu (uamuzi wa mfasiri wa Julai 2026 — ukisubiri uthibitisho wa mtumiaji; tazama §10b).
 
 ---
 
@@ -171,4 +172,16 @@ PDF kurasa 416; matini ya kitabu kurasa ~13–408 (≈ kurasa 395 za Kiarabu). R
 
 ---
 
-*Bismillah — hatua inayofuata: kumalizia Hatua 0 (uthibitisho wa OCR kwa picha + alama ⚠️ za toc.md), kisha Hatua 1 (kamusi v1.0 — maamuzi ya sehemu C ni ya mtumiaji).*
+## 10. MAREKEBISHO YA MTINDO (v1.2 — Julai 2026, agizo la mtumiaji)
+
+**10a. Hakuna em dash (—) katika matini ya Kiswahili ya kitabu.** Badala yake: nukta (kugawa sentensi mbili), koma, au koloni — kile kinachosomeka vizuri zaidi mahali pale. Inahusu matini yote: masimulizi, maelezo ya chini, kila kitu. Heshima zinaandikwa kwa MABANO: (Rehema na Amani zimshukie), (Allah amrehemu), (Allah amuwie radhi), (Allah awawie radhi wote wawili). Kamusi sehemu B imesasishwa.
+
+**10b. Kiarabu sambamba kimeondolewa kwa masimulizi.** Maneno ya Ibn Qudamah (na ya Ibn al-Jawzi anayemnukuu) yanatafsiriwa kwa Kiswahili TU. Kiarabu kinabaki mahali pawili: (1) aya za Qur'an, (2) matini za hadithi za Mtume — vyote kwa mpangilio: Kiarabu → transliteration → maana. Kanuni za Mfasiri kipengele cha 3 kimeandikwa upya kueleza haya. Maamuzi ya ziada ya mfasiri yanayosubiri uthibitisho wa mtumiaji: (a) athar za Maswahaba na kauli za wanazuoni: Kiswahili tu; (b) katika hadithi, Kiarabu ni wa matn tu, isnad inasimuliwa kwa Kiswahili.
+
+**10c. Rejista rahisi.** Kiswahili cha kawaida kinachoeleweka Dar es Salaam, kinachofaa khutba. Sentensi fupi. Viunganishi vya kila siku: Kwa hiyo, Kisha, Baadaye, Hata hivyo, Lakini. Miundo ya kifasihi mizito inaepukwa. Istilahi za dini zilizofungwa kwenye kamusi HAZIBADILISHWI — ni prose inayozizunguka tu ndiyo inayorahisishwa.
+
+**10d. Kiarabu cha PDF lazima kiwe Unicode halisi kinachonakilika.** Injini ya PDF ni Chromium + Paged.js (`zana/jenga-pdf.py`). WeasyPrint ILIKATAZWA: huharibu tabaka la maandishi la Kiarabu (nakala hutoa herufi zisizo sahihi, mf. قال hutoka تال). Fonti ya Kiarabu: Amiri (static, `zana/fonti/`). Baada ya kila ujenzi, kagua kwa `pdftotext` kwamba neno moja la Kiarabu linatoka sahihi. Dosari inayojulikana na inayokubalika: baadhi ya program za kunakili huingiza nafasi (space) ndani ya neno; herufi zenyewe ni sahihi.
+
+---
+
+*Bismillah — hatua inayofuata: kuendelea na Kitabu cha Elimu (uk. 14 na kuendelea) kwa mtindo wa v1.2, baada ya mtumiaji kuthibitisha sampuli iliyorekebishwa.*
