@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Jenga PDF ya tafsiri: hukusanya vipande vya HTML kutoka sura/ kwa mpangilio,
-huunda Yaliyomo yenye namba za kurasa zinazobofyeka, na kutoa PDF kwa WeasyPrint.
+huunda Yaliyomo yenye namba za kurasa zinazobofyeka, na kutoa PDF kwa
+Chromium + Paged.js.
 
 Matumizi:  python3 zana/jenga-pdf.py
 Matokeo:   matokeo/minhaj-kiswahili-rasimu.pdf
@@ -47,7 +48,9 @@ def kusanya():
     vipande = []
     for folda in MPANGILIO:
         for faili in sorted((MZIZI / folda).glob("*.html")):
-            vipande.append(weka_namba_za_maelezo(faili.read_text(encoding="utf-8")))
+            vipande.append(
+                (faili.name, weka_namba_za_maelezo(faili.read_text(encoding="utf-8")))
+            )
     return vipande
 
 
@@ -84,10 +87,15 @@ def jenga():
     if not vipande:
         sys.exit("Hakuna vipande vya HTML vilivyopatikana katika sura/")
 
-    # Jalada kwanza, kisha Yaliyomo, kisha vipande vingine
-    jalada = [v for v in vipande if 'class="jalada"' in v]
-    vingine = [v for v in vipande if 'class="jalada"' not in v]
-    mwili = "".join(jalada) + tengeneza_yaliyomo(vingine) + "".join(vingine)
+    # Mpangilio wa 11.5: jalada, kanuni, ufunguo, kuhusu toleo, YALIYOMO,
+    # kisha matini ya kitabu (dibaji ya mwandishi na robo nne).
+    jalada = [c for (n, c) in vipande if 'class="jalada"' in c]
+    mbele = [c for (n, c) in vipande
+             if 'class="jalada"' not in c and n.startswith(("01-", "02-", "03-"))
+             and any(n in f.name for f in (MZIZI / "sura/00-utangulizi").glob("*.html"))]
+    matini = [c for (n, c) in vipande if 'class="jalada"' not in c and c not in mbele]
+    orodha = mbele + matini
+    mwili = "".join(jalada) + "".join(mbele) + tengeneza_yaliyomo(orodha) + "".join(matini)
 
     # CSS inaingizwa ndani ya HTML moja kwa moja: Paged.js huvuta <link> kwa
     # fetch(), na fetch ya file:// imezuiwa na Chromium (CORS) — hushindwa kimya.

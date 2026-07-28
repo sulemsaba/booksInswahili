@@ -44,6 +44,7 @@
 | Allah | Subhanahu wa Ta'ala |
 | Wanazuoni waliotangulia | (Allah amrehemu) |
 | Maswahaba | (Allah amuwie radhi); wawili: (Allah awawie radhi wote wawili) |
+| Nabii mwingine | (Amani imshukie) |
 
 ## C. Yaliyofungwa kwa chaguo-msingi (Julai 2026 — mtumiaji akitaka, hubadilishwa)
 
@@ -58,6 +59,31 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 | الشوق (shawq) | **shauku** | imezoeleka |
 | الأنس (uns) | **unsi** — mara ya kwanza na ufafanuzi | hakuna neno la Kiswahili linalobeba maana kamili |
 | الرضا (rida) | **radhi** (kuridhika kwa muktadha) | imezoeleka |
+
+## C2. Istilahi za elimu ya hadithi (mwongozo 10.2d — kama zinavyotumika kwenye maelezo ya chini)
+
+| Istilahi | Kiswahili kinachotumika |
+|---|---|
+| sanad | mnyororo wa wapokezi |
+| matn | matini ya hadithi |
+| marfūʿ | iliyofika kwa Mtume (Rehema na Amani zimshukie) |
+| mawqūf | iliyokoma kwa Swahaba |
+| mursal | yenye njia iliyokatika (mursal) |
+| matruk | mpokezi aliyeachwa (matruk) |
+| sahihi / hasan / dhaifu | kama zilivyo; hukumu hutajwa kwa jina la mwenye hukumu |
+
+## C3. Istilahi za tasawwuf (mwongozo 10.2c — mara ya kwanza hupata maelezo ya chini)
+
+| Istilahi | Matumizi |
+|---|---|
+| fanaa, baqaa | zimebaki kama zilivyo; maelezo ya chini yalitolewa dibajini |
+| ʿuzlah | kujitenga (ʿuzlah) |
+| muridi | muridi; maelezo ya chini dibajini |
+| muhasaba | kuihesabu nafsi (muhasaba) |
+| sarabi | sarabi; maelezo ya chini dibajini |
+
+## C4. Majina ya watu na mahali (mwongozo 10.2a)
+Tahajia zinazotumika sasa zimeorodheshwa `MASWALI.md` swali la 5 — **bado hazijafungwa**; zikithibitishwa na mtumiaji zitahamishiwa hapa.
 
 ## D. Utaratibu wa kuongeza neno jipya
 1. Tafuta jinsi linavyotumika kwenye machapisho ya Kiislamu ya Tanzania (Al-Farsy, register ya BAKWATA, uislamu.org).
