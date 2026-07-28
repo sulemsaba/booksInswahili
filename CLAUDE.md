@@ -433,3 +433,41 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 2. **Sheria mpya (kwa maneno ya mtumiaji): «Usikate sentensi — bali iandike kwa mpangilio mzuri wa Kiswahili.»** Sentensi HAIGAWANYWI vipande vifupi; inaundwa upya kwa mpangilio wa maneno wa Kiswahili fasaha: mpangilio wa asili wa maneno, virejeshi vya kawaida, msamiati wa kila siku. Maana inabaki kamili. Kazi ya mfasiri si kuzalisha sarufi ya Kiarabu kwa Kiswahili, bali kuzalisha MAANA ya mwandishi kwa Kiswahili fasaha.
 3. **Vinavyobaki vitakatifu:** maudhui yote bila kupungua; fomula za mwandishi (swali la balagha libaki swali, wito ubaki wito, swali-na-jibu libaki hivyo); hali tano za mtindo kwa ujumla wake; istilahi za kamusi.
 4. Kazi iliyokamilika imerekebishwa upya kwa mtindo huu (28 Julai 2026).
+
+
+---
+
+# KANUNI KUU NA KANUNI ZA DHAHABU (28 Julai 2026 — zimeidhinishwa na mtumiaji; sehemu ya kudumu ya sheria)
+
+## KANUNI KUU (North Star — kipimo cha kila ukurasa)
+**Msomaji wa Kiswahili apate elimu YOTE na uzoefu WOTE anaoupata msomaji wa Kiarabu — sawa naye, au bora.** Kila kipande kinapimwa kwa swali hili kabla ya kukubaliwa: je, aliyesoma Kiswahili chetu anajua na anahisi kila alichojua na kuhisi aliyesoma Kiarabu?
+
+## RULE 0 — pasi tatu kwa kila kifungu (lazima)
+1. **Kuelewa:** soma Kiarabu mpaka uweze kueleza maana bila kutazama matini.
+2. **Rasimu:** tafsiri aminifu, hata ikikaribiana na muundo wa Kiarabu.
+3. **Kung'arisha:** mpangilio mzuri wa Kiswahili; soma kwa sauti; kisichosomeka kwa kawaida kinaandikwa upya. Kila maana lazima isalimike.
+
+## KANUNI ZA DHAHABU 20 (zilizooanishwa na maagizo ya mtumiaji)
+1. Tafsiri maana, si sarufi. Uliza: «Ibn Qudāmah angeandikaje kwa Kiswahili?»
+2. Usiongeze wazo. Usitie nguvu, usilegeze. Ufafanuzi huenda footnote tu.
+3. Usipunguze wazo. Kila maana lazima isalimike, hata marudio ya makusudi.
+4. Hifadhi utu wa Ibn Qudāmah: mtulivu, mwenye mantiki, mwenye mpangilio. Usimfanye wa kisasa, usimuigize mhubiri.
+5. Kiswahili rasmi cha msomi — kamwe si cha mazungumzo ya mtaani.
+6. **(Imeoanishwa na agizo la mtumiaji:)** Sentensi HAIKATWI kwa mazoea; inaandikwa kwa mpangilio mzuri wa Kiswahili. Sentensi ikizidi maneno ~30–40 ni KENGELE ya kusoma kwa sauti; kukata ni suluhisho la mwisho, pale tu mpangilio unaposhindikana.
+7. Aya moja ya maandishi = wazo moja. Wazo likibadilika, aya mpya.
+8. Marudio ya kisarufi ya Kiarabu (ثم، ثم) hayahitaji kurudiwa Kiswahili kikishaelewa.
+9. Msisitizo (إنّ) uhifadhiwe, si lazima kwa neno lile lile kila mara: «Hakika», «Kwa yakini», au mpangilio wa sentensi.
+10. Neno moja la Kiarabu = mwenzake mmoja wa Kiswahili. Kamusi ni katiba; haivunjwi.
+11. Rudia pale tu mwandishi anaporudia kwa makusudi; vinginevyo badilisha vitenzi (anawajibika / inampasa / analazimika).
+12. Ondoa uliterali usio wa lazima (kwa kadiri ya → kulingana na).
+13. Usirembeshe. Usimboreshe Ibn Qudāmah. Usiwe mshairi wala mhubiri. Baki mfasiri.
+14. Istilahi za Kiislamu zibaki hai: tawhidi si «umoja wa Mungu», swala si «maombi».
+15. Usahihi wa kisheria ni mtakatifu: wajibu / sunna / mubāḥ / makruhu / haramu havichanganywi kamwe.
+16. **Aya za Qur'an:** zinanukuliwa kutoka tafsiri iliyochaguliwa, hazitungwi upya. *(INASUBIRI uamuzi wa MASWALI #1; mpaka hapo: tafsiri ya maana ya mfasiri, ikitajwa wazi kwenye Kanuni za Mfasiri.)*
+17. Hadithi: tafsiri, kisha thibitisha chanzo, kisha hukumu kwa jina. Kamwe usikisie.
+18. Ukiwa na shaka: simama. Maana tatu zinazowezekana → utafiti, si ubunifu. `MASWALI.md` + [?].
+19. Soma kwa sauti kila ukurasa. Usiposoma kwa kawaida, andika upya.
+20. Swali la mwisho kwa kila aya ya maandishi: «Lau Ibn Qudāmah angejua Kiswahili kikamilifu, angeikubali aya hii?» Hapana → andika upya.
+
+## ORODHA YA POINTI 10 (kwa kila kifungu, kabla ya kukubaliwa)
+maana kamili (hakuna kilichoongezwa/kupungua) · hukumu za kisheria sahihi · sauti ya Ibn Qudāmah · Kiswahili cha imamu msomi · inasomeka kwa sauti · kamusi imefuatwa · aya kwa utaratibu uliokubaliwa · hadithi imethibitishwa · maelezo ya mfasiri yametengwa na ya wahariri · muundo uleule (Kiarabu → matamshi → maana → tanbihi)
