@@ -51,7 +51,7 @@
 | Viwakilishi vya Mwenyezi Mungu | herufi kubwa: **Yake, Wake, Kwake, Vyake, Peke Yake** |
 | تعالى | **Mtukufu** (mf. "Mwenyezi Mungu Mtukufu") |
 | Matamshi ya aya/hadithi | jina hubaki kama linavyotamkwa: *Allāh* |
-| Mtume Muhammad | (Rehema na Amani zimshukie), au alama ﷺ |
+| Mtume Muhammad | **ﷺ** ndiyo ya kawaida kitabuni (uamuzi wa mtumiaji, 28 Julai 2026); fomula kamili kwa maneno pale asili inapoiandika kwa maneno |
 | صلى الله عليه — kitenzi | "Mwenyezi Mungu amswalie" (mf. dibaji: "…amswalie yeye pamoja na ahli zake…") |
 | Wanachuoni waliotangulia | (Mwenyezi Mungu amrehemu) |
 | Maswahaba | (Mwenyezi Mungu amridhie); wawili: (Mwenyezi Mungu awaridhie wote wawili) |
@@ -90,7 +90,7 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 |---|---|
 | sanad | mnyororo wa wapokezi |
 | matn | matini ya hadithi |
-| marfūʿ | iliyofika kwa Mtume (Rehema na Amani zimshukie) |
+| marfūʿ | iliyofika kwa Mtume ﷺ |
 | mawqūf | iliyokoma kwa Swahaba |
 | mursal | yenye njia iliyokatika (mursal) |
 | matruk | mpokezi aliyeachwa (matruk) |
