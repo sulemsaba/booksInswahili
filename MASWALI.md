@@ -3,7 +3,7 @@
 
 ## A. Maamuzi makubwa (mwongozo, Sehemu ya 15)
 
-1. **[?] Tafsiri ya aya za Qur'an — YA HARAKA ZAIDI (imesisitizwa tena na Kanuni 16 ya mhariri: «Qur'an inanukuliwa, haitafsiriwi»).** Sasa: tafsiri ya maana ya mfasiri (imetajwa wazi kwenye Kanuni). Chaguzi: kubaki hivyo / kunukuu Al-Farsy / King Fahd Complex. Uamuzi unahitajika kabla ya kitabu cha pili. *(28 Julai 2026)*
+1. **IMEAMULIWA na mtumiaji (28 Julai 2026): Al-Farsy, «Qurani Takatifu».** Aya 4 za mwanzo zimebadilishwa kwa nukuu halisi zilizothibitishwa kutoka nakala ya chapa (archive.org/details/swahili-quran-translation; Az-Zumar 9 ilikuwa tayari inalingana neno kwa neno). *(28 Julai 2026)*
 2. **[?] Mfumo wa matamshi.** Pendekezo (c) la mwongozo limetekelezwa kama rasimu: mfumo wa kitaaluma umebaki, na ukurasa wa ufunguo umeundwa (`02-ufunguo.html`). Thibitisha au chagua vinginevyo. *(28 Julai 2026)*
 3. **[?] Nambari za hadithi:** "Bukhari" tu, au "Bukhari, na. 71"? Sasa: bila nambari. *(28 Julai 2026)*
 4. **[?] Tarehe:** "689 H" peke yake (hali ya sasa), au pamoja na mwaka wa Kikristo? *(28 Julai 2026)*
@@ -15,7 +15,7 @@
 ## B. Shaka za matini
 
 9. **[?] Elimu, uk. 13 — hadithi «warithi wa Manabii».** IMETHIBITISHWA mtandaoni (28 Julai 2026): ni sehemu ya hadithi ndefu ya Abū ad-Dardāʾ; Abu Daud (3641), Tirmidhi (2682), Ibn Majah (223) — vyanzo: sunnah.com (orodha za makusanyo), dorar.net. Maelezo ya chini yamesasishwa, utambulisho umetajwa kuwa ni wa mfasiri. Swali linabaki wazi kwa wewe kulifuta baada ya kuridhika. KUMBUKA: nambari za hadithi zimetumika hapa kwa ULAZIMA wa utambulisho; sera ya jumla ya nambari bado ni swali la 3. *(28 Julai 2026)*
-10. **[?] Athar za Maswahaba (mf. kauli za Ibn ʿAbbas).** Jedwali la 8.1 linaainisha aya na hadithi (Kiarabu NDIYO) na "maneno ya wanazuoni" (HAPANA). Athar za Maswahaba hazikutajwa moja kwa moja; tumeziweka kundi la "maneno ya wanazuoni" (Kiswahili tu). Thibitisha. *(28 Julai 2026)*
+10. **IMEPITWA (28 Julai 2026):** uamuzi mpya wa mtumiaji (hati ya Kiarabu kwa Qur'an peke yake) umelifunga: athar, hadithi na mengine yote ni matamshi + Kiswahili. *(28 Julai 2026)*
 11. **[?] Tafsiri ya sheria "wahariri wakinyamaza, sema wamenyamaza" (8.3).** Tumeiandika kwa hadithi zisizo na hukumu yoyote yenye jina (mf. ya Safwan bin ʿAssal). Kwa hadithi za Bukhari, Muslim na Sahihi mbili hatukuiongeza, kwa kuwa chanzo chenyewe ni hukumu yenye jina. Thibitisha tafsiri hii. *(28 Julai 2026)*
 12. **[?] Jalada na ukurasa wa jina** kwa sasa ni ukurasa mmoja (rasimu). 11.5 inaorodhesha kurasa mbili tofauti. Toleo la mwisho lizitenganishe? *(28 Julai 2026)*
 13. **[?] Kurasa tupu za makusudi (8.8b–d):** ukaguzi wa PDF ya Kiarabu haujafanyika bado; utafanyika na kazi za Hatua 0 zilizosalia. *(28 Julai 2026)*

@@ -79,7 +79,7 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 | Jambo | Uamuzi (chaguo-msingi) | Sababu |
 |---|---|---|
 | العبودية ('ubudiyyah) | **uja** — mara ya kwanza: "uja (ʿubūdiyyah)" | Kiswahili safi, hueleweka |
-| Tafsiri ya aya za Qur'an | **Tafsiri ya maana ya mfasiri**, imetajwa wazi kwenye Kanuni za Mfasiri kuwa si nukuu ya tafsiri rasmi | Hatuna matini ya Al-Farsy ya kuithibitisha nukuu neno kwa neno; kunukuu bila uthibitisho ni hatari kubwa zaidi |
+| Tafsiri ya aya za Qur'an | **IMEAMULIWA (28 Julai 2026): kunukuu Al-Farsy, «Qurani Takatifu», neno kwa neno** pamoja na mabano yake; kila nukuu inathibitishwa kutoka nakala za chapa (`chanzo/alfarsy/`) | Uamuzi wa mtumiaji; Kanuni ya Dhahabu ya 16 |
 | المحبة (mahabba) | **mahaba** (kwa Allah) | "mapenzi" ina rangi ya kidunia |
 | الشوق (shawq) | **shauku** | imezoeleka |
 | الأنس (uns) | **unsi** — mara ya kwanza na ufafanuzi | hakuna neno la Kiswahili linalobeba maana kamili |

@@ -463,7 +463,7 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 13. Usirembeshe. Usimboreshe Ibn Qudāmah. Usiwe mshairi wala mhubiri. Baki mfasiri.
 14. Istilahi za Kiislamu zibaki hai: tawhidi si «umoja wa Mungu», swala si «maombi».
 15. Usahihi wa kisheria ni mtakatifu: wajibu / sunna / mubāḥ / makruhu / haramu havichanganywi kamwe.
-16. **Aya za Qur'an:** zinanukuliwa kutoka tafsiri iliyochaguliwa, hazitungwi upya. *(INASUBIRI uamuzi wa MASWALI #1; mpaka hapo: tafsiri ya maana ya mfasiri, ikitajwa wazi kwenye Kanuni za Mfasiri.)*
+16. **Aya za Qur'an:** zinanukuliwa NENO KWA NENO kutoka *Qurani Takatifu* ya Sheikh Abdullah Saleh Al-Farsy (uamuzi wa mtumiaji, 28 Julai 2026), pamoja na mabano yake na tahajia zake; chanzo (Sura: aya) kila mara. Nukuu huthibitishwa kutoka nakala za chapa zilizo `chanzo/alfarsy/`, kamwe si kwa kumbukumbu.
 17. Hadithi: tafsiri, kisha thibitisha chanzo, kisha hukumu kwa jina. Kamwe usikisie.
 18. Ukiwa na shaka: simama. Maana tatu zinazowezekana → utafiti, si ubunifu. `MASWALI.md` + [?].
 19. Soma kwa sauti kila ukurasa. Usiposoma kwa kawaida, andika upya.
@@ -471,3 +471,6 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 
 ## ORODHA YA POINTI 10 (kwa kila kifungu, kabla ya kukubaliwa)
 maana kamili (hakuna kilichoongezwa/kupungua) · hukumu za kisheria sahihi · sauti ya Ibn Qudāmah · Kiswahili cha imamu msomi · inasomeka kwa sauti · kamusi imefuatwa · aya kwa utaratibu uliokubaliwa · hadithi imethibitishwa · maelezo ya mfasiri yametengwa na ya wahariri · muundo uleule (Kiarabu → matamshi → maana → tanbihi)
+
+5. **Hati ya Kiarabu (uamuzi wa mtumiaji, 28 Julai 2026 — unachukua nafasi ya jedwali la 8.1):** hati ya Kiarabu inabaki kwa AYA ZA QUR'AN PEKE YAKE. Hadithi na mengine yote: matamshi (italiki) + maana + tanbihi ya chanzo na hukumu. Jina la Kiarabu la kitabu kwenye jalada linabaki kama utambulisho wa asili.
+6. **Ukamilishaji wa kitabu kizima kwa wakala (uamuzi wa mtumiaji, 28 Julai 2026):** tafsiri inaendelea kwa wakala (agents) wanaofuata sheria hizi zote, kila kipande kikikaguliwa na wakala-mhakiki mwenye nafasi ya sheikh wa Dar es Salaam kabla ya kukubaliwa. Idhini ya hatua kwa hatua ya mtumiaji imeondolewa; mtumiaji anapokea kitabu kilichokamilika. MASWALI.md inaendelea kukusanya hoja za mapitio yake ya mwisho.
