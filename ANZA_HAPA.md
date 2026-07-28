@@ -1,25 +1,20 @@
 # ANZA HAPA — Vikao vya Claude Code
 
-## Hali ya sasa (Julai 2026)
-- ✅ PDF ya Arna'ut ipo: `chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf` (kurasa 416, ina tabaka la maandishi).
-- ✅ TOC rasimu yenye kurasa: `toc.md` (alama ⚠️ = bado hazijathibitishwa kwa picha).
-- ✅ Dira ya kazi: `MAENDELEO.md` — hali ya kila kitabu.
-- ⬜ Hatua 0 kumalizika · ⬜ Kamusi v1.0 · ⬜ Sura ya mfano.
+## Hali ya sasa (28 Julai 2026)
+- ✅ Chanzo: `chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf` (kurasa 416).
+- ✅ TOC: `toc.md` · Dira: `MAENDELEO.md` · Kamusi: v0.2 (sehemu C imefungwa).
+- ✅ Tafsiri imeanza: dibaji ya mwandishi imekamilika; Kitabu cha Elimu 🔄 (uk. 13–14).
+- ✅ PDF ya kusoma: `matokeo/minhaj-kiswahili-rasimu.pdf` — jenga upya kwa
+  `python3 zana/jenga-pdf.py` baada ya kila kipande.
 - Ukiipata nakala ya Shamela (matini iliyochapwa, si scan), iweke `chanzo/` — ni bora kwa uthibitisho.
 
-## Prompt ya kikao kijacho (kumalizia Hatua 0)
-    Soma CLAUDE.md na MAENDELEO.md. Malizia Hatua 0: linganisha OCR na
-    picha za kurasa kadhaa (mwanzo, katikati, mwisho) — ripoti kwenye
-    ripoti-ocr.md. Kisha thibitisha alama zote ⚠️ za toc.md kwa kusoma
-    picha za kurasa husika. Usitafsiri chochote bado.
-
-## Prompt ya kila kikao cha kawaida (baada ya Hatua 0–2)
+## Prompt ya kila kikao
     Soma CLAUDE.md, MAENDELEO.md na kamusi/kamusi.md.
-    Endelea na kipande kinachofuata kwa mujibu wa MAENDELEO.md.
+    Endelea na kipande kinachofuata kwa mujibu wa MAENDELEO.md:
+    soma PICHA za kurasa husika za PDF (si OCR), tafsiri kwa
+    tabaka tatu, jenga PDF upya, sasisha MAENDELEO.md, kisha commit.
 
 ## Kumbuka
-- Kamusi ikifikia v1.0 (Hatua 1), maamuzi ya sehemu C yafungwe kwanza —
-  hasa tafsiri ya Qur'an ya nyumbani. Maamuzi hayo ni ya mtumiaji.
-- Sura ya mfano (Hatua 2): *Mlango wa Nia, Ikhlasi na Ukweli* (uk. 359–369).
-  Mpe sheikh aisome kabla ya kazi kubwa.
-- Commit baada ya kila kikao. Mwisho wa kikao: sasisha MAENDELEO.md.
+- Kiarabu cha kila kipande kinasomwa kutoka PICHA za kurasa — OCR ni ya kutafutia tu.
+- Neno jipya la istilahi likifungwa: liingize kamusi/kamusi.md na tarehe.
+- Mapitio ya sheikh (hasa aya na hadithi) yanabaki kupendekezwa kabla ya toleo la mwisho.

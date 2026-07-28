@@ -1,0 +1,141 @@
+/* Mtindo wa kitabu — Mukhtasar Minhaj al-Qasidin (Kiswahili) */
+
+@page {
+  size: 150mm 222mm;
+  margin: 19mm 16mm 17mm 16mm;
+  @bottom-center {
+    content: counter(page);
+    font-family: "Noto Serif", serif;
+    font-size: 8.5pt;
+    color: #444;
+  }
+  @top-center {
+    content: string(kichwa-kitabu);
+    font-family: "Noto Serif", serif;
+    font-style: italic;
+    font-size: 8pt;
+    color: #555;
+  }
+  @footnote {
+    border-top: 0.4pt solid #999;
+    padding-top: 2.5pt;
+    margin-top: 6pt;
+  }
+}
+
+@page jalada {
+  @bottom-center { content: none; }
+  @top-center { content: none; }
+}
+
+html { font-size: 10.5pt; }
+
+body {
+  font-family: "Noto Serif", serif;
+  color: #111;
+  line-height: 1.45;
+}
+
+/* ---------- Jalada (title page) ---------- */
+.jalada {
+  page: jalada;
+  page-break-after: always;
+  text-align: center;
+  margin-top: 28mm;
+}
+.jalada-ar {
+  font-family: "Noto Naskh Arabic";
+  font-size: 26pt;
+  margin-bottom: 8mm;
+}
+.jalada-jina { font-size: 17pt; letter-spacing: 0.06em; margin: 0 0 3mm 0; }
+.jalada-tafsiri { font-size: 11.5pt; margin-bottom: 12mm; }
+.jalada-mwandishi { font-size: 11.5pt; margin-bottom: 8mm; }
+.jalada-asili { font-size: 9.5pt; color: #333; margin-bottom: 10mm; }
+.jalada-toleo { font-size: 9pt; color: #333; margin-bottom: 14mm; }
+.jalada-hali { font-size: 9pt; letter-spacing: 0.2em; color: #8a2020; }
+
+/* ---------- Yaliyomo (TOC) ---------- */
+.yaliyomo { page-break-after: always; }
+.yaliyomo h1 { string-set: kichwa-kitabu "Yaliyomo"; }
+.yaliyomo ol { list-style: none; padding: 0; }
+.yaliyomo li { margin: 2.2mm 0; font-size: 10.5pt; }
+.yaliyomo a { text-decoration: none; color: #111; }
+.yaliyomo a::after {
+  content: leader(". ") target-counter(attr(href), page);
+  color: #333;
+}
+
+/* ---------- Vichwa ---------- */
+article.kitabu {
+  page-break-before: always;
+  counter-reset: fnref footnote;
+}
+.robo-kichwa {
+  text-align: center;
+  font-size: 10pt;
+  letter-spacing: 0.14em;
+  color: #6b5310;
+  margin: 0 0 4mm 0;
+}
+h1 {
+  font-size: 15.5pt;
+  text-align: center;
+  line-height: 1.3;
+  margin: 0 0 4mm 0;
+  string-set: kichwa-kitabu content();
+}
+h2 {
+  font-size: 11.5pt;
+  margin: 7mm 0 2.5mm 0;
+  color: #1e3a5f;
+}
+.kidokezo { font-size: 8.5pt; color: #555; text-align: center; margin-bottom: 6mm; }
+
+/* ---------- Tabaka tatu ---------- */
+.kifungu { margin-bottom: 4.5mm; }
+.ar {
+  font-family: "Noto Naskh Arabic";
+  font-size: 13pt;
+  line-height: 1.95;
+  direction: rtl;
+  text-align: right;
+  margin: 0 0 1.8mm 0;
+}
+.aya { font-size: 13.5pt; }
+.tr { font-style: italic; color: #2a2a2a; font-size: 9.8pt; margin: 0 0 1.2mm 0; }
+.sw { text-align: justify; margin: 0; }
+.sw em { }
+.maana { }
+.inaendelea { font-style: italic; color: #666; text-align: center; margin-top: 6mm; }
+.kanuni-orodha li { margin-bottom: 2.5mm; text-align: justify; }
+
+/* ---------- Maelezo ya chini (footnotes) ---------- */
+a.fnref {
+  counter-increment: fnref;
+  text-decoration: none;
+  color: #14538b;
+}
+a.fnref::after {
+  content: counter(fnref);
+  vertical-align: super;
+  font-size: 6.8pt;
+  font-weight: bold;
+}
+.fn {
+  float: footnote;
+  font-size: 8.2pt;
+  line-height: 1.35;
+  text-align: justify;
+  font-family: "Noto Serif", serif;
+  direction: ltr;
+}
+.fn::footnote-call { content: ""; }
+.fn::footnote-marker { content: counter(footnote) ". "; font-weight: bold; }
+
+/* Herufi za Kiarabu ndani ya matini ya Kilatini */
+.ar-inline {
+  font-family: "Noto Naskh Arabic";
+  unicode-bidi: embed;
+  direction: rtl;
+}

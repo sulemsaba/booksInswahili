@@ -19,13 +19,20 @@ minhaj-tafsiri-workspace/
 │   ├── mukhtasar-minhaj-alqasidin-arnaut.pdf   ← chanzo kikuu (kurasa 416)
 │   └── ocr-ghafi-usiitumainie.txt              ← OCR ghafi ya PDF nzima — ya kutafutia
 │                                                  TU, kamwe si chanzo cha tafsiri
-└── sura/              ← tafsiri, faili moja kwa kitabu (majina: tazama MAENDELEO.md)
-    ├── 00-utangulizi/
-    ├── robo-1-ibada/
-    ├── robo-2-ada/
-    ├── robo-3-muhlikat/
-    └── robo-4-munjiyat/
+├── sura/              ← tafsiri, faili moja kwa kitabu, muundo wa HTML (majina: MAENDELEO.md)
+│   ├── 00-utangulizi/     (jalada, kanuni za mfasiri, kuhusu toleo, dibaji ya mwandishi)
+│   ├── robo-1-ibada/
+│   ├── robo-2-ada/
+│   ├── robo-3-muhlikat/
+│   └── robo-4-munjiyat/
+├── zana/
+│   ├── jenga-pdf.py   ← hujenga PDF: python3 zana/jenga-pdf.py (WeasyPrint)
+│   └── mtindo.css     ← muundo wa kitabu (fonti, kurasa, maelezo ya chini)
+└── matokeo/
+    └── minhaj-kiswahili-rasimu.pdf   ← PDF ya kusomwa na mtumiaji (jengwa upya kila kikao)
 ```
+
+**Muundo wa faili za sura (HTML):** kila kifungu ni `<section class="kifungu">` yenye `<p class="ar">` (Kiarabu kilichothibitishwa kwa PICHA ya ukurasa, si OCR), kisha `<p class="sw">` (Kiswahili; ndani yake transliteration ya aya/hadithi kwa `<em>«…»</em>`). Maelezo ya chini: `<a class="fnref" id="fnr-XX" href="#fn-XX"></a><span class="fn" id="fn-XX">…</span>` — namba zinajipanga zenyewe, alama inabofyeka, maelezo hukaa chini ya ukurasa wake. Kiarabu ndani ya matini ya Kilatini kifungwe `<span class="ar-inline">`.
 
 **Muundo wa kitabu chenyewe:** robo nne (Ibada · Ada · Muhlikat · Munjiyat), vitabu/milango 31 + dibaji — tazama `toc.md`.
 
@@ -43,8 +50,10 @@ minhaj-tafsiri-workspace/
 | Allah | Subhanahu wa Ta'ala |
 | Wanazuoni | Allah amrehemu |
 | Maswahaba | Allah amuwie radhi |
-| Lugha | Kiswahili Sanifu + msamiati wa Kiislamu unaojulikana Dar es Salaam |
-| Faili la mwisho | Word (.docx) |
+| Lugha | Kiswahili Sanifu + msamiati wa Kiislamu unaojulikana Dar es Salaam. Tafsiri ni maana-kwa-maana, KAMWE si neno-kwa-neno |
+| Faili la mwisho | **PDF** (uamuzi wa mtumiaji, Julai 2026) — hujengwa kwa `python3 zana/jenga-pdf.py` → `matokeo/minhaj-kiswahili-rasimu.pdf` |
+| Maelezo ya chini | Ni ya kweli kitaaluma: yanakaa CHINI YA UKURASA WAO wenyewe, alama ya juu inabofyeka (link) kuruka hadi kwenye maelezo (uamuzi wa mtumiaji, Julai 2026) |
+| Mtiririko wa kazi | Tafsiri inakwenda kwa mfuatano kuanzia mwanzo wa kitabu; hatua ya "sura ya mfano ikubaliwe kwanza" imeondolewa kwa agizo la mtumiaji. Mapitio ya sheikh yanabaki kupendekezwa mwishoni |
 
 **1a. Haki za toleo (muhimu):** Maneno ya Ibn Qudamah ni mali ya umma (public domain). Lakini toleo la kisasa lina vitu vya mhariri — dibaji yake, maelezo yake ya footnotes, mpangilio. **Hatunakili maelezo ya Arna'ut neno kwa neno.** Tunatumia *hukumu* zake za hadithi kama taarifa, kwa maneno yetu: *"Arna'ut ameihukumu kuwa sahihi."*
 
@@ -72,12 +81,11 @@ Kabla ya kutafsiri kila sehemu:
 - Neno la Kiarabu → tahajia ya Kiswahili iliyofungwa. Inaamuliwa mara moja, haibadiliki.
 - **Sera ya uthibitisho wa maneno:** neno lolote tusilokuwa na uhakika nalo linatafutwa kwanza — tunaangalia jinsi linavyotumika kwenye machapisho ya Kiislamu ya Tanzania — kabla ya kulifunga. Lisilopatikana au lenye utata: linaamuliwa na wewe (na sheikh ikiwezekana).
 
-**HATUA 2 — Sura ya mfano** (pendekezo: mlango wa *nia na ikhlasi*)
-- Unaisoma; ikiwezekana sheikh wa karibu anaipitia. Marekebisho yanaingia kwenye kamusi. **Hatuendelei mpaka mtindo ukubaliwe.**
+**HATUA 2 — Sura ya mfano** — *IMEONDOLEWA kwa agizo la mtumiaji (Julai 2026):* tafsiri inakwenda kwa mfuatano kuanzia mwanzo, bila kusubiri idhini ya mtindo. Mapitio (ya mtumiaji, na ya sheikh hasa kwa aya na hadithi) yanabaki kwenye Hatua 5.
 
 **HATUA 3 — Tafsiri kitabu kwa kitabu**, kwa mfuatano wa `MAENDELEO.md`; kikao kimoja = kipande kimoja kamili (kanuni iko MAENDELEO.md). Kabla ya kipande: Hatua 0b. Baada ya kipande: sasisha hali kwenye MAENDELEO.md + git commit.
 
-**HATUA 4 — Kuunganisha:** jalada, ukurasa wa jina, **ukurasa wa kanuni za mfasiri** (tazama §6), TOC, sura, kamusi nyuma. Ukaguzi wa uthabiti wa mwisho.
+**HATUA 4 — Kuunganisha:** PDF inajengwa tangu sasa kila kikao (`python3 zana/jenga-pdf.py`); jalada, kanuni za mfasiri na TOC tayari vimo. Kilichobaki cha mwisho: kamusi ya istilahi nyuma ya kitabu + ukaguzi wa uthabiti wa matini yote.
 
 **HATUA 5 — Mapitio:** wewe, kisha (ushauri wa dhati) sheikh mmoja au wawili wa Dar — hasa aya na hadithi.
 
@@ -130,18 +138,17 @@ Mwanzoni mwa kitabu cha mwisho, ukurasa mfupi unaeleza:
 - Istilahi za ibada hazibadilishwi kwa maneno ya kawaida (swala si "maombi").
 - Rejista ya heshima, tulivu, ya mawaidha — kama vitabu vya dini vya Dar, si ya kitaaluma baridi wala ya mtaani.
 
-**Fonti (Word document):**
+**Chapa (PDF — inasimamiwa na `zana/mtindo.css`, WeasyPrint):**
 | Sehemu | Fonti | Ukubwa |
 |---|---|---|
-| Matini ya Kiswahili | Book Antiqua (mbadala: Georgia) | 11.5 pt |
-| Kiarabu (matini na aya) | **Amiri** — nitaiweka ndani ya faili (embed); mbadala wa Windows: Traditional Arabic | 16–18 pt |
-| Transliteration | italiki ya fonti ya matini | 11 pt |
-| Vichwa vya misingi | Cambria Bold | 16 pt |
-| Vichwa vya sehemu (2.1, 2.2…) | Cambria Bold | 13 pt |
-| Footnotes | fonti ya matini | 9.5 pt |
+| Matini ya Kiswahili | Noto Serif | 10.5 pt |
+| Kiarabu (matini na aya) | Noto Naskh Arabic | 13–13.5 pt |
+| Transliteration | italiki ya Noto Serif | 9.8 pt |
+| Maelezo ya chini | Noto Serif | 8.2 pt |
 
-- Kiarabu: right-to-left, uakifishaji wa Kiarabu, aya ndani ya alama ﴿ ﴾.
-- Nafasi ya mistari 1.15; kurasa zenye nambari; TOC ya moja kwa moja (auto).
+- Ukubwa wa ukurasa 150×222 mm (kama toleo la Kiarabu); namba za kurasa; kichwa cha kitabu juu ya kila ukurasa; TOC ya moja kwa moja yenye namba za kurasa zinazobofyeka.
+- Kiarabu: right-to-left, aya ndani ya alama ﴿ ﴾.
+- Maelezo ya chini: chini ya ukurasa wao, mstari wa kuyatenga, alama inayobofyeka; namba zinaanza upya kila kitabu.
 
 ---
 

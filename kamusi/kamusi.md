@@ -31,6 +31,10 @@
 | الوضوء | udhu | |
 | التوبة | tawba | |
 | الرياء | riyaa | aa mbili |
+| المريد | muridi | mara ya kwanza: footnote ya ufafanuzi (mwenye kuitaka njia ya Akhera) |
+| الإحسان | ihsani | mara ya kwanza: "ihsani (wema)" |
+| السلف الصالح | Salafus-Swalih | pamoja na tafsiri: "wema waliotangulia" |
+| العزلة | kujitenga (ʿuzlah) | tafsiri + istilahi kwa mabano mara ya kwanza |
 
 ## B. Heshima (honorifics — LOCKED)
 
@@ -41,20 +45,23 @@
 | Wanazuoni waliotangulia | Allah amrehemu |
 | Maswahaba | Allah amuwie radhi |
 
-## C. Yanayosubiri uamuzi (PENDING — usifunge bila mtumiaji)
+## C. Yaliyofungwa kwa chaguo-msingi (Julai 2026 — mtumiaji akitaka, hubadilishwa)
 
-| Jambo | Chaguzi | Uamuzi |
+Mtumiaji aliagiza kazi ya tafsiri iendelee bila kusubiri; maamuzi haya yamefungwa
+kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
+
+| Jambo | Uamuzi (chaguo-msingi) | Sababu |
 |---|---|---|
-| العبودية ('ubudiyyah) | uja / ubudiyya / utumwa wa Allah | ☐ |
-| Tafsiri ya Qur'an ya nyumbani | Al-Farsy (Qurani Takatifu) — pendekezo / King Fahd Complex | ☐ |
-| المحبة (mahabba) | mahaba / mapenzi (kwa Allah) | ☐ |
-| الشوق (shawq) | shauku | ☐ thibitisha matumizi |
-| الأنس (uns) | ☐ tafuta matumizi ya Tanzania | ☐ |
-| الرضا (rida) | radhi / kuridhika | ☐ |
+| العبودية ('ubudiyyah) | **uja** — mara ya kwanza: "uja (ʿubūdiyyah)" | Kiswahili safi, hueleweka |
+| Tafsiri ya aya za Qur'an | **Tafsiri ya maana ya mfasiri**, imetajwa wazi kwenye Kanuni za Mfasiri kuwa si nukuu ya tafsiri rasmi | Hatuna matini ya Al-Farsy ya kuithibitisha nukuu neno kwa neno; kunukuu bila uthibitisho ni hatari kubwa zaidi |
+| المحبة (mahabba) | **mahaba** (kwa Allah) | "mapenzi" ina rangi ya kidunia |
+| الشوق (shawq) | **shauku** | imezoeleka |
+| الأنس (uns) | **unsi** — mara ya kwanza na ufafanuzi | hakuna neno la Kiswahili linalobeba maana kamili |
+| الرضا (rida) | **radhi** (kuridhika kwa muktadha) | imezoeleka |
 
 ## D. Utaratibu wa kuongeza neno jipya
 1. Tafuta jinsi linavyotumika kwenye machapisho ya Kiislamu ya Tanzania (Al-Farsy, register ya BAKWATA, uislamu.org).
 2. Kagua nani kachapisha chanzo kabla ya kukitumia kama kigezo (sera ya fitna, CLAUDE.md §5).
 3. Lenye utata: muulize mtumiaji. Kisha liingize sehemu A na tarehe.
 
-*Historia: v0.1 — mbegu, imetengenezwa kwenye kikao cha upangaji (Julai 2026).*
+*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi kwa agizo la mtumiaji la kuendelea na tafsiri; maneno ya dibaji yameongezwa sehemu A (28 Julai 2026).*
