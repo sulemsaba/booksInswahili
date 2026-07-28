@@ -423,3 +423,13 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 
 *Bismillah. Ubora kwanza, kasi baadaye.*
 *Allah atupe tawfiq, na atusamehe kasoro zetu.*
+
+
+---
+
+# NYONGEZA YA MTUMIAJI (28 Julai 2026 — inachukua nafasi ya sheria zinazogongana nayo)
+
+1. **Sheria iliyofutwa:** ulinzi wa kila kiunganishi cha mwandishi (kila وـ/فـ/ثم kuwa «Na/Basi/Kisha»). Viunganishi vinatumika pale tu Kiswahili kinavyovihitaji.
+2. **Sheria mpya (kwa maneno ya mtumiaji): «Usikate sentensi — bali iandike kwa mpangilio mzuri wa Kiswahili.»** Sentensi HAIGAWANYWI vipande vifupi; inaundwa upya kwa mpangilio wa maneno wa Kiswahili fasaha: mpangilio wa asili wa maneno, virejeshi vya kawaida, msamiati wa kila siku. Maana inabaki kamili. Kazi ya mfasiri si kuzalisha sarufi ya Kiarabu kwa Kiswahili, bali kuzalisha MAANA ya mwandishi kwa Kiswahili fasaha.
+3. **Vinavyobaki vitakatifu:** maudhui yote bila kupungua; fomula za mwandishi (swali la balagha libaki swali, wito ubaki wito, swali-na-jibu libaki hivyo); hali tano za mtindo kwa ujumla wake; istilahi za kamusi.
+4. Kazi iliyokamilika imerekebishwa upya kwa mtindo huu (28 Julai 2026).

@@ -6,7 +6,7 @@
 **LAKINI:** sampuli ya sasa (dibaji + elimu sehemu ya 1) inasubiri idhini ya mtumiaji. Usianze sehemu mpya kabla ya idhini (mwongozo 12.2).
 
 ## Kanuni ya tafsiri, si maelezo (agizo la mtumiaji, 28 Julai 2026)
-**Tunatafsiri; hatuelezei maana.** Vifaa vya mwandishi mwenyewe vinatafsiriwa kama alivyoviandika: fomula zake za maswali (فإن قيل = «Basi ikisemwa», فالجواب: أنّ = «Jibu ni kwamba»), viunganishi vyake (وـ mwanzoni mwa kifungu = «Na…»), na mpangilio wake wa kauli. Hatuongezi maneno yasiyokuwapo («huenda», «wengine», «nyingi»), wala hatugeuzi fomula yake kuwa maelezo yetu. Mtindo wake halisi wa uandishi unahifadhiwa kila kitu.
+**Tunatafsiri maana, kwa Kiswahili fasaha (agizo la 28 Julai, NYONGEZA ya CLAUDE.md).** Maudhui yote na fomula za mwandishi (maswali ya balagha, wito, swali-na-jibu) vinahifadhiwa; hakuna kinachoongezwa wala kupunguzwa katika MAANA. Lakini sarufi ya Kiarabu haiamuli Kiswahili chetu: **sentensi hazikatwi vipande — zinaandikwa kwa mpangilio mzuri wa Kiswahili** (mpangilio wa maneno wa asili, virejeshi vya kawaida), na viunganishi vinatumika pale tu vinapohitajika. (Sheria ya awali ya «kila وـ ni Na» imefutwa na mtumiaji; «usikate sentensi» inabaki kwa msisitizo wake.)
 
 ## Uthibitisho wa mtandaoni (agizo la mtumiaji, 28 Julai 2026)
 Kila kikao, kabla ya kuonyesha kipande:
