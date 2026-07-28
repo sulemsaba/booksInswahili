@@ -82,6 +82,7 @@ def jenga():
     """
     import shutil
     import subprocess
+    import tempfile
 
     vipande = kusanya()
     if not vipande:
@@ -135,9 +136,11 @@ def jenga():
     faili_html = MZIZI / "zana" / ".kitabu-build.html"
     faili_html.write_text(html, encoding="utf-8")
     try:
+        profile = tempfile.mkdtemp(prefix="jenga-chromium-")
         amri = [
             chromium,
             "--headless=new",
+            f"--user-data-dir={profile}",
             "--disable-gpu",
             "--no-pdf-header-footer",
             "--export-tagged-pdf",
@@ -150,6 +153,7 @@ def jenga():
             sys.exit(f"Chromium imeshindwa:\n{r.stderr[-2000:]}")
     finally:
         faili_html.unlink(missing_ok=True)
+        shutil.rmtree(profile, ignore_errors=True)
     print(f"Imekamilika: {pdf}")
 
 

@@ -21,7 +21,7 @@
 **Kazi za Hatua 0 zilizosalia:** kuthibitisha alama ⚠️ za `toc.md` kwa picha za kurasa; ukaguzi wa kurasa tupu za mchapishaji (mwongozo 8.8d).
 
 ## Nanga ya mtindo
-Hakuna sehemu iliyoidhinishwa bado. Sampuli inayosubiri idhini: `04-dibaji-ya-mwandishi.html` + `01-elimu.html`. Ikishaidhinishwa, hizo ndizo nanga.
+Hakuna sehemu iliyoidhinishwa bado. Nanga ya rejista: matini ya sampuli ya mtumiaji ndani ya `04-dibaji-ya-mwandishi.html` (ukurasa wa kwanza wa dibaji, 28 Julai 2026). Sehemu iliyobaki ya dibaji na Elimu zimefuatishwa na rejista hiyo; zinasubiri idhini.
 
 ## Zana (kiufundi)
 - Jenga PDF: `python3 zana/jenga-pdf.py` → `matokeo/minhaj-kiswahili-rasimu.pdf`. Injini: Chromium + Paged.js; fonti zimewekwa ndani (Amiri kwa Kiarabu, P052 kwa Kiswahili, Caladea kwa vichwa).
@@ -34,3 +34,4 @@ Hakuna sehemu iliyoidhinishwa bado. Sampuli inayosubiri idhini: `04-dibaji-ya-mw
 - **28 Julai 2026 (2):** dibaji ya mwandishi + Elimu uk. 13–14 zimetafsiriwa; zana ya PDF imejengwa.
 - **28 Julai 2026 (3):** mtindo v1.2 (bila em dash; masimulizi Kiswahili tu); injini imehamia Chromium + Paged.js baada ya kugundua Kiarabu kilichoharibika; Amiri imewekwa.
 - **28 Julai 2026 (4):** MWONGOZO v3.0 umeingizwa kama CLAUDE.md; HALI.md na MASWALI.md zimeanzishwa (zinachukua nafasi ya MAENDELEO.md na ANZA_HAPA.md); khutba ya dibaji imerudishiwa mtiririko (4.4); alama za hadithi » «; ukurasa wa ufunguo umeundwa; chapa kwa 11.1; maelezo ya hadithi yamefuatishwa na 8.3 na 12.3.
+- **28 Julai 2026 (5):** rejista mpya kwa sampuli ya mtumiaji: Mwenyezi Mungu (si Allah), viwakilishi vya heshima kwa herufi kubwa, wanachuoni, majina kwa alama kamili za matamshi, mnyororo wa nasaba KAMILI bila kufupishwa; dibaji imeandikwa upya, matini ya sampuli ya mtumiaji imetumika neno kwa neno; kamusi v0.4; ujenzi umeimarishwa (profaili ya Chromium ya kujitegemea).

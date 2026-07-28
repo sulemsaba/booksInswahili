@@ -36,15 +36,32 @@
 | السلف الصالح | Salafus-Swalih | pamoja na tafsiri: "wema waliotangulia" |
 | العزلة | kujitenga (ʿuzlah) | tafsiri + istilahi kwa mabano mara ya kwanza |
 
-## B. Heshima (honorifics — LOCKED; muundo wa mabano kwa agizo la mtumiaji, §10a ya CLAUDE.md)
+## B. Heshima na jina la Mwenyezi Mungu (LOCKED — kwa sampuli ya mtumiaji, 28 Julai 2026)
 
 | Kwa | Fomula |
 |---|---|
+| الله (katika matini ya Kiswahili) | **Mwenyezi Mungu** (si "Allah") |
+| Viwakilishi vya Mwenyezi Mungu | herufi kubwa: **Yake, Wake, Kwake, Vyake, Peke Yake** |
+| تعالى | **Mtukufu** (mf. "Mwenyezi Mungu Mtukufu") |
+| Matamshi ya aya/hadithi | jina hubaki kama linavyotamkwa: *Allāh* |
 | Mtume Muhammad | (Rehema na Amani zimshukie), au alama ﷺ |
-| Allah | Subhanahu wa Ta'ala |
-| Wanazuoni waliotangulia | (Allah amrehemu) |
-| Maswahaba | (Allah amuwie radhi); wawili: (Allah awawie radhi wote wawili) |
+| صلى الله عليه — kitenzi | "Mwenyezi Mungu amswalie" (mf. dibaji: "…amswalie yeye pamoja na ahli zake…") |
+| Wanachuoni waliotangulia | (Mwenyezi Mungu amrehemu) |
+| Maswahaba | (Mwenyezi Mungu amridhie); wawili: (Mwenyezi Mungu awaridhie wote wawili) |
 | Nabii mwingine | (Amani imshukie) |
+
+## B2. Maneno ya rejista yaliyofungwa kwa sampuli ya mtumiaji (28 Julai 2026)
+
+| Neno | Matumizi |
+|---|---|
+| wanachuoni / mwanachuoni | si "wanazuoni" |
+| uongofu | si "uwongofu" |
+| zahidi | mtu (الزاهد); dhana inabaki "zuhudi" |
+| allama | العلّامة — hubaki kama lilivyo |
+| arifu wa Mwenyezi Mungu | العارف |
+| mwenye kutenda elimu yake | العامل |
+| himdi | الحمد katika muktadha wa "ninamhimidi kwa himdi ya…" |
+| Tanbihi | jina la sehemu ya maelezo ya chini |
 
 ## C. Yaliyofungwa kwa chaguo-msingi (Julai 2026 — mtumiaji akitaka, hubadilishwa)
 
@@ -83,11 +100,11 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 | sarabi | sarabi; maelezo ya chini dibajini |
 
 ## C4. Majina ya watu na mahali (mwongozo 10.2a)
-Tahajia zinazotumika sasa zimeorodheshwa `MASWALI.md` swali la 5 — **bado hazijafungwa**; zikithibitishwa na mtumiaji zitahamishiwa hapa.
+**Mtindo umewekwa na sampuli ya mtumiaji (28 Julai 2026):** matamshi kamili ya kitaaluma yenye alama: *Najm ad-Dīn Abū al-ʿAbbās Aḥmad* · *ʿIzz ad-Dīn Abū ʿAbdillāh Muḥammad* · *Shams ad-Dīn Abū Muḥammad ʿAbd ar-Raḥmān* · *Ibn Qudāmah al-Maqdisī al-Ḥanbalī* · *Jamāl ad-Dīn Ibn al-Jawzī* · *al-Ghazālī*. **bin** ndani ya nasaba; **Ibn** kwa majina maarufu; **Abū** (pamoja na alama ndefu). Orodha kamili ya majina yote inasubiri uthibitisho (`MASWALI.md` swali la 5).
 
 ## D. Utaratibu wa kuongeza neno jipya
 1. Tafuta jinsi linavyotumika kwenye machapisho ya Kiislamu ya Tanzania (Al-Farsy, register ya BAKWATA, uislamu.org).
 2. Kagua nani kachapisha chanzo kabla ya kukitumia kama kigezo (sera ya fitna, CLAUDE.md §5).
 3. Lenye utata: muulize mtumiaji. Kisha liingize sehemu A na tarehe.
 
-*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi kwa agizo la mtumiaji la kuendelea na tafsiri; maneno ya dibaji yameongezwa sehemu A (28 Julai 2026).*
+*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026).*
