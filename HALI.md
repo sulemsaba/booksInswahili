@@ -28,6 +28,31 @@
 
 **Kazi za Hatua 0 zilizosalia:** kuthibitisha alama ⚠️ za `toc.md` kwa picha za kurasa; ukaguzi wa kurasa tupu za mchapishaji (mwongozo 8.8d).
 
+## Ramani ya vipande (camps) — makadirio; mshono halisi huamuliwa ndani ya matini
+Kanuni: kipande kimoja kwa kikao (mwongozo 12.2), mshono wa asili tu. Idadi hapa ni makadirio ya kurasa 5–7 za Kiarabu kwa kipande; mshono halisi unafuata hoja, si namba ya ukurasa.
+
+| Eneo | Kurasa | Vipande (mak.) | Hali |
+|---|---|---|---|
+| Mwanzo (jalada, kanuni, ufunguo, toleo, dibaji) | 1–12 | — | ✅ vimekamilika, vinasubiri idhini |
+| ROBO 1: Elimu (iliyobaki) | 14–26 | 2–3 | 🔄 sehemu 1 imekamilika |
+| ROBO 1: Twahara na Swala | 27–36 | 2 | ⬜ |
+| ROBO 1: Zaka · Swaumu · Hija · Adabu za Qur'an | 37–54 | 4 | ⬜ |
+| ROBO 1: Adhkari na Dua | 55–70 | 2–3 | ⬜ |
+| ROBO 2: Utangulizi + Ndoa | 71–81 | 2 | ⬜ |
+| ROBO 2: Kuchuma na maisha | 82–96 | 2 | ⬜ |
+| ROBO 2: Usuhuba na udugu | 97–122 | 3–4 | ⬜ |
+| ROBO 2: Amri na makatazo | 123–147 | 3–4 | ⬜ |
+| ROBO 3: vitabu 9 | 148–250 | 17–19 | ⬜ (mipaka ⚠️ ya toc.md ithibitishwe kwanza) |
+| ROBO 4: vitabu/milango 11 | 251–408 | 23–26 | ⬜ |
+| MWISHO: kamusi nyuma ya kitabu | — | 1 | ⬜ |
+| MWISHO: ukaguzi wa uthabiti wa kitabu kizima (istilahi, mtindo, namba) | — | 2 | ⬜ |
+| MWISHO: kurasa tupu za makusudi + muundo wa mwisho (8.8) | — | 1 | ⬜ |
+| MWISHO: mapitio ya mtumiaji + sheikh, marekebisho | — | kadri yanavyohitajika | ⬜ |
+
+**Jumla ya makadirio: vipande ~65–70 vilivyobaki.** Vituo vya ukaguzi: kila vipande 5 = ukaguzi wa uthabiti (12.7); kila Kitabu kikikamilika = usomaji wa kitabu kizima; kila Robo ikikamilika = ukaguzi wa kamusi dhidi ya matini.
+
+**Muungano (merge):** hakuna "siku ya kuunganisha" ya hatari mwishoni. `python3 zana/jenga-pdf.py` huunganisha KILA kipande kilichopo kuwa PDF moja kamili kila inapojengwa; kitabu kizima kipo muda wote, kinakua kila kikao. Hatua za MWISHO hapo juu ndizo za kukikamilisha rasmi.
+
 ## Nanga ya mtindo
 Hakuna sehemu iliyoidhinishwa bado. Nanga ya rejista: matini ya sampuli ya mtumiaji ndani ya `04-dibaji-ya-mwandishi.html` (ukurasa wa kwanza wa dibaji, 28 Julai 2026). Sehemu iliyobaki ya dibaji na Elimu zimefuatishwa na rejista hiyo; zinasubiri idhini.
 
