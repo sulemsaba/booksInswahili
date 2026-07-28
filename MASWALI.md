@@ -3,7 +3,7 @@
 
 ## A. Maamuzi makubwa (mwongozo, Sehemu ya 15)
 
-1. **[?] Tafsiri ya aya za Qur'an — YA HARAKA ZAIDI.** Sasa: tafsiri ya maana ya mfasiri (imetajwa wazi kwenye Kanuni). Chaguzi: kubaki hivyo / kunukuu Al-Farsy / King Fahd Complex. Uamuzi unahitajika kabla ya kitabu cha pili. *(28 Julai 2026)*
+1. **[?] Tafsiri ya aya za Qur'an — YA HARAKA ZAIDI (imesisitizwa tena na Kanuni 16 ya mhariri: «Qur'an inanukuliwa, haitafsiriwi»).** Sasa: tafsiri ya maana ya mfasiri (imetajwa wazi kwenye Kanuni). Chaguzi: kubaki hivyo / kunukuu Al-Farsy / King Fahd Complex. Uamuzi unahitajika kabla ya kitabu cha pili. *(28 Julai 2026)*
 2. **[?] Mfumo wa matamshi.** Pendekezo (c) la mwongozo limetekelezwa kama rasimu: mfumo wa kitaaluma umebaki, na ukurasa wa ufunguo umeundwa (`02-ufunguo.html`). Thibitisha au chagua vinginevyo. *(28 Julai 2026)*
 3. **[?] Nambari za hadithi:** "Bukhari" tu, au "Bukhari, na. 71"? Sasa: bila nambari. *(28 Julai 2026)*
 4. **[?] Tarehe:** "689 H" peke yake (hali ya sasa), au pamoja na mwaka wa Kikristo? *(28 Julai 2026)*
@@ -23,3 +23,4 @@
 15. **[?] Elimu, uk. 15: «Amesema mtunzi».** Matini inasema «قال المصنف» bila jina. Katika dibaji, wahariri walibainisha kuwa «mtunzi» ni Ibn al-Jawzī; hapa hawakubainisha. Tumetafsiri «mtunzi» bila kuongeza jina. Thibitisha kama tuweke [Ibn al-Jawzī] kwa mabano. *(28 Julai 2026)*
 16. Majina mapya yaliyotumika kipande cha 2 (yanasubiri uthibitisho wa orodha, swali la 5): Abū Mūsā · Anas bin Mālik · Muʿādh bin Jabal · al-Ḥasan · Kaʿb · Abū Bakra · al-Hāfiẓ al-Mizzī. *(28 Julai 2026)*
 17. **[?] Mapitio ya mhariri wa nje (28 Julai):** mapendekezo mawili yanagongana na maagizo yaliyopo: (a) kukata sentensi ndefu — mwongozo Sehemu ya 3 unasema «Usikate sentensi» na Hali ya 1 inalinda mtiririko wa khutba; tumeyakubali TU kwa vifungu vya maelezo (Hali ya 4). (b) kuondoa baadhi ya viunganishi (Na, Kisha) — agizo lako la «hifadhi viunganishi vyake» linakataa. **IMEAMULIWA na mtumiaji (28 Julai): mapitio yamefuatwa; sheria za zamani zimefutwa (NYONGEZA ya CLAUDE.md); kazi iliyokamilika imerekebishwa upya.** Swali linabaki hapa mpaka wewe ulifute. *(28 Julai 2026)*
+18. **[?] Kanuni ya 6 ya mhariri («sentensi ikizidi maneno ~30–40, igawanywe») inagongana na agizo lako la 28 Julai: «usikate sentensi bali iandike kwa mpangilio mzuri wa Kiswahili». Pendekezo la mfasiri: agizo LAKO libaki; urefu wa maneno 30–40 utumike tu kama kengele ya kusoma-kwa-sauti (Rule 19), si kigezo cha kukata moja kwa moja. Thibitisha. *(28 Julai 2026)*

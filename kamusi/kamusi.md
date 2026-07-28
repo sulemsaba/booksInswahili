@@ -42,6 +42,7 @@
 | المناسك | ibada za Hija (manāsik) | |
 | الحجامة | kuumika (ḥijāma) | |
 | المباح | halali (mubāḥ) | tofautisha na halali ya jumla kwa muktadha |
+| الخشية | uchaji | tofauti na khofu (الخوف) |
 
 ## B. Heshima na jina la Mwenyezi Mungu (LOCKED — kwa sampuli ya mtumiaji, 28 Julai 2026)
 

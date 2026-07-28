@@ -16,6 +16,12 @@ Kila kikao, kabla ya kuonyesha kipande:
 4. **Chujio la fitna (mwongozo 9.4):** kabla ya kutumia tovuti yoyote kama kigezo, angalia nani kachapisha. Tovuti hutumika kwa USHAHIDI wa tahajia/taarifa tu, kamwe si kigezo cha itikadi.
 5. Lisilothibitika mtandaoni: `MASWALI.md` + `[?]`, kama kawaida.
 
+## Rule 0: pasi tatu kwa kila aya/kifungu (mapitio ya mhariri, 28 Julai 2026)
+1. **Kuelewa:** soma Kiarabu mpaka uweze kueleza maana yake bila kutazama matini.
+2. **Rasimu:** andika tafsiri aminifu, hata ikiwa bado inakaribiana na muundo wa Kiarabu.
+3. **Kung'arisha:** iandike kwa mpangilio mzuri wa Kiswahili (bila kukata sentensi — agizo la mtumiaji), ondoa marudio yasiyo ya makusudi, hakikisha kila maana imesalimika. **Soma kwa sauti:** kisichosomeka kwa kawaida, kinaandikwa upya.
+Kisha orodha ya pointi 10 kwa kila kifungu: maana kamili? · hukumu za kisheria sahihi? · sauti ya Ibn Qudāmah? · Kiswahili cha imamu msomi? · kinasomeka kwa sauti? · kamusi imefuatwa? · aya kwa utaratibu uliokubaliwa? · hadithi imethibitishwa? · maelezo ya mfasiri yametengwa na ya wahariri? · muundo (Kiarabu→matamshi→maana→tanbihi) uleule?
+
 ## Usomaji wa mstari kwa mstari kabla ya PDF (agizo la mtumiaji, 28 Julai 2026)
 Kabla ya kujenga PDF ya kipande chochote:
 1. Rudia picha za kurasa za Kiarabu MSTARI KWA MSTARI, ukilinganisha na tafsiri: kila sentensi ya Kiarabu iwe na mwenzake kamili kwenye tafsiri. Hakuna mstari unaorukwa, hakuna nusu-sentensi inayopotea.
@@ -90,3 +96,4 @@ Hakuna sehemu iliyoidhinishwa bado. Nanga ya rejista: matini ya sampuli ya mtumi
 - **28 Julai 2026 (6):** Kipande cha 2 cha Elimu (uk. 14–17): hadithi ya Abū Mūsā, kauli za al-Ḥasan, Muʿādh na Kaʿb, na Fasili nzima ya «Kutafuta elimu ni faradhi». Hadithi mbili zisizotajwa chanzo zimethibitishwa mtandaoni (Abū Bakra: Bukhari 7158/Muslim 1717). Maoni tofauti ya wahariri (uk. 17) yametajwa kwa jina lao.
 - **28 Julai 2026 (7):** Ukaguzi wa mstari kwa mstari wa kipande cha 2 (uk. 14–17): mistari yote ipo; maana tatu za hewa zimerekebishwa (ما أوقعه taʿajjub; حرج = hatiani; أجلاف = wagumu). Vichwa vitatu vya mfasiri vimeondolewa Elimu.
 - **28 Julai 2026 (8):** ﷺ imesanifishwa kitabuni (uamuzi wa mtumiaji); marekebisho ya lugha ya mapitio ya mhariri yaliyolingana na mwongozo (shahada mbili, inampasa/anawajibika, kulingana na, Akipatwa na shaka, dawa yake) yametumika; mapendekezo mawili yenye mgongano na maagizo (kukata sentensi za mtiririko; kuondoa viunganishi) yamepelekwa MASWALI #17.
+- **28 Julai 2026 (9):** Ukaguzi dhidi ya Kanuni 20 za mhariri: kazi imekaguliwa kanuni kwa kanuni; marekebisho 2 (الجهلة = wajinga; نفاسة bila kurembesha); Rule 0 + kusoma kwa sauti + orodha ya pointi 10 vimeingizwa kwenye nidhamu; migongano miwili imepelekwa MASWALI (#18 Rule 6; #1 Rule 16 imezidi kuwa ya haraka).
