@@ -144,7 +144,10 @@ def jenga():
             "--disable-gpu",
             "--no-pdf-header-footer",
             "--export-tagged-pdf",
-            "--virtual-time-budget=120000",
+            # Bajeti kubwa ya "virtual time": saa haiendi mbele wakati Paged.js
+            # inafanya kazi, na ikimaliza husonga mbele mara moja. Bajeti ndogo
+            # ilikuwa inaisha KABLA ya upangaji kumalizika (PDF za kurasa 3-9).
+            "--virtual-time-budget=100000000",
             f"--print-to-pdf={pdf}",
             f"file://{faili_html}",
         ]

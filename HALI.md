@@ -5,6 +5,11 @@
 **Inayofuata:** Kitabu cha Elimu, sehemu ya 2: hadithi ya Abu Musa (uk. 14–15 za Kiarabu), kuendelea hadi mwisho wa kitabu (uk. 26).
 **LAKINI:** sampuli ya sasa (dibaji + elimu sehemu ya 1) inasubiri idhini ya mtumiaji. Usianze sehemu mpya kabla ya idhini (mwongozo 12.2).
 
+## Kanuni ya kuchagua kipande (agizo la mtumiaji, 28 Julai 2026)
+1. Kipande huchaguliwa kwa **mshono wa asili**: mwisho wa hoja kamili, mlango, au fasili. Kamwe si katikati ya hoja, hadithi, mfululizo wa mifano, au jibu la swali.
+2. Kabla ya kutafsiri kipande kipya: **soma tena mwisho wa kipande kilichotangulia** (faili la tafsiri) NA kurasa za Kiarabu zinazotangulia mara moja. Sentensi ya kwanza ya kipande kipya lazima iungane na ya mwisho ya kilichotangulia kama vile hazikuwahi kugawanywa: kiunganishi, sauti, na mada visikatike.
+3. **Alama za mwendelezo haziandikwi kitabuni.** "Tulipoishia" na "kinachofuata" vinakaa HAPA HALI.md tu (rejista ya chini). Sharti la mwongozo 8.7 la "sema wazi unapoishia katikati" linatimizwa na rejista hii.
+
 ## Rejista ya ufunikaji (kurasa za PDF ya Kiarabu, `chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf`)
 
 | Kurasa | Sehemu | Hali |
@@ -13,7 +18,7 @@
 | 3–4 | Dibaji ya mchapishaji (Bashir ʿUyūn) | ✅ Muhtasari kwa maneno yetu: `sura/00-utangulizi/03-toleo-na-wahariri.html` |
 | 5–8 | Dibaji ya Sheikh Dahmān | ✅ Muhtasari kwa maneno yetu: faili ileile |
 | 9–12 | Dibaji ya mwandishi | ✅ Imetafsiriwa kamili: `04-dibaji-ya-mwandishi.html`. Inasubiri idhini |
-| 13 – 14 (hadi swali la samaki) | Elimu, sehemu ya 1 | ✅ Imetafsiriwa: `sura/robo-1-ibada/01-elimu.html`. Inasubiri idhini |
+| 13 – 14 (hadi swali la samaki) | Elimu, sehemu ya 1 | ✅ Imetafsiriwa: `sura/robo-1-ibada/01-elimu.html`. Inasubiri idhini. **Mshono:** kipande kimeishia mwisho wa jibu la swali la samaki; kinachofuata kinaanza na hadithi ya Abū Mūsā (mfano wa mvua), uk. 14 |
 | 14 (hadithi ya Abu Musa) – 26 | Elimu, sehemu ya 2+ | ⬜ Inayofuata |
 | 27–408 | Vitabu vilivyobaki (30) | ⬜ Ramani kamili yenye kurasa: `toc.md` (alama ⚠️ = mipaka bado kuthibitishwa kwa picha) |
 | 409–415 | Fihris ya asili | Haitafsiriwi; Yaliyomo yetu inazalishwa na zana |
