@@ -16,6 +16,13 @@ Kila kikao, kabla ya kuonyesha kipande:
 4. **Chujio la fitna (mwongozo 9.4):** kabla ya kutumia tovuti yoyote kama kigezo, angalia nani kachapisha. Tovuti hutumika kwa USHAHIDI wa tahajia/taarifa tu, kamwe si kigezo cha itikadi.
 5. Lisilothibitika mtandaoni: `MASWALI.md` + `[?]`, kama kawaida.
 
+## Usomaji wa mstari kwa mstari kabla ya PDF (agizo la mtumiaji, 28 Julai 2026)
+Kabla ya kujenga PDF ya kipande chochote:
+1. Rudia picha za kurasa za Kiarabu MSTARI KWA MSTARI, ukilinganisha na tafsiri: kila sentensi ya Kiarabu iwe na mwenzake kamili kwenye tafsiri. Hakuna mstari unaorukwa, hakuna nusu-sentensi inayopotea.
+2. Kila neno lenye uzito (taʿajjub, msisitizo, istilahi ya fikihi, neno adimu) lihakikishwe limebeba maana yake HALISI kwa Kiswahili. Hakuna «maana ya hewa»: tafsiri isiyo wazi, ya kukisia, au inayoizunguka maana badala ya kuisema.
+3. Kilichogunduliwa kinarekebishwa KWANZA; ndipo PDF inajengwa.
+4. Matokeo ya ukaguzi huu yanaandikwa kwenye kumbukumbu ya kikao (yaliyokutwa na yaliyorekebishwa).
+
 ## Kanuni ya vichwa vya ndani (agizo la mtumiaji, 28 Julai 2026)
 Vichwa vya ndani ya sura HAVIONGEZWI na mfasiri. Vichwa vinaandikwa pale tu: (a) vipo kwenye asili ya Kiarabu (mf. «فصل», pamoja na vya wahariri vilivyo kwenye mabano, vikitajwa kuwa ni vyao), au (b) kwa kutenganisha sauti za waandishi (mwongozo 6.3, mf. «Maneno ya Ibn al-Jawzī…»). Mtiririko wa mwandishi unaounganishwa kwa «Na…» haukatwi kwa vichwa vya mfasiri.
 
@@ -81,3 +88,4 @@ Hakuna sehemu iliyoidhinishwa bado. Nanga ya rejista: matini ya sampuli ya mtumi
 - **28 Julai 2026 (5):** rejista mpya kwa sampuli ya mtumiaji: Mwenyezi Mungu (si Allah), viwakilishi vya heshima kwa herufi kubwa, wanachuoni, majina kwa alama kamili za matamshi, mnyororo wa nasaba KAMILI bila kufupishwa; dibaji imeandikwa upya, matini ya sampuli ya mtumiaji imetumika neno kwa neno; kamusi v0.4; ujenzi umeimarishwa (profaili ya Chromium ya kujitegemea).
 
 - **28 Julai 2026 (6):** Kipande cha 2 cha Elimu (uk. 14–17): hadithi ya Abū Mūsā, kauli za al-Ḥasan, Muʿādh na Kaʿb, na Fasili nzima ya «Kutafuta elimu ni faradhi». Hadithi mbili zisizotajwa chanzo zimethibitishwa mtandaoni (Abū Bakra: Bukhari 7158/Muslim 1717). Maoni tofauti ya wahariri (uk. 17) yametajwa kwa jina lao.
+- **28 Julai 2026 (7):** Ukaguzi wa mstari kwa mstari wa kipande cha 2 (uk. 14–17): mistari yote ipo; maana tatu za hewa zimerekebishwa (ما أوقعه taʿajjub; حرج = hatiani; أجلاف = wagumu). Vichwa vitatu vya mfasiri vimeondolewa Elimu.
