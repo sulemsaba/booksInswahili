@@ -14,7 +14,7 @@
 
 ## B. Shaka za matini
 
-9. **[?] Elimu, uk. 13 — hadithi «warithi wa Manabii».** Ibn Qudamah kaandika «katika hadithi nyingine» bila mpokezi wala chanzo, na wahariri hawakutoa hukumu kwenye ukurasa huo. Rasimu ya awali iliandika "Abu Daud, Tirmidhi na Ibn Majah" kwa kumbukumbu, si kwa uthibitisho — imeondolewa (sheria 12.3). Inahitaji uthibitisho kutoka toleo jingine la Kiarabu au Shamela kabla ya kuwekwa. *(28 Julai 2026)*
+9. **[?] Elimu, uk. 13 — hadithi «warithi wa Manabii».** IMETHIBITISHWA mtandaoni (28 Julai 2026): ni sehemu ya hadithi ndefu ya Abū ad-Dardāʾ; Abu Daud (3641), Tirmidhi (2682), Ibn Majah (223) — vyanzo: sunnah.com (orodha za makusanyo), dorar.net. Maelezo ya chini yamesasishwa, utambulisho umetajwa kuwa ni wa mfasiri. Swali linabaki wazi kwa wewe kulifuta baada ya kuridhika. KUMBUKA: nambari za hadithi zimetumika hapa kwa ULAZIMA wa utambulisho; sera ya jumla ya nambari bado ni swali la 3. *(28 Julai 2026)*
 10. **[?] Athar za Maswahaba (mf. kauli za Ibn ʿAbbas).** Jedwali la 8.1 linaainisha aya na hadithi (Kiarabu NDIYO) na "maneno ya wanazuoni" (HAPANA). Athar za Maswahaba hazikutajwa moja kwa moja; tumeziweka kundi la "maneno ya wanazuoni" (Kiswahili tu). Thibitisha. *(28 Julai 2026)*
 11. **[?] Tafsiri ya sheria "wahariri wakinyamaza, sema wamenyamaza" (8.3).** Tumeiandika kwa hadithi zisizo na hukumu yoyote yenye jina (mf. ya Safwan bin ʿAssal). Kwa hadithi za Bukhari, Muslim na Sahihi mbili hatukuiongeza, kwa kuwa chanzo chenyewe ni hukumu yenye jina. Thibitisha tafsiri hii. *(28 Julai 2026)*
 12. **[?] Jalada na ukurasa wa jina** kwa sasa ni ukurasa mmoja (rasimu). 11.5 inaorodhesha kurasa mbili tofauti. Toleo la mwisho lizitenganishe? *(28 Julai 2026)*

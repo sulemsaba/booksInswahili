@@ -8,6 +8,14 @@
 ## Kanuni ya tafsiri, si maelezo (agizo la mtumiaji, 28 Julai 2026)
 **Tunatafsiri; hatuelezei maana.** Vifaa vya mwandishi mwenyewe vinatafsiriwa kama alivyoviandika: fomula zake za maswali (فإن قيل = «Basi ikisemwa», فالجواب: أنّ = «Jibu ni kwamba»), viunganishi vyake (وـ mwanzoni mwa kifungu = «Na…»), na mpangilio wake wa kauli. Hatuongezi maneno yasiyokuwapo («huenda», «wengine», «nyingi»), wala hatugeuzi fomula yake kuwa maelezo yetu. Mtindo wake halisi wa uandishi unahifadhiwa kila kitu.
 
+## Uthibitisho wa mtandaoni (agizo la mtumiaji, 28 Julai 2026)
+Kila kikao, kabla ya kuonyesha kipande:
+1. **Hadithi:** chanzo/nambari/mpokezi visivyo na uhakika vinathibitishwa kwenye masjala za hadithi (sunnah.com, dorar.net, Shamela). Kilichothibitishwa na mfasiri (si na matini wala wahariri) kinatajwa hivyo waziwazi.
+2. **Aya:** jina la sura na nambari vinathibitishwa, si kwa kumbukumbu (mwongozo 12.3).
+3. **Kiswahili:** neno au tahajia yenye shaka inalinganishwa na matumizi ya machapisho ya Kiislamu ya Tanzania (mwongozo 10.3).
+4. **Chujio la fitna (mwongozo 9.4):** kabla ya kutumia tovuti yoyote kama kigezo, angalia nani kachapisha. Tovuti hutumika kwa USHAHIDI wa tahajia/taarifa tu, kamwe si kigezo cha itikadi.
+5. Lisilothibitika mtandaoni: `MASWALI.md` + `[?]`, kama kawaida.
+
 ## Kanuni ya kuchagua kipande (agizo la mtumiaji, 28 Julai 2026)
 1. Kipande huchaguliwa kwa **mshono wa asili**: mwisho wa hoja kamili, mlango, au fasili. Kamwe si katikati ya hoja, hadithi, mfululizo wa mifano, au jibu la swali.
 2. Kabla ya kutafsiri kipande kipya: **soma tena mwisho wa kipande kilichotangulia** (faili la tafsiri) NA kurasa za Kiarabu zinazotangulia mara moja. Sentensi ya kwanza ya kipande kipya lazima iungane na ya mwisho ya kilichotangulia kama vile hazikuwahi kugawanywa: kiunganishi, sauti, na mada visikatike.
