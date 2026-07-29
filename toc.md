@@ -24,7 +24,7 @@ Matini ya kitabu: kurasa ~13–408. Fihris ya asili: 409–415.
 ## ROBO YA 2 — Ada / Mazoea (Rubʿ al-ʿĀdāt) — kurasa 71–147
 | # | Kitabu | Kurasa | Ukubwa |
 |---|---|---|---|
-| — | Utangulizi wa robo | 71–75 | kur. 5 |
+| — | Mlango: Adabu za Kula, Kukusanyika na Ukarimu (bāb, si kitāb — ni mwanzo wa robo hii, umethibitishwa kwa picha 29 Julai 2026) | 71–75 | kur. 5 |
 | 8 | Kitabu cha Ndoa na adabu zake | 76–81 | kur. 6 |
 | 9 | Kitabu cha Adabu za kuchuma na maisha | 82–96 | kur. 15 |
 | 10 | Kitabu cha Adabu za usuhuba na udugu | 97–122 | kur. 26 |
@@ -35,8 +35,8 @@ Matini ya kitabu: kurasa ~13–408. Fihris ya asili: 409–415.
 ## ROBO YA 3 — Yanayoangamiza (Rubʿ al-Muhlikāt) — kurasa 148–250
 | # | Kitabu | Kurasa | Ukubwa |
 |---|---|---|---|
-| 12 | Kitabu cha Maajabu ya moyo | 148–150 | kur. 3 ⚠️ fupi isivyo kawaida — thibitisha mpaka |
-| 13 | Kitabu cha Kuiadibu nafsi na kuusafisha tabia | 151–162 | kur. 12 |
+| 12 | Kitabu cha Maajabu ya moyo | 148–151 | kur. 4 (mpaka umethibitishwa kwa picha 29 Julai 2026; toleo la awali lilikuwa na kosa dogo — liliishia 150 badala ya 151) |
+| 13 | Kitabu cha Kuiadibu nafsi na kuusafisha tabia | 152–162 | kur. 11 |
 | 14 | Kitabu cha Kuvunja matamanio mawili (tumbo na utupu) | 163–164 | kur. 2 ⚠️ thibitisha mpaka |
 | 15 | Kitabu cha Maafa ya ulimi | 165–177 | kur. 13 |
 | 16 | Kitabu cha Kukemea hasira, kinyongo na husuda | 178–179 | kur. 2 ⚠️ thibitisha mpaka |

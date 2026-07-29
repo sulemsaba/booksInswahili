@@ -1,4 +1,4 @@
-# KAMUSI YA ISTILAHI — v0.8
+# KAMUSI YA ISTILAHI — v0.9
 ### Katiba ya mradi. Tahajia iliyofungwa haibadiliki bila idhini ya mtumiaji.
 *Hali: MBEGU — itakamilishwa kuwa v1.0 wakati wa Hatua 1, baada ya ukaguzi wa PDF.*
 
@@ -57,6 +57,17 @@
 | الغلول | ghulul | kuficha sehemu ya ngawira za vita kabla ya kugawanywa rasmi kwa wanajeshi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 90) |
 | الورع | wara' (uchamungu) | kujiepusha na mambo yenye shaka hata yasiyo haramu waziwazi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 88) |
 | الشبهة | shubha (wingi: shubuhat) | jambo baina ya halali na haramu lenye dalili zinazopingana au zisizo wazi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 90) |
+| صاع | pishi (ṣāʿ) | kipimo cha nafaka (~lita 3); mara ya kwanza: footnote ya ufafanuzi (Adabu za Kula, uk. 71) |
+| خبيص | khabīṣ | kitindamlo cha tende, siagi na unga; mara ya kwanza: footnote ya ufafanuzi (Adabu za Kula, uk. 73) |
+| الغمر | mafuta/harufu ya nyama mkononi (al-ghamar) | footnote ya ufafanuzi kila mara ya kwanza inapotokea (Adabu za Kula, uk. 72) |
+| النشوز | nushuz | uasi wa mke dhidi ya mumewe; ufafanuzi wa mabano mara ya kwanza (Ndoa, uk. 79) |
+| العزل | azli | kutoa mbegu nje wakati wa tendo la ndoa; ufafanuzi wa mabano (Ndoa, uk. 80) |
+| الاستحاضة | istihadha | damu ya ugonjwa isiyokuwa hedhi; ufafanuzi wa mabano (Ndoa, uk. 79) |
+| العقيقة | aqiqa | sadaka ya kuchinjwa kwa ajili ya mtoto mchanga; ufafanuzi wa mabano (Ndoa, uk. 80) |
+| التحنيك | tahniki | kupaka tende au kitu kitamu kaakaa la mtoto mchanga (Ndoa, uk. 80) |
+| الوليمة | walima | karamu ya harusi (Ndoa, uk. 78) |
+| الإزار | izar | kitambaa cha kujifunga kiunoni (Ndoa, uk. 80) |
+| العدة | eda (ʿidda) | kipindi cha kusubiri baada ya talaka; imetumika bila ufafanuzi ikiwa ni neno la kawaida (Ndoa, uk. 81) |
 
 ## B. Heshima na jina la Mwenyezi Mungu (LOCKED — kwa sampuli ya mtumiaji, 28 Julai 2026)
 
@@ -84,6 +95,7 @@
 | mwenye kutenda elimu yake | العامل |
 | himdi | الحمد katika muktadha wa "ninamhimidi kwa himdi ya…" |
 | Tanbihi | jina la sehemu ya maelezo ya chini |
+| تقي (mtu) | mwenye taqwa — si "mchamungu"; imesawazishwa na matumizi ya 03-zaka.html |
 
 ## C. Yaliyofungwa kwa chaguo-msingi (Julai 2026 — mtumiaji akitaka, hubadilishwa)
 
@@ -129,4 +141,4 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 2. Kagua nani kachapisha chanzo kabla ya kukitumia kama kigezo (sera ya fitna, CLAUDE.md §5).
 3. Lenye utata: muulize mtumiaji. Kisha liingize sehemu A na tarehe.
 
-*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.5 — istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.7 — **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026). v0.8 — istilahi za fiqh za kuchuma: fayi, ghulul, wara' (uchamungu), shubha (29 Julai 2026, Kitabu cha Adabu za Kuchuma na Maisha).*
+*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.5 — istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.7 — **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026). v0.8 — istilahi za fiqh za kuchuma: fayi, ghulul, wara' (uchamungu), shubha (29 Julai 2026, Kitabu cha Adabu za Kuchuma na Maisha). v0.9 — istilahi za Adabu za Kula na Ndoa: pishi, khabīṣ, al-ghamar, nushuz, azli, istihadha, aqiqa, tahniki, walima, izar, eda; rejista ya تقي (29 Julai 2026).*
