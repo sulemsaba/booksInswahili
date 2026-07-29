@@ -7,11 +7,20 @@ export const meta = {
   ],
 }
 
-// args = { robo: "ROBO YA PILI YA KITABU: ROBO YA ADA",
-//          units: [{ id, jina, faili, pref, parts: [[a,b],...] }] }
+// HAITEGEMEI args (Workflow tool ilishindwa kuipitisha `args` kama object mara mbili
+// mfululizo, tarehe 29 Julai 2026 — angalia HALI.md kikao (4)). Hariri ROBO na UNITS
+// hapa chini kabla ya kila run, kama zana/wf-uhakiki-robo1.js inavyofanya.
 
 const ROOT = '/home/msaba/Desktop/me/Priority/minhaj-tafsiri-workspace'
 const PDF = ROOT + '/chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf'
+
+const ROBO = 'ROBO YA PILI YA KITABU: ROBO YA ADA'
+
+// units: [{ id, jina, faili, pref, parts: [[a,b],...] }] — hariri kwa kila run
+const UNITS = [
+  // { id: 'usuhuba', jina: "Kitabu cha Adabu za Usuhuba na Udugu",
+  //   faili: 'sura/robo-2-ada/03-usuhuba-udugu.html', pref: 'us', parts: [[97, 105], [106, 114], [115, 122]] },
+]
 
 const TRANS = {
   type: 'object', additionalProperties: false,
@@ -64,24 +73,24 @@ KOSA ULILOLITHIBITISHA: lirekebishe MWENYEWE kwa Edit, kwa mabadiliko madogo yan
 Rudisha: hali, marekebisho, maswali.`
 }
 
-if (!args || !Array.isArray(args.units) || !args.units.length || !args.robo) {
-  throw new Error('args inahitajika: { robo, units: [{id, jina, faili, pref, parts}] }')
+if (!UNITS.length) {
+  throw new Error('UNITS iko tupu: hariri orodha ya UNITS juu ya faili hii kabla ya kuendesha.')
 }
 
 const results = await pipeline(
-  args.units,
+  UNITS,
   async (u) => {
     let mwisho = null
     for (let i = 0; i < u.parts.length; i++) {
       const [a, b] = u.parts[i]
-      mwisho = await agent(transPrompt(u, a, b, i + 1, u.parts.length, args.robo), {
+      mwisho = await agent(transPrompt(u, a, b, i + 1, u.parts.length, ROBO), {
         label: `tafsiri:${u.id}:${a}-${b}`, phase: 'Tafsiri', schema: TRANS,
       })
     }
     return { u, trans: mwisho }
   },
   async (r) => {
-    const rev = await agent(revPrompt(r.u, args.robo), { label: `sheikh:${r.u.id}`, phase: 'Uhakiki', schema: REVIEW })
+    const rev = await agent(revPrompt(r.u, ROBO), { label: `sheikh:${r.u.id}`, phase: 'Uhakiki', schema: REVIEW })
     return {
       kitabu: r.u.jina, faili: r.u.faili,
       hali: rev ? rev.hali : 'HAIJULIKANI',

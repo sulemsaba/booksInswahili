@@ -2,7 +2,7 @@
 ### Sasisha faili hili mwisho wa kila kikao (mwongozo 12.5). Soma mwanzoni mwa kila kikao.
 
 ## Tulipoishia
-**Inayofuata:** ROBO 2: Milango ya Kuchuma na Maisha ya Kila Siku (uk. 82–96 za Kiarabu).
+**Inayofuata:** ROBO 2: Milango ya Usuhuba na Udugu (uk. 97–122 za Kiarabu). Kuchuma na Maisha (uk. 82–96) imekamilika; Utangulizi + Ndoa (uk. 71–81) inabaki kwenye karantini ikisubiri kufanywa upya (tazama jedwali la ramani ya vipande na MASWALI #24).
 
 ## Kanuni ya tafsiri, si maelezo (agizo la mtumiaji, 28 Julai 2026)
 **Tunatafsiri maana, kwa Kiswahili fasaha (agizo la 28 Julai, NYONGEZA ya CLAUDE.md).** Maudhui yote na fomula za mwandishi (maswali ya balagha, wito, swali-na-jibu) vinahifadhiwa; hakuna kinachoongezwa wala kupunguzwa katika MAANA. Lakini sarufi ya Kiarabu haiamuli Kiswahili chetu: **sentensi hazikatwi vipande — zinaandikwa kwa mpangilio mzuri wa Kiswahili** (mpangilio wa maneno wa asili, virejeshi vya kawaida), na viunganishi vinatumika pale tu vinapohitajika. (Sheria ya awali ya «kila وـ ni Na» imefutwa na mtumiaji; «usikate sentensi» inabaki kwa msisitizo wake.)
@@ -62,7 +62,7 @@ Kanuni: kipande kimoja kwa kikao (mwongozo 12.2), mshono wa asili tu. Idadi hapa
 | ROBO 1: Zaka · Swaumu · Hija · Adabu za Qur'an | 37–54 | 4 | ✅ Imekamilika: `03-zaka.html`, `04-swaumu.html`, `05-hija.html`, `06-adabu-quran.html` |
 | ROBO 1: Adhkari na Dua | 55–70 | 2 | ✅ Imekamilika: `07-adhkari-dua.html` |
 | ROBO 2: Utangulizi + Ndoa | 71–81 | 2 | 🔶 KARANTINI `rasimu-wakala/` (pungufu; zitafanywa upya) |
-| ROBO 2: Kuchuma na maisha | 82–96 | 2 | ⬜ Inayofuata |
+| ROBO 2: Kuchuma na maisha | 82–96 | 2 | ✅ Imekamilika: `02-kuchuma.html` (mfasiri + sheikh-mhakiki, IMEREKEBISHWA — makosa 12 ya maana yalithibitishwa na kurekebishwa) |
 | ROBO 2: Usuhuba na udugu | 97–122 | 3–4 | ⬜ |
 | ROBO 2: Amri na makatazo | 123–147 | 3–4 | ⬜ |
 | ROBO 3: vitabu 9 | 148–250 | 17–19 | ⬜ (mipaka ⚠️ ya toc.md ithibitishwe kwanza) |
@@ -104,3 +104,4 @@ Kazi ya wakala HAIFUTWI hata isipohakikiwa: kila tukio (kukamilika AU kufeli) li
 - **28 Julai 2026 (12):** Uamuzi wa mtumiaji: فقه = **fiqh** (si fikihi; na si "figh" — gh ingewakilisha غ). Kamusi v0.6; matukio 5 yamebadilishwa kwenye dibaji na Elimu.
 - **29 Julai 2026 (2):** Ukaguzi wa tawi `blameonme`: Robo 1 nzima imepokelewa (vitabu 7; mitambo: em dash 8 zimeondolewa adhkari, id moja ya tanbihi imerekebishwa; Kiarabu nje ya aya: safi; jozi za tanbihi 190 sawa). TAHADHARI: uhakiki wa sheikh-mhakiki HAUJAFANYIKA (MASWALI #23). Faili 6 za Robo 2–4 zimewekwa karantini `rasimu-wakala/` kama muhtasari pungufu (MASWALI #24). Matokeo ya wakala wa Swaumu yameunganishwa (MASWALI #19–22, kamusi v0.7). `blameonme output/` imeondolewa; matokeo/ ndiyo pekee.
 - **29 Julai 2026 (3):** Uchumi wa wakala: briefing fupi `zana/muhtasari-sheria.md` (badala ya rulebook nzima ~60KB kwa kila wakala); sheikh anahakiki NA kurekebisha mwenyewe (wakala 1 badala ya 2 kwa kitabu); makundi madogo kwa kila run (hasara ndogo kikomo kikigonga); ukaguzi wa kimitambo unafanywa na kikao kikuu, si wakala. Skripti: `zana/wf-uhakiki-robo1.js` (inasubiri idhini), `zana/wf-tafsiri-template.js` (Robo 2+).
+- **29 Julai 2026 (4):** Kitabu cha Adabu za Kuchuma na Maisha (uk. 82–96) kimetafsiriwa na kuhakikiwa kwa `zana/wf-tafsiri-template.js` (mfasiri wa sehemu 2 + sheikh-mhakiki 1). Sheikh amethibitisha na kurekebisha makosa 12 ya maana (mawili yalikuwa KINYUME cha maana ya Kiarabu: "mzito zaidi mabegani" badala ya "mwepesi zaidi"; "nimekwisha jitosheleza NAWE" badala ya "BILA WEWE"). Ukaguzi wa kimitambo wa kikao kikuu: hakuna em dash, jozi 27/27 za tanbihi zinalingana, aya mbili za Al-Farsy (An-Naba 11, Al-A'raf 10) zimethibitishwa kwa grep dhidi ya `chanzo/alfarsy/`. Kamusi v0.8 (fayi, ghulul, wara', shubha). Aya mbili (Al-Baqara 198, 188) zimebaki [?] kwa sababu Juzuu 2/3 za Al-Farsy hazipo kwenye chanzo (MASWALI #27) — pengo litajitokeza tena kwenye vitabu vijavyo. Ukurasa 97 umethibitishwa kuwa mwanzo wa Kitabu kipya (Usuhuba), hivyo kipande hiki ni mshono kamili. **Tahadhari ya kiufundi:** parameter ya `args` kwenye Workflow tool ilishindwa kufika kwenye script mara mbili mfululizo (script ilipokea `args` isiyo sahihi, ikatupa hitilafu papo hapo); suluhisho lililofanya kazi lilikuwa kuandika data ya kitengo (units) moja kwa moja ndani ya script badala ya kuipitisha kwa `args` — kama `zana/wf-uhakiki-robo1.js` inavyofanya. Kwa vipande vijavyo, tumia muundo huo huo (data ndani ya script) badala ya kutegemea `args`.

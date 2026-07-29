@@ -1,4 +1,4 @@
-# KAMUSI YA ISTILAHI — v0.1 (mbegu)
+# KAMUSI YA ISTILAHI — v0.8
 ### Katiba ya mradi. Tahajia iliyofungwa haibadiliki bila idhini ya mtumiaji.
 *Hali: MBEGU — itakamilishwa kuwa v1.0 wakati wa Hatua 1, baada ya ukaguzi wa PDF.*
 
@@ -53,6 +53,10 @@
 | صوم التطوع | swaumu ya sunna | |
 | صوم الدهر | kufunga daima | |
 | الفقه | **fiqh** | uamuzi wa mtumiaji (28 Julai 2026): si "fikihi". Tahadhari: si "figh" — gh ni غ, fiqh ina q (ق). Wenye fani: mafaqihi |
+| الفيء | fayi (al-fayʾ) | mali ya jumuiya ya Kiislamu iliyopatikana kutoka kwa makafiri bila vita; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 92) |
+| الغلول | ghulul | kuficha sehemu ya ngawira za vita kabla ya kugawanywa rasmi kwa wanajeshi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 90) |
+| الورع | wara' (uchamungu) | kujiepusha na mambo yenye shaka hata yasiyo haramu waziwazi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 88) |
+| الشبهة | shubha (wingi: shubuhat) | jambo baina ya halali na haramu lenye dalili zinazopingana au zisizo wazi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 90) |
 
 ## B. Heshima na jina la Mwenyezi Mungu (LOCKED — kwa sampuli ya mtumiaji, 28 Julai 2026)
 
@@ -125,4 +129,4 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 2. Kagua nani kachapisha chanzo kabla ya kukitumia kama kigezo (sera ya fitna, CLAUDE.md §5).
 3. Lenye utata: muulize mtumiaji. Kisha liingize sehemu A na tarehe.
 
-*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.5 — istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.7 — **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026).*
+*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.5 — istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.7 — **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026). v0.8 — istilahi za fiqh za kuchuma: fayi, ghulul, wara' (uchamungu), shubha (29 Julai 2026, Kitabu cha Adabu za Kuchuma na Maisha).*
