@@ -43,6 +43,15 @@
 | الحجامة | kuumika (ḥijāma) | |
 | المباح | halali (mubāḥ) | tofautisha na halali ya jumla kwa muktadha |
 | الخشية | uchaji | tofauti na khofu (الخوف) |
+| السحور | daku | |
+| الإفطار | futari / kufuturu | |
+| الاعتكاف | itikafu | mara ya kwanza: ufafanuzi |
+| ليلة القدر | Laylatul-Qadr | |
+| الحديث القدسي | hadithi qudsi | mara ya kwanza: ufafanuzi (tanbihi) |
+| الأيام البيض | siku nyeupe (ayyāmul-bīḍ) | tarehe 13, 14, 15 |
+| أيام التشريق | siku za tashrīq | tarehe 11–13 Dhul-Ḥijja |
+| صوم التطوع | swaumu ya sunna | |
+| صوم الدهر | kufunga daima | |
 | الفقه | **fiqh** | uamuzi wa mtumiaji (28 Julai 2026): si "fikihi". Tahadhari: si "figh" — gh ni غ, fiqh ina q (ق). Wenye fani: mafaqihi |
 
 ## B. Heshima na jina la Mwenyezi Mungu (LOCKED — kwa sampuli ya mtumiaji, 28 Julai 2026)
@@ -116,4 +125,4 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 2. Kagua nani kachapisha chanzo kabla ya kukitumia kama kigezo (sera ya fitna, CLAUDE.md §5).
 3. Lenye utata: muulize mtumiaji. Kisha liingize sehemu A na tarehe.
 
-*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.5 — istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.6 — **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026).*
+*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.5 — istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.7 — **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026).*

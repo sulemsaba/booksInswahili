@@ -2,8 +2,7 @@
 ### Sasisha faili hili mwisho wa kila kikao (mwongozo 12.5). Soma mwanzoni mwa kila kikao.
 
 ## Tulipoishia
-**Inayofuata:** Kitabu cha Elimu, sehemu ya 2: hadithi ya Abu Musa (uk. 14–15 za Kiarabu), kuendelea hadi mwisho wa kitabu (uk. 26).
-**LAKINI:** sampuli ya sasa (dibaji + elimu sehemu ya 1) inasubiri idhini ya mtumiaji. Usianze sehemu mpya kabla ya idhini (mwongozo 12.2).
+**Inayofuata:** ROBO 2: Milango ya Kuchuma na Maisha ya Kila Siku (uk. 82–96 za Kiarabu).
 
 ## Kanuni ya tafsiri, si maelezo (agizo la mtumiaji, 28 Julai 2026)
 **Tunatafsiri maana, kwa Kiswahili fasaha (agizo la 28 Julai, NYONGEZA ya CLAUDE.md).** Maudhui yote na fomula za mwandishi (maswali ya balagha, wito, swali-na-jibu) vinahifadhiwa; hakuna kinachoongezwa wala kupunguzwa katika MAANA. Lakini sarufi ya Kiarabu haiamuli Kiswahili chetu: **sentensi hazikatwi vipande — zinaandikwa kwa mpangilio mzuri wa Kiswahili** (mpangilio wa maneno wa asili, virejeshi vya kawaida), na viunganishi vinatumika pale tu vinapohitajika. (Sheria ya awali ya «kila وـ ni Na» imefutwa na mtumiaji; «usikate sentensi» inabaki kwa msisitizo wake.)
@@ -58,12 +57,12 @@ Kanuni: kipande kimoja kwa kikao (mwongozo 12.2), mshono wa asili tu. Idadi hapa
 | Eneo | Kurasa | Vipande (mak.) | Hali |
 |---|---|---|---|
 | Mwanzo (jalada, kanuni, ufunguo, toleo, dibaji) | 1–12 | — | ✅ vimekamilika, vinasubiri idhini |
-| ROBO 1: Elimu (iliyobaki) | 14–26 | 2–3 | 🔄 sehemu 1 imekamilika |
-| ROBO 1: Twahara na Swala | 27–36 | 2 | ⬜ |
-| ROBO 1: Zaka · Swaumu · Hija · Adabu za Qur'an | 37–54 | 4 | ⬜ |
-| ROBO 1: Adhkari na Dua | 55–70 | 2–3 | ⬜ |
-| ROBO 2: Utangulizi + Ndoa | 71–81 | 2 | ⬜ |
-| ROBO 2: Kuchuma na maisha | 82–96 | 2 | ⬜ |
+| ROBO 1: Elimu (iliyobaki) | 14–26 | 2–3 | ✅ Imekamilika: `01-elimu.html` |
+| ROBO 1: Twahara na Swala | 27–36 | 2 | ✅ Imetafsiriwa: `02-twahara-swala.html` (inasubiri uhakiki) |
+| ROBO 1: Zaka · Swaumu · Hija · Adabu za Qur'an | 37–54 | 4 | ✅ Imekamilika: `03-zaka.html`, `04-swaumu.html`, `05-hija.html`, `06-adabu-quran.html` |
+| ROBO 1: Adhkari na Dua | 55–70 | 2 | ✅ Imekamilika: `07-adhkari-dua.html` |
+| ROBO 2: Utangulizi + Ndoa | 71–81 | 2 | 🔶 KARANTINI `rasimu-wakala/` (pungufu; zitafanywa upya) |
+| ROBO 2: Kuchuma na maisha | 82–96 | 2 | ⬜ Inayofuata |
 | ROBO 2: Usuhuba na udugu | 97–122 | 3–4 | ⬜ |
 | ROBO 2: Amri na makatazo | 123–147 | 3–4 | ⬜ |
 | ROBO 3: vitabu 9 | 148–250 | 17–19 | ⬜ (mipaka ⚠️ ya toc.md ithibitishwe kwanza) |
@@ -79,6 +78,9 @@ Kanuni: kipande kimoja kwa kikao (mwongozo 12.2), mshono wa asili tu. Idadi hapa
 
 ## Nanga ya mtindo
 Hakuna sehemu iliyoidhinishwa bado. Nanga ya rejista: matini ya sampuli ya mtumiaji ndani ya `04-dibaji-ya-mwandishi.html` (ukurasa wa kwanza wa dibaji, 28 Julai 2026). Sehemu iliyobaki ya dibaji na Elimu zimefuatishwa na rejista hiyo; zinasubiri idhini.
+
+## Sera ya checkpoint (agizo la mtumiaji, 29 Julai 2026)
+Kazi ya wakala HAIFUTWI hata isipohakikiwa: kila tukio (kukamilika AU kufeli) linafuatiwa mara moja na commit ya hali ilivyo. Rasimu pungufu huhamishiwa `rasimu-wakala/` (nje ya kitabu), hazifutwi.
 
 ## Zana (kiufundi)
 - Jenga PDF: `python3 zana/jenga-pdf.py` → `matokeo/minhaj-kiswahili-rasimu.pdf`. Injini: Chromium + Paged.js; fonti zimewekwa ndani (Amiri kwa Kiarabu, P052 kwa Kiswahili, Caladea kwa vichwa).
@@ -100,3 +102,4 @@ Hakuna sehemu iliyoidhinishwa bado. Nanga ya rejista: matini ya sampuli ya mtumi
 - **28 Julai 2026 (10):** Kanuni Kuu (elimu na uzoefu sawa au bora kwa msomaji wa Kiswahili), Kanuni za Dhahabu 20 (zilizooanishwa), Rule 0 na orodha ya pointi 10 zimeingizwa CLAUDE.md kama sheria za kudumu. Kazi iliyokamilika inakidhi kanuni zote isipokuwa ya 16 (chanzo cha aya) inayosubiri uamuzi wa MASWALI #1.
 - **28 Julai 2026 (11):** MASWALI #1 imeamuliwa: aya kutoka Al-Farsy (zimethibitishwa kutoka chapa). Hati ya Kiarabu kwa Qur'an PEKE YAKE; Kiarabu cha hadithi kimeondolewa. Uamuzi mpya: ukamilishaji kwa wakala + mhakiki-sheikh; mtumiaji anapokea kitabu kizima.
 - **28 Julai 2026 (12):** Uamuzi wa mtumiaji: فقه = **fiqh** (si fikihi; na si "figh" — gh ingewakilisha غ). Kamusi v0.6; matukio 5 yamebadilishwa kwenye dibaji na Elimu.
+- **29 Julai 2026 (2):** Ukaguzi wa tawi `blameonme`: Robo 1 nzima imepokelewa (vitabu 7; mitambo: em dash 8 zimeondolewa adhkari, id moja ya tanbihi imerekebishwa; Kiarabu nje ya aya: safi; jozi za tanbihi 190 sawa). TAHADHARI: uhakiki wa sheikh-mhakiki HAUJAFANYIKA (MASWALI #23). Faili 6 za Robo 2–4 zimewekwa karantini `rasimu-wakala/` kama muhtasari pungufu (MASWALI #24). Matokeo ya wakala wa Swaumu yameunganishwa (MASWALI #19–22, kamusi v0.7). `blameonme output/` imeondolewa; matokeo/ ndiyo pekee.
