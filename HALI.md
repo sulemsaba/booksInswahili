@@ -23,6 +23,8 @@ Agizo la kazi kamili: `/home/msaba/.codex/attachments/fbff9668-7c77-4ae1-b0c9-4c
 
 **Kikao cha 21 Septemba 2026:** Dibaji ya mchapishaji, kurasa 3–4, imetafsiriwa kamili upya katika `sura/00-utangulizi/03-toleo-na-wahariri.html`, kwa kulinganisha na picha za kurasa zote mbili. Vipengele vilivyohesabiwa: basmala, khutba, utambulisho wa kitabu na mnyororo wake wa ufupisho, maelezo ya chapa/maandishi matatu/wahariri, historia ya chapa tatu, dua ya hitimisho, tarehe na jina la Bashir ʿUyūn. Haina tanbihi. Ukaguzi wa Kiswahili na muundo umefanywa; uthibitisho wa binadamu mwenye taaluma ya dini haujapatikana. Dibaji ya Sheikh Dahman, kurasa 5–8, sasa ni kazi inayofuata, si tena muhtasari uliokamilika.
 
+**Kikao cha 21 Septemba 2026, mwendelezo:** Dibaji kamili ya Sheikh Muhammad Ahmad Dahman, kurasa 5–8, imeandikwa katika `sura/00-utangulizi/03a-dibaji-ya-sheikh-dahman.html`. Inahifadhi tathmini yake ya *Ihya*, sababu ya Ibn al-Jawzi na Ibn Qudamah kufupisha, historia ya uchapishaji, historia ya Banu Qudamah, marekebisho ya nasaba ya Ibn Qudamah, wasifu wake, tarehe na sahihi. Picha za kurasa 5–8 zimesomwa; HTML na mpangilio wa PDF umehakikiwa kwa macho. Vipengele vinne vya chanzo vimewekwa kwenye `manifest.json` kama **reviewing**, si kamili, mpaka pasi ya mwisho ya maana na majina ya kihistoria ikamilike.
+
 ## Tulipoishia
 **Inayofuata:** ROBO 2: Milango ya Usuhuba na Udugu (uk. 97–122 za Kiarabu). Adabu za Kula (71–75), Ndoa (76–81) na Kuchuma na Maisha (82–96) zimekamilika — Robo 2 nzima kuanzia mwanzoni hadi uk. 96 sasa iko sawa. Baada ya Usuhuba, inafuata Amri na Makatazo (123–147, haijaanza), kisha Moyo ya Ajabu (Robo 3, 148–151) na Tawba (Robo 4, 251–267) — hizi mbili za mwisho ni sehemu ya rasimu za karantini bado hazijafanywa upya (MASWALI #24).
 
@@ -64,7 +66,7 @@ Vichwa vya ndani ya sura HAVIONGEZWI na mfasiri. Vichwa vinaandikwa pale tu: (a)
 |---|---|---|
 | 1–2 | Jalada la Kiarabu na ukurasa wa mwaka | Taarifa zake zimo kwenye ukurasa wa jina; hazitafsiriwi |
 | 3–4 | Dibaji ya mchapishaji (Bashir ʿUyūn) | ✅ Tafsiri kamili ya ndani imehakikiwa dhidi ya picha: `sura/00-utangulizi/03-toleo-na-wahariri.html`; bado inahitaji mapitio ya binadamu wa taaluma husika kabla ya kuitwa toleo la mwisho |
-| 5–8 | Dibaji ya Sheikh Dahmān | ⬜ Haijatafsiriwa kamili; muhtasari wa zamani umeondolewa kutoka faili ya mchapishaji ili usichanganywe na matini yake |
+| 5–8 | Dibaji ya Sheikh Dahmān | 🟡 Tafsiri kamili ipo: `sura/00-utangulizi/03a-dibaji-ya-sheikh-dahman.html`; inalindwa na ukaguzi wa mwisho wa maana na majina ya kihistoria |
 | 9–12 | Dibaji ya mwandishi | ✅ Imetafsiriwa kamili: `04-dibaji-ya-mwandishi.html`. Inasubiri idhini |
 | 13 – 14 (hadi swali la samaki) | Elimu, sehemu ya 1 | ✅ Imetafsiriwa: `sura/robo-1-ibada/01-elimu.html`. Inasubiri idhini. **Mshono:** kipande kimeishia mwisho wa jibu la swali la samaki; kinachofuata kinaanza na hadithi ya Abū Mūsā (mfano wa mvua), uk. 14 |
 | 14 (hadithi ya Abu Musa) – 26 | Elimu, sehemu ya 2+ | ⬜ Inayofuata |

@@ -626,11 +626,11 @@
       },
       "range_id": "R005-008",
       "status": "reviewing",
-      "output_file": "sura/00-utangulizi/03-toleo-na-wahariri.html",
+      "output_file": "sura/00-utangulizi/03a-dibaji-ya-sheikh-dahman.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "full_translation_drafted_against_source_images_2026-09-21",
+      "inventory_status": "provisionally_complete_for_range",
+      "content_elements": ["basmala", "Dahman_preface_heading", "Ihya_assessment", "Ibn_al_Jawzi_revision", "Ibn_Qudamah_abridgment"],
       "verification": {
         "completeness": {
           "status": "pending",
@@ -654,9 +654,7 @@
         }
       },
       "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated.",
-        "Existing output is a summary per HALI.md; full preservation required by current mission remains unresolved."
+        "Full translation exists; line-by-line semantic review remains in progress before the range can be marked complete."
       ]
     },
     {
@@ -668,11 +666,11 @@
       },
       "range_id": "R005-008",
       "status": "reviewing",
-      "output_file": "sura/00-utangulizi/03-toleo-na-wahariri.html",
+      "output_file": "sura/00-utangulizi/03a-dibaji-ya-sheikh-dahman.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "full_translation_drafted_against_source_images_2026-09-21",
+      "inventory_status": "provisionally_complete_for_range",
+      "content_elements": ["publication_history", "Dahman_permission_to_publish", "editors_and_weak_hadith_notes", "Dahman_closing_prayer"],
       "verification": {
         "completeness": {
           "status": "pending",
@@ -696,9 +694,7 @@
         }
       },
       "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated.",
-        "Existing output is a summary per HALI.md; full preservation required by current mission remains unresolved."
+        "Full translation exists; line-by-line semantic review remains in progress before the range can be marked complete."
       ]
     },
     {
@@ -710,11 +706,11 @@
       },
       "range_id": "R005-008",
       "status": "reviewing",
-      "output_file": "sura/00-utangulizi/03-toleo-na-wahariri.html",
+      "output_file": "sura/00-utangulizi/03a-dibaji-ya-sheikh-dahman.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "full_translation_drafted_against_source_images_2026-09-21",
+      "inventory_status": "provisionally_complete_for_range",
+      "content_elements": ["Banu_Qudamah_migration", "as_Salihiyya_history", "Abu_Umar_biography", "Muwaffaq_al_Din_biography"],
       "verification": {
         "completeness": {
           "status": "pending",
@@ -738,9 +734,7 @@
         }
       },
       "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated.",
-        "Existing output is a summary per HALI.md; full preservation required by current mission remains unresolved."
+        "Full translation exists; line-by-line semantic review remains in progress before the range can be marked complete."
       ]
     },
     {
@@ -752,11 +746,11 @@
       },
       "range_id": "R005-008",
       "status": "reviewing",
-      "output_file": "sura/00-utangulizi/03-toleo-na-wahariri.html",
+      "output_file": "sura/00-utangulizi/03a-dibaji-ya-sheikh-dahman.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "full_translation_drafted_against_source_images_2026-09-21",
+      "inventory_status": "provisionally_complete_for_range",
+      "content_elements": ["editorial_correction_of_genealogy", "Ibn_Qudamah_genealogy", "Ibn_Qudamah_biography", "date_and_signature"],
       "verification": {
         "completeness": {
           "status": "pending",
@@ -780,9 +774,7 @@
         }
       },
       "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated.",
-        "Existing output is a summary per HALI.md; full preservation required by current mission remains unresolved."
+        "Full translation exists; line-by-line semantic review remains in progress before the range can be marked complete."
       ]
     },
     {
