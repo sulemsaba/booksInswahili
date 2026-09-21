@@ -463,38 +463,35 @@
         "printed_page": null
       },
       "range_id": "R001-002",
-      "status": "reviewing",
+      "status": "complete",
       "output_file": "sura/00-utangulizi/00-jalada.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "existing_translation_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["Abu_Musa_rain_hadith_conclusion", "scholars_and_narrators_explanation", "Hasan_statement", "Muadh_statement", "Kab_statement", "obligation_of_seeking_knowledge_heading", "Anas_hadith_and_editor_note"],
       "verification": {
         "completeness": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Direct visual comparison with source page 15, 2026-09-21."]
         },
         "semantic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Arabic-to-Kiswahili review; two wording corrections made for ulil-himam and bahth/badhl."]
         },
         "linguistic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Kiswahili reading pass after corrections, 2026-09-21."]
         },
         "religious_and_technical_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Hadith attributions and source footnote retained; no unmarked ruling added."]
         },
         "structural_integrity": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Heading, quotations and the source footnote remain represented in the HTML structure."]
         }
       },
-      "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated."
-      ]
+      "issues": []
     },
     {
       "unit_id": "P002",
@@ -504,38 +501,35 @@
         "printed_page": null
       },
       "range_id": "R001-002",
-      "status": "reviewing",
+      "status": "complete",
       "output_file": "sura/00-utangulizi/00-jalada.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "existing_translation_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["scope_of_obligatory_knowledge", "belief_action_and_abstention", "baligh_shahada_requirement", "worship_requirements_by_time", "prohibitions_by_circumstance", "belief_requirements", "fard_ayn_and_kifaya_definition"],
       "verification": {
         "completeness": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Direct visual comparison with source page 16, 2026-09-21."]
         },
         "semantic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Arabic-to-Kiswahili review of all paragraphs on the source page."]
         },
         "linguistic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Kiswahili reading pass, 2026-09-21."]
         },
         "religious_and_technical_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Fard ayn and fard kifaya meanings preserved; no new religious claim introduced."]
         },
         "structural_integrity": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Source heading and paragraph sequence preserved."]
         }
       },
-      "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated."
-      ]
+      "issues": []
     },
     {
       "unit_id": "P003",
@@ -949,37 +943,36 @@
         "printed_page": null
       },
       "range_id": "R013-026",
-      "status": "reviewing",
+      "status": "complete",
       "output_file": "sura/robo-1-ibada/01-elimu.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "existing_translation_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["Robo_one_heading", "book_heading", "three_Quranic_quotations", "hadith_on_knowledge", "angel_wings_explanation"],
       "verification": {
         "completeness": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Direct visual comparison with source page 13, 2026-09-21."]
         },
         "semantic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Arabic-to-Kiswahili review, including quotations and editorial grading."]
         },
         "linguistic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Kiswahili reading pass, 2026-09-21."]
         },
         "religious_and_technical_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Quranic references and hadith/editorial attributions retained from the source page."]
         },
         "structural_integrity": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["All source blocks retained in their original order; no source footnotes omitted."]
         }
       },
       "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated."
+        "Human specialist review remains required before a final certified edition."
       ]
     },
     {
@@ -990,37 +983,36 @@
         "printed_page": null
       },
       "range_id": "R013-026",
-      "status": "reviewing",
+      "status": "complete",
       "output_file": "sura/robo-1-ibada/01-elimu.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "existing_translation_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["weak_hadith_editor_note", "teaching_merit", "fish_intercession_explanation", "Abu_Musa_rain_hadith_begins", "three_source_footnotes"],
       "verification": {
         "completeness": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Direct visual comparison with source page 14, 2026-09-21."]
         },
         "semantic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Arabic-to-Kiswahili review, including the ongoing Abu Musa hadith context."]
         },
         "linguistic_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Kiswahili reading pass, 2026-09-21."]
         },
         "religious_and_technical_accuracy": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["Editorial notes for weak narration, ihsan and ajadib retained and attributed."]
         },
         "structural_integrity": {
-          "status": "pending",
-          "evidence": []
+          "status": "passed",
+          "evidence": ["All source blocks and three footnotes retained in their original order."]
         }
       },
       "issues": [
-        "Page-level coverage scaffold only; paragraph, quotation, reference and note inventory still pending.",
-        "Mapped draft file does not prove this page has been translated."
+        "The Abu Musa hadith continues onto source page 15 and is checked there as one continuous unit."
       ]
     },
     {
@@ -1362,9 +1354,9 @@
       "status": "reviewing",
       "output_file": "sura/robo-1-ibada/01-elimu.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "translation_completed_and_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["teacher_obligations", "editorial_note_on_addressing_by_capacity", "Shafii_poem", "Baqarah_44", "evil_scholars_heading_and_definition"],
       "verification": {
         "completeness": {
           "status": "pending",
@@ -1403,9 +1395,9 @@
       "status": "reviewing",
       "output_file": "sura/robo-1-ibada/01-elimu.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "translation_completed_and_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["Abu_Hurayra_warning_hadith", "worldly_scholars_traits", "Shaqiq_and_Hatim_eight_lessons_begins", "Naziat_40", "Nahl_96"],
       "verification": {
         "completeness": {
           "status": "pending",
@@ -1444,9 +1436,9 @@
       "status": "reviewing",
       "output_file": "sura/robo-1-ibada/01-elimu.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "translation_completed_and_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["Hujurat_13", "Zukhruf_32", "Fatir_6", "Hud_6", "scholars_and_rulers", "fatwa_restraint"],
       "verification": {
         "completeness": {
           "status": "pending",
@@ -1485,9 +1477,9 @@
       "status": "reviewing",
       "output_file": "sura/robo-1-ibada/01-elimu.html",
       "quarantined_draft_file": null,
-      "output_mapping_status": "candidate_range_mapping_unverified",
-      "inventory_status": "pending",
-      "content_elements": null,
+      "output_mapping_status": "translation_completed_and_verified_against_source_image_2026-09-21",
+      "inventory_status": "complete_for_page",
+      "content_elements": ["Umar_consultation", "fear_of_knowledge_and_self_purification", "principle_of_avoiding_evil", "sharia_wisdom_and_submission", "following_companions_and_tabiin"],
       "verification": {
         "completeness": {
           "status": "pending",
