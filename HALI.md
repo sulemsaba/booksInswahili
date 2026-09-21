@@ -1,6 +1,28 @@
 # HALI YA KAZI
 ### Sasisha faili hili mwisho wa kila kikao (mwongozo 12.5). Soma mwanzoni mwa kila kikao.
 
+## Agizo jipya na ukaguzi wa chanzo: 20 Septemba 2026
+
+Agizo la kazi kamili: `/home/msaba/.codex/attachments/fbff9668-7c77-4ae1-b0c9-4c7db2be33ed/goal-objective.md`. Matokeo yanayotakiwa: tafsiri kamili DOCX na PDF, kamusi ya muktadha, kumbukumbu za utafiti/uhariri na ripoti ya ukamilifu. Kazi bado haijakamilika.
+
+**Njia iliyothibitishwa:** tafsiri moja kwa moja kutoka Kiarabu cha toleo la Arna'ut (Method B). Tafsiri ya Kiingereza haitumiki. Hadithi dhaifu au zenye utata haziondolewi kimyakimya; hukumu iliyothibitishwa itajwe kwa mwenyewe. Uhakiki wa AI si uthibitisho wa mwanachuoni binadamu.
+
+**Chanzo:** `chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf`, kurasa 416, SHA-256 `f6d9df914fe72b64b50b137b38a26b8143715b1ab98d94474205a40a3f78b0c6`. Picha za jalada na ukurasa 2 zimehakikiwa: *Mukhtasar Minhaj al-Qasidin*, Ahmad bin Abd al-Rahman bin Qudamah al-Maqdisi; maelezo ya Shuayb al-Arna'ut na Abd al-Qadir al-Arna'ut; wachapishaji Maktabat Dar al-Bayan NA Mu'assasat Ulum al-Qur'an; Dimashq/Beirut, 1398 H / 1978. Nambari ya chapa haijaonekana katika kurasa hizi. Lugha: Kiarabu. Ni ufupisho wa mwandishi wa kazi iliyotangulia, lakini mradi unatafsiri ufupisho huu wote.
+
+**Mwisho wa chanzo:** picha ya ukurasa 408 ina hitimisho la matini; 409 inaanza fihris; 416 ni ukurasa wa mwisho wa fihris, wenye nambari 416. Dai la zamani la fihris 409–415 lilikuwa pungufu. Ukaguzi huu haujathibitisha bado kwamba hakuna kurasa zilizokosekana/kufifia katikati. OCR ina makosa mengi; picha ndizo chanzo cha kusoma.
+
+**Asili ya nakala:** metadata ya PDF inaunganisha [Internet Archive 20230528_2023](https://archive.org/details/20230528_2023); ukurasa umefunguliwa 20 Septemba 2026 na unatambua kitabu na lugha ya Kiarabu. Upatikanaji mtandaoni si uthibitisho wa ruhusa ya kuchapisha maelezo ya kisasa. Hakuna leseni ya wazi iliyothibitishwa katika taarifa zilizokaguliwa. Tafsiri ya ndani ya nyaraka zilizotolewa inaendelea; ruhusa ya usambazaji wa maudhui ya kisasa ni suala tofauti lililorekodiwa MASWALI #43.
+
+**Uthibitisho wa hadithi:** ukurasa 3 wa picha unasema wahariri walijikita kubainisha hadithi dhaifu, na hawakuzijadili sahihi. Hili linaeleza sera ya toleo; halifanyi kila hadithi isiyo na tanbihi kuwa imehakikiwa upya na mradi.
+
+**Utendaji:** tumia `manifest.json` kwa hali ya ukaguzi. Rekodi za zamani hapa zina thamani ya historia, si uthibitisho kwamba kila kifungu kimepita vipimo vitano vipya. Hifadhi tafsiri zilizopo, hakiki mapengo yaliyothibitishwa, kisha endelea. Usibadilishe rasimu zote kutoka mwanzo. Daftari la kurasa ni hatua ya kwanza; hesabu ya aya, tanbihi na vipengele kwa kila sehemu bado inatakiwa.
+
+**Marekebisho ya kanuni kutoka agizo jipya:** mgawanyo wa sentensi ndefu unaruhusiwa unapohitajika kwa Kiswahili cha kawaida bila kupoteza uhusiano wa maana. Istilahi huchaguliwa kwa muktadha; kamusi haitumiki kama ubadilishaji wa kiotomatiki. Tahajia zilizokubaliwa zinaendelea mpaka muktadha utoe sababu iliyoandikwa ya kuzirekebisha. Mfano wa “Fiqhi” katika agizo jipya haujabatilisha peke yake tahajia maalum ya mradi “fiqh”.
+
+**Hatua inayoendelea:** rekodi ya kurasa zote; ukaguzi wa dibaji dhidi ya chanzo. Dibaji za kisasa zilifupishwa wazi katika kazi ya awali; agizo jipya linahitaji kila kipengele kihesabiwe, hivyo muhtasari huo hautapewa hali ya tafsiri kamili bila ukaguzi na kurekodi kinachowakilishwa au kukosekana.
+
+**Kikao cha 21 Septemba 2026:** Dibaji ya mchapishaji, kurasa 3–4, imetafsiriwa kamili upya katika `sura/00-utangulizi/03-toleo-na-wahariri.html`, kwa kulinganisha na picha za kurasa zote mbili. Vipengele vilivyohesabiwa: basmala, khutba, utambulisho wa kitabu na mnyororo wake wa ufupisho, maelezo ya chapa/maandishi matatu/wahariri, historia ya chapa tatu, dua ya hitimisho, tarehe na jina la Bashir ʿUyūn. Haina tanbihi. Ukaguzi wa Kiswahili na muundo umefanywa; uthibitisho wa binadamu mwenye taaluma ya dini haujapatikana. Dibaji ya Sheikh Dahman, kurasa 5–8, sasa ni kazi inayofuata, si tena muhtasari uliokamilika.
+
 ## Tulipoishia
 **Inayofuata:** ROBO 2: Milango ya Usuhuba na Udugu (uk. 97–122 za Kiarabu). Adabu za Kula (71–75), Ndoa (76–81) na Kuchuma na Maisha (82–96) zimekamilika — Robo 2 nzima kuanzia mwanzoni hadi uk. 96 sasa iko sawa. Baada ya Usuhuba, inafuata Amri na Makatazo (123–147, haijaanza), kisha Moyo ya Ajabu (Robo 3, 148–151) na Tawba (Robo 4, 251–267) — hizi mbili za mwisho ni sehemu ya rasimu za karantini bado hazijafanywa upya (MASWALI #24).
 
@@ -41,13 +63,13 @@ Vichwa vya ndani ya sura HAVIONGEZWI na mfasiri. Vichwa vinaandikwa pale tu: (a)
 | Kurasa | Sehemu | Hali |
 |---|---|---|
 | 1–2 | Jalada la Kiarabu na ukurasa wa mwaka | Taarifa zake zimo kwenye ukurasa wa jina; hazitafsiriwi |
-| 3–4 | Dibaji ya mchapishaji (Bashir ʿUyūn) | ✅ Muhtasari kwa maneno yetu: `sura/00-utangulizi/03-toleo-na-wahariri.html` |
-| 5–8 | Dibaji ya Sheikh Dahmān | ✅ Muhtasari kwa maneno yetu: faili ileile |
+| 3–4 | Dibaji ya mchapishaji (Bashir ʿUyūn) | ✅ Tafsiri kamili ya ndani imehakikiwa dhidi ya picha: `sura/00-utangulizi/03-toleo-na-wahariri.html`; bado inahitaji mapitio ya binadamu wa taaluma husika kabla ya kuitwa toleo la mwisho |
+| 5–8 | Dibaji ya Sheikh Dahmān | ⬜ Haijatafsiriwa kamili; muhtasari wa zamani umeondolewa kutoka faili ya mchapishaji ili usichanganywe na matini yake |
 | 9–12 | Dibaji ya mwandishi | ✅ Imetafsiriwa kamili: `04-dibaji-ya-mwandishi.html`. Inasubiri idhini |
 | 13 – 14 (hadi swali la samaki) | Elimu, sehemu ya 1 | ✅ Imetafsiriwa: `sura/robo-1-ibada/01-elimu.html`. Inasubiri idhini. **Mshono:** kipande kimeishia mwisho wa jibu la swali la samaki; kinachofuata kinaanza na hadithi ya Abū Mūsā (mfano wa mvua), uk. 14 |
 | 14 (hadithi ya Abu Musa) – 26 | Elimu, sehemu ya 2+ | ⬜ Inayofuata |
 | 27–408 | Vitabu vilivyobaki (30) | ⬜ Ramani kamili yenye kurasa: `toc.md` (alama ⚠️ = mipaka bado kuthibitishwa kwa picha) |
-| 409–415 | Fihris ya asili | Haitafsiriwi; Yaliyomo yetu inazalishwa na zana |
+| 409–416 | Fihris ya asili | Haitafsiriwi; Yaliyomo yetu inazalishwa na zana |
 
 **Kazi za Hatua 0 zilizosalia:** kuthibitisha alama ⚠️ za `toc.md` kwa picha za kurasa; ukaguzi wa kurasa tupu za mchapishaji (mwongozo 8.8d).
 

@@ -19,6 +19,13 @@ MPANGILIO = [
     "sura/robo-4-munjiyat",
 ]
 
+# Rasimu hizi zipo kwenye folda ya sura ili zisipotee, lakini bado hazijapita
+# ukaguzi dhidi ya Kiarabu. Haziruhusiwi kuingia kwenye PDF inayotolewa kwa
+# msomaji kabla ya kuidhinishwa kwenye rejista ya kazi.
+ZUILIWA_KWENYE_RASIMU = {
+    "sura/robo-2-ada/04-usuhuba-udugu.html",
+}
+
 
 def weka_namba_za_maelezo(kipande):
     """Huweka namba za maelezo ya chini wakati wa ujenzi (1..n kwa kila faili).
@@ -48,6 +55,8 @@ def kusanya():
     vipande = []
     for folda in MPANGILIO:
         for faili in sorted((MZIZI / folda).glob("*.html")):
+            if str(faili.relative_to(MZIZI)) in ZUILIWA_KWENYE_RASIMU:
+                continue
             vipande.append(
                 (faili.name, weka_namba_za_maelezo(faili.read_text(encoding="utf-8")))
             )
@@ -136,6 +145,10 @@ def jenga():
     faili_html = MZIZI / "zana" / ".kitabu-build.html"
     faili_html.write_text(html, encoding="utf-8")
     try:
+        # Usikubali PDF ya zamani ithibitishe ujenzi mpya kimakosa. Bila
+        # hatua hii, Chromium ikishindwa kuandika, ukaguzi wa exists() hapa
+        # chini huona faili la zamani na kuripoti mafanikio yasiyo ya kweli.
+        pdf.unlink(missing_ok=True)
         profile = tempfile.mkdtemp(prefix="jenga-chromium-")
         amri = [
             chromium,

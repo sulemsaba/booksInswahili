@@ -3,7 +3,7 @@
 *Hali: RASIMU — vichwa vilivyowekwa alama ⚠️ vilipotoshwa na OCR; vithibitishwe kwa picha ya ukurasa kabla ya kutafsiri sehemu husika.*
 
 PDF: `chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf` — kurasa 416.
-Matini ya kitabu: kurasa ~13–408. Fihris ya asili: 409–415.
+Matini ya kitabu: kurasa ~13–408. Fihris ya asili: 409–416.
 
 ## Kurasa za mwanzo (1–12)
 | Kurasa | Sehemu | Maelezo |
