@@ -130,6 +130,7 @@ h3 {
   font-size: 16pt;
   line-height: 1.95;
   direction: rtl;
+  unicode-bidi: isolate;
   text-align: right;
   margin: 0 0 1.8mm 0;
 }
