@@ -463,7 +463,7 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 13. Usirembeshe. Usimboreshe Ibn Qudāmah. Usiwe mshairi wala mhubiri. Baki mfasiri.
 14. Istilahi za Kiislamu zibaki hai: tawhidi si «umoja wa Mungu», swala si «maombi».
 15. Usahihi wa kisheria ni mtakatifu: wajibu / sunna / mubāḥ / makruhu / haramu havichanganywi kamwe.
-16. **Aya za Qur'an:** zinanukuliwa NENO KWA NENO kutoka *Qurani Takatifu* ya Sheikh Abdullah Saleh Al-Farsy (uamuzi wa mtumiaji, 28 Julai 2026), pamoja na mabano yake na tahajia zake; chanzo (Sura: aya) kila mara. Nukuu huthibitishwa kutoka nakala za chapa zilizo `chanzo/alfarsy/`, kamwe si kwa kumbukumbu.
+16. **Aya za Qur'an (uamuzi wa mtumiaji, 26 Septemba 2026, unachukua nafasi ya Al-Farsy):** maana ya aya inanukuliwa kutoka tafsiri ya Kiswahili ya **Sheikh Ali Muhsin Al-Barwani**, iliyo `chanzo/quran-ali-muhsin-al-barwani.sqlite` (aya zote 6236). Maneno na mpangilio wa Barwani yanabaki; kinachoruhusiwa ni kusawazisha tahajia tu ili isomeke vizuri kwa msomaji wa leo (mfano: «Mwenyeezi» → «Mwenyezi», «mnayo yatenda» → «mnayoyatenda», «alivyo kuongoeni» → «alivyokuongoeni», nafasi na alama za uakifishaji zilizokosewa). Ibn Qudāmah akinukuu sehemu ya aya, inanukuliwa sehemu ile ile inayolingana ya Barwani, si aya nzima. Chanzo (Sura: aya) kila mara. Nukuu huthibitishwa kwa `python3 zana/aya.py SURA AYA`, kamwe si kwa kumbukumbu. Al-Farsy haitumiki tena.
 17. Hadithi: tafsiri, kisha thibitisha chanzo, kisha hukumu kwa jina. Kamwe usikisie.
 18. Ukiwa na shaka: simama. Maana tatu zinazowezekana → utafiti, si ubunifu. `MASWALI.md` + [?].
 19. Soma kwa sauti kila ukurasa. Usiposoma kwa kawaida, andika upya.
@@ -474,3 +474,5 @@ maana kamili (hakuna kilichoongezwa/kupungua) · hukumu za kisheria sahihi · sa
 
 5. **Hati ya Kiarabu (uamuzi wa mtumiaji, 28 Julai 2026 — unachukua nafasi ya jedwali la 8.1):** hati ya Kiarabu inabaki kwa AYA ZA QUR'AN PEKE YAKE. Hadithi na mengine yote: matamshi (italiki) + maana + tanbihi ya chanzo na hukumu. Jina la Kiarabu la kitabu kwenye jalada linabaki kama utambulisho wa asili.
 6. **Ukamilishaji wa kitabu kizima kwa wakala (uamuzi wa mtumiaji, 28 Julai 2026):** tafsiri inaendelea kwa wakala (agents) wanaofuata sheria hizi zote, kila kipande kikikaguliwa na wakala-mhakiki mwenye nafasi ya sheikh wa Dar es Salaam kabla ya kukubaliwa. Idhini ya hatua kwa hatua ya mtumiaji imeondolewa; mtumiaji anapokea kitabu kilichokamilika. MASWALI.md inaendelea kukusanya hoja za mapitio yake ya mwisho.
+
+7. **Tafsiri ya aya (uamuzi wa mtumiaji, 26 Septemba 2026):** Al-Farsy imeachwa; tafsiri ya Al-Barwani (`chanzo/quran-ali-muhsin-al-barwani.sqlite`, zana `zana/aya.py`) ndiyo chanzo pekee cha maana za aya. Tahajia inasawazishwa kwa msomaji wa leo, maneno hayabadilishwi. Aya zote za kazi iliyokamilika zimebadilishwa. Tazama Kanuni ya Dhahabu 16.

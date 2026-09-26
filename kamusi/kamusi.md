@@ -105,7 +105,7 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 | Jambo | Uamuzi (chaguo-msingi) | Sababu |
 |---|---|---|
 | العبودية ('ubudiyyah) | **uja** — mara ya kwanza: "uja (ʿubūdiyyah)" | Kiswahili safi, hueleweka |
-| Tafsiri ya aya za Qur'an | **IMEAMULIWA (28 Julai 2026): kunukuu Al-Farsy, «Qurani Takatifu», neno kwa neno** pamoja na mabano yake; kila nukuu inathibitishwa kutoka nakala za chapa (`chanzo/alfarsy/`) | Uamuzi wa mtumiaji; Kanuni ya Dhahabu ya 16 |
+| Tafsiri ya aya za Qur'an | **IMEAMULIWA (26 Septemba 2026, inachukua nafasi ya Al-Farsy): kunukuu tafsiri ya Al-Barwani**; maneno yake yanabaki, tahajia inasawazishwa; kila nukuu inathibitishwa kwa `python3 zana/aya.py SURA AYA` | Uamuzi wa mtumiaji; Kanuni ya Dhahabu ya 16 |
 | المحبة (mahabba) | **mahaba** (kwa Allah) | "mapenzi" ina rangi ya kidunia |
 | الشوق (shawq) | **shauku** | imezoeleka |
 | الأنس (uns) | **unsi** — mara ya kwanza na ufafanuzi | hakuna neno la Kiswahili linalobeba maana kamili |
@@ -137,7 +137,7 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 **Mtindo umewekwa na sampuli ya mtumiaji (28 Julai 2026):** matamshi kamili ya kitaaluma yenye alama: *Najm ad-Dīn Abū al-ʿAbbās Aḥmad* · *ʿIzz ad-Dīn Abū ʿAbdillāh Muḥammad* · *Shams ad-Dīn Abū Muḥammad ʿAbd ar-Raḥmān* · *Ibn Qudāmah al-Maqdisī al-Ḥanbalī* · *Jamāl ad-Dīn Ibn al-Jawzī* · *al-Ghazālī*. **bin** ndani ya nasaba; **Ibn** kwa majina maarufu; **Abū** (pamoja na alama ndefu). Orodha kamili ya majina yote inasubiri uthibitisho (`MASWALI.md` swali la 5).
 
 ## D. Utaratibu wa kuongeza neno jipya
-1. Tafuta jinsi linavyotumika kwenye machapisho ya Kiislamu ya Tanzania (Al-Farsy, register ya BAKWATA, uislamu.org).
+1. Tafuta jinsi linavyotumika kwenye machapisho ya Kiislamu ya Tanzania (Al-Barwani, register ya BAKWATA, uislamu.org).
 2. Kagua nani kachapisha chanzo kabla ya kukitumia kama kigezo (sera ya fitna, CLAUDE.md §5).
 3. Lenye utata: muulize mtumiaji. Kisha liingize sehemu A na tarehe.
 

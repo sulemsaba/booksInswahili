@@ -35,7 +35,7 @@ SOMA KWANZA (briefing fupi, ndiyo sheria zinazokufunga): ${ROOT}/zana/muhtasari-
 KAZI: hakiki ${ROOT}/${u.faili} ("${u.jina}") dhidi ya kurasa ${u.kurasa} za ${PDF} (zisome kama picha, Read pages:"${u.kurasa}"). Linganisha MSTARI KWA MSTARI:
 1. Ukamilifu: hakuna sentensi ya Kiarabu iliyorukwa; hakuna kilichoongezwa.
 2. Uaminifu: maana halisi (hakuna maana ya hewa); hukumu za kisheria kamili; fomula za mwandishi zimehifadhiwa.
-3. Aya: nukuu ya maana ni ya Al-Farsy neno kwa neno (thibitisha kwa grep kwenye ${ROOT}/chanzo/alfarsy/); (Sura: n) sahihi.
+3. Aya: nukuu ya maana ni ya Al-Barwani (thibitisha kwa python3 ${ROOT}/zana/aya.py SURA AYA); (Sura: n) sahihi.
 4. Hadithi: matamshi sahihi; chanzo/hukumu kwa kanuni za briefing; hakuna ubunifu.
 5. Rejista, kamusi, muundo wa HTML, tanbihi (jozi kamili), hakuna em dash, hakuna Kiarabu nje ya aya.
 6. Soma kwa sauti: Kiswahili la imamu msomi, sentensi hazikatwa-katwa.

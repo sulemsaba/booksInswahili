@@ -66,7 +66,7 @@ function revPrompt(u, robo) {
 
 SOMA KWANZA: ${ROOT}/zana/muhtasari-sheria.md kisha ${ROOT}/kamusi/kamusi.md (tu).
 
-KAZI: hakiki ${ROOT}/${u.faili} ("${u.jina}", ${robo}) dhidi ya kurasa ${kurasa} za ${PDF} (picha, mstari kwa mstari): ukamilifu (hakuna kilichorukwa/kilichoongezwa); uaminifu na hukumu za kisheria; aya = Al-Farsy neno kwa neno (grep ${ROOT}/chanzo/alfarsy/); hadithi kwa kanuni; rejista na kamusi; muundo/tanbihi/hakuna em dash/hakuna Kiarabu nje ya aya; soma kwa sauti.
+KAZI: hakiki ${ROOT}/${u.faili} ("${u.jina}", ${robo}) dhidi ya kurasa ${kurasa} za ${PDF} (picha, mstari kwa mstari): ukamilifu (hakuna kilichorukwa/kilichoongezwa); uaminifu na hukumu za kisheria; aya = Al-Barwani, maneno yake, tahajia imesawazishwa (python3 ${ROOT}/zana/aya.py SURA AYA); hadithi kwa kanuni; rejista na kamusi; muundo/tanbihi/hakuna em dash/hakuna Kiarabu nje ya aya; soma kwa sauti.
 
 KOSA ULILOLITHIBITISHA: lirekebishe MWENYEWE kwa Edit, kwa mabadiliko madogo yanayowezekana. Jambo la uamuzi wa mtumiaji: kwenye maswali tu.
 

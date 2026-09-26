@@ -9,7 +9,7 @@ Msomaji wa Kiswahili apate elimu YOTE na uzoefu WOTE wa msomaji wa Kiarabu — s
 - Sentensi ikiendelea ukurasa unaofuata, isome uimalizie kwa mshono wa asili; taja kwenye vidokezo ulipoishia.
 
 ## REJISTA (kamili kwenye kamusi)
-Mwenyezi Mungu (si Allah; matamshi pekee: *Allāh*) · viwakilishi Vyake kwa herufi kubwa (Yake, Wake, Kwake) · تعالى = Mtukufu · Mtume = **ﷺ** · Swahaba: (Mwenyezi Mungu amridhie); wawili: (…awaridhie wote wawili) · mwanachuoni aliyetangulia: (Mwenyezi Mungu amrehemu) · Nabii mwingine: (Amani imshukie) · wanachuoni (si wanazuoni) · fiqh (si fikihi) · uongofu (Al-Farsy pekee huandika "uwongofu" ndani ya nukuu zake — usiguse nukuu) · majina kwa alama kamili: Abū Hurayra, Ibn Qudāmah, Muʿādh bin Jabal.
+Mwenyezi Mungu (si Allah; matamshi pekee: *Allāh*) · viwakilishi Vyake kwa herufi kubwa (Yake, Wake, Kwake) · تعالى = Mtukufu · Mtume = **ﷺ** · Swahaba: (Mwenyezi Mungu amridhie); wawili: (…awaridhie wote wawili) · mwanachuoni aliyetangulia: (Mwenyezi Mungu amrehemu) · Nabii mwingine: (Amani imshukie) · wanachuoni (si wanazuoni) · fiqh (si fikihi) · uongofu · majina kwa alama kamili: Abū Hurayra, Ibn Qudāmah, Muʿādh bin Jabal.
 
 ## MTINDO
 - Rule 0: elewa Kiarabu kwanza → rasimu aminifu → ng'arisha kwa MPANGILIO MZURI WA KISWAHILI ukisoma kwa sauti.
@@ -36,9 +36,9 @@ Mwenyezi Mungu (si Allah; matamshi pekee: *Allāh*) · viwakilishi Vyake kwa her
   <p class="sw">Amesema Mwenyezi Mungu Mtukufu:</p>
   <p class="ar aya">﴿…matini ya aya kwa tashkeel…﴾</p>
   <p class="tr">Matamshi ya aya.</p>
-  <p class="sw maana">Maana yake: «NUKUU YA AL-FARSY NENO KWA NENO, pamoja na mabano yake» (Sura: n).</p>
+  <p class="sw maana">Maana yake: «NUKUU YA AL-BARWANI (maneno yake; tahajia imesawazishwa; sehemu ile ile anayonukuu mwandishi)» (Sura: n).</p>
 </section>
-<!-- Nukuu ya Al-Farsy: grep kwenye chanzo/alfarsy/*.txt (kwa neno moja la nukuu unayotarajia,
+<!-- Nukuu ya Al-Barwani: python3 zana/aya.py SURA AYA (tahajia isawazishwe tu,
      nafasi za OCR zisafishwe tu, maneno yabaki YAKE). Usipoipata: tafsiri maana mwenyewe + [?] kwenye maswali. -->
 
 <!-- HADITHI (bila hati ya Kiarabu): -->
