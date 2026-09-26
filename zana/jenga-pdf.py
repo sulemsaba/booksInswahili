@@ -22,9 +22,7 @@ MPANGILIO = [
 # Rasimu hizi zipo kwenye folda ya sura ili zisipotee, lakini bado hazijapita
 # ukaguzi dhidi ya Kiarabu. Haziruhusiwi kuingia kwenye PDF inayotolewa kwa
 # msomaji kabla ya kuidhinishwa kwenye rejista ya kazi.
-ZUILIWA_KWENYE_RASIMU = {
-    "sura/robo-2-ada/04-usuhuba-udugu.html",
-}
+ZUILIWA_KWENYE_RASIMU = set()
 
 
 def weka_namba_za_maelezo(kipande):
