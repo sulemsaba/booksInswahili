@@ -118,7 +118,7 @@ def jenga():
         'const id=a.getAttribute("href").slice(1);'
         "const note=document.querySelector('[id^=\"note-\"][data-id=\"'+id+'\"]');"
         'if(note)a.setAttribute("href","#"+note.id);'
-        "});}};</script>"
+        "});window.__pagedDone=true;}};</script>"
     )
 
     html = (
@@ -148,23 +148,23 @@ def jenga():
         # chini huona faili la zamani na kuripoti mafanikio yasiyo ya kweli.
         pdf.unlink(missing_ok=True)
         profile = tempfile.mkdtemp(prefix="jenga-chromium-")
-        amri = [
-            chromium,
-            "--headless=new",
-            f"--user-data-dir={profile}",
-            "--disable-gpu",
-            "--no-pdf-header-footer",
-            "--export-tagged-pdf",
-            # Bajeti kubwa ya "virtual time": saa haiendi mbele wakati Paged.js
-            # inafanya kazi, na ikimaliza husonga mbele mara moja. Bajeti ndogo
-            # ilikuwa inaisha KABLA ya upangaji kumalizika (PDF za kurasa 3-9).
-            "--virtual-time-budget=100000000",
-            f"--print-to-pdf={pdf}",
-            f"file://{faili_html}",
-        ]
-        r = subprocess.run(amri, capture_output=True, text=True, timeout=300)
+        # Playwright inasubiri Paged.js imalize upangaji WOTE (ishara
+        # window.__pagedDone) kabla ya kuchapa. Chromium --print-to-pdf peke
+        # yake ilikuwa ikichapa kabla ya kumaliza, na kitabu kizima (kurasa
+        # 450+) kilikatika katikati bila onyo.
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as pw:
+            kivinjari = pw.chromium.launch(executable_path=chromium,
+                                           args=["--disable-gpu"])
+            ukurasa = kivinjari.new_page()
+            ukurasa.goto(f"file://{faili_html}")
+            ukurasa.wait_for_function("window.__pagedDone === true",
+                                      timeout=30 * 60 * 1000, polling=1000)
+            ukurasa.pdf(path=str(pdf), prefer_css_page_size=True,
+                        print_background=True, tagged=True, outline=True)
+            kivinjari.close()
         if not pdf.exists():
-            sys.exit(f"Chromium imeshindwa:\n{r.stderr[-2000:]}")
+            sys.exit("Chromium imeshindwa kuandika PDF")
     finally:
         faili_html.unlink(missing_ok=True)
         shutil.rmtree(profile, ignore_errors=True)
