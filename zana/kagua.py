@@ -56,7 +56,7 @@ KURASA = {
     "sura/robo-4-munjiyat/11-kumbukumbu-la-mauti.html": (382, 408),
 }
 
-DASHI = re.compile("[‒-―−]")
+DASHI = re.compile("[\u2012-\u2015\u2212]")
 KIARABU = re.compile("[؀-ۿﭐ-﷿ﹰ-﻿]{2,}")
 RUHUSA_KIARABU = re.compile(
     r'<(p|span|div|h\d)[^>]*class="[^"]*\b(ar|ar-inline|ar-kichwa)\b[^"]*"[^>]*>.*?</\1>', re.S)
