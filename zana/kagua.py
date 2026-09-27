@@ -111,6 +111,16 @@ def kagua(faili):
     for m in MUHTASARI.finditer(matini):
         kasoro.append(f"dalili ya muhtasari: «{matini[max(0, m.start()-40):m.end()+20].strip()}»")
 
+    ni_ufunguo = "00-utangulizi/01-" in faili or "00-utangulizi/02-" in faili
+    if 'class="tr"' in s:
+        kasoro.append("matamshi ya Kilatini (class=tr) bado yapo")
+    for kosa in ("Maana yake:", "Wahariri hawakutoa hukumu", "uthibitisho wa mfasiri",
+                 "(Mwenyezi Mungu amridhie)", "(Amani imshukie)", "(Mwenyezi Mungu awaridhie"):
+        if kosa in matini:
+            kasoro.append(f"mtindo wa zamani: «{kosa}» ({matini.count(kosa)})")
+    if not ni_ufunguo and re.search("[\u0101\u012b\u016b\u1e25\u1e63\u1e6d\u1e0d\u1e93\u02bf\u02be]", matini):
+        kasoro.append("alama za matamshi (ā, ḥ, ʿ...) kwenye majina/istilahi")
+
     uwiano = None
     if faili in KURASA:
         ar = herufi_za_kiarabu(*KURASA[faili])
