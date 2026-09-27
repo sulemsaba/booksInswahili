@@ -1,5 +1,5 @@
 # MWONGOZO KAMILI WA TAFSIRI (v3.0)
-## Mukhtasar Minhaj al-Qasidin — Ibn Qudamah al-Maqdisi (Allah amrehemu)
+## Mukhtasar Minhaj al-Qasidin - Ibn Qudamah al-Maqdisi (Allah amrehemu)
 ### Toleo la Kiswahili
 #### Hati moja yenye kila kitu. Inachukua nafasi ya matoleo yote yaliyotangulia.
 
@@ -19,12 +19,12 @@ Kigezo cha mafanikio si "imeeleweka". Ni: **je, mwanachuoni wa Kiswahili angewez
 # SEHEMU YA 2: CHANZO, HAKI NA MIPAKA
 
 ## 2.1 Kitabu
-*Mukhtasar Minhaj al-Qasidin*, ufupisho wa Imamu Najmud-Din Ahmad bin Qudamah al-Maqdisi al-Hanbali (651–689 H) wa *Minhaj al-Qasidin* cha Ibn al-Jawzi, ambacho nacho kilitokana na *Ihya Ulum al-Din* cha al-Ghazali.
+*Mukhtasar Minhaj al-Qasidin*, ufupisho wa Imamu Najmud-Din Ahmad bin Qudamah al-Maqdisi al-Hanbali (651-689 H) wa *Minhaj al-Qasidin* cha Ibn al-Jawzi, ambacho nacho kilitokana na *Ihya Ulum al-Din* cha al-Ghazali.
 
 ## 2.2 Chanzo cha tafsiri
 Matini ya Kiarabu ya Ibn Qudamah. Toleo la rejea: lililohaririwa na Shuayb al-Arna'ut na Abdul-Qadir al-Arna'ut, Maktabat Dar al-Bayan, Dimashq na Beirut, 1398 H (1978).
 
-## 2.3 Haki — mipaka mitatu isiyovukwa
+## 2.3 Haki - mipaka mitatu isiyovukwa
 1. **Maneno ya Ibn Qudamah:** mali ya umma. Yanatafsiriwa kwa uhuru kamili, kwa ukamilifu.
 2. **Maelezo ya wahariri (Arna'ut), dibaji ya mchapishaji Bashir 'Uyun, dibaji ya Sheikh Dahman:** kazi za kisasa zenye wenyewe. **Hukumu na taarifa zao ni ukweli** unaotajwa kwa maneno yetu (*"Wahariri wameihukumu kuwa dhaifu"*). **Maandishi yao hayanakiliwi neno kwa neno.**
 3. **Tafsiri ya Kiingereza ya Dar as-Sunnah (2020):** haitumiki kama chanzo kwa namna yoyote, hata kwa kulinganisha.
@@ -62,13 +62,13 @@ Kutumia sheria ya tabaka la kwanza kwenye tabaka la pili. Matokeo: maandishi yan
 
 ## 4.4 Mfano wa uamuzi (fungu la hamdi)
 
-**Rasimu ya 1** — mtiririko mzuri, maneno mawili magumu:
+**Rasimu ya 1** - mtiririko mzuri, maneno mawili magumu:
 > *"Sifa njema zote ni za Allah, aliyewaenea waja wote kwa rehema yake, akawahusisha watu wa utiifu wake kwa kuwaongoza kwenye njia ya uwongofu, na akawawafikisha kwa upole wake kutenda amali njema, wakafuzu kwa kufikia yaliyokusudiwa."*
 
-**Rasimu ya 2** — maneno rahisi, sauti imekufa:
+**Rasimu ya 2** - maneno rahisi, sauti imekufa:
 > *"Sifa njema zote ni za Allah. Amewaenea waja wote kwa rehema yake. Amewachagua watu wa utiifu wake, akawaongoza kwenye njia ya uwongofu. Amewawezesha kwa upole wake kutenda amali njema. Kwa hiyo wamefuzu, wamefikia walichokikusudia."*
 
-**SAHIHI** — mtiririko wa 1 pamoja na maneno ya 2:
+**SAHIHI** - mtiririko wa 1 pamoja na maneno ya 2:
 > *"Sifa njema zote ni za Allah, aliyewaenea waja wote kwa rehema yake, akawachagua watu wa utiifu wake kwa kuwaongoza kwenye njia ya uwongofu, akawawezesha kwa upole wake kutenda amali njema, wakafuzu kwa kufikia waliyoyakusudia."*
 
 Sentensi moja inayotiririka, kama khutba ya Kiarabu ilivyo. Lakini *akawahusisha* limekuwa *akawachagua*, na *akawawafikisha* limekuwa *akawawezesha*.
@@ -77,7 +77,7 @@ Sentensi moja inayotiririka, kama khutba ya Kiarabu ilivyo. Lakini *akawahusisha
 
 ---
 
-# SEHEMU YA 5: NANGA YA MTINDO — hali tano
+# SEHEMU YA 5: NANGA YA MTINDO - hali tano
 
 Waandishi hawa hawaandiki kwa sauti moja. Tafsiri inabadilika pamoja nao. **Soma sehemu hii kila kikao kabla ya kuandika.**
 
@@ -117,7 +117,7 @@ Mtoto wa shule angeelewa kila neno. Mdundo wa mwandishi upo pale pale.
 
 ---
 
-# SEHEMU YA 6: SAUTI ZA WAANDISHI — hatari maalum ya kitabu hiki
+# SEHEMU YA 6: SAUTI ZA WAANDISHI - hatari maalum ya kitabu hiki
 
 Kitabu hiki kina **tabaka za sauti**. Ibn Qudamah ananukuu Ibn al-Jawzi, ambaye anamkosoa al-Ghazali, na wote wananukuu Qur'an, hadithi, na maneno ya wanazuoni waliotangulia. Msomaji akichanganyikiwa ni nani anayesema, kitabu kinaharibika.
 
@@ -130,14 +130,14 @@ Kitabu hiki kina **tabaka za sauti**. Ibn Qudamah ananukuu Ibn al-Jawzi, ambaye 
 
 ---
 
-# SEHEMU YA 7: KISWAHILI CHA DAR — alama za wazi
+# SEHEMU YA 7: KISWAHILI CHA DAR - alama za wazi
 
 **EPUKA:**
 - Minyororo mirefu ya virejeshi (`-ye-`, `-cho-`, `-o-`) vikifuatana.
 - Majina yaliyotengenezwa kutoka vitenzi: *kufanya uchunguzi* → **kuchunguza**.
 - Maneno ya kamusi yasiyosikika mtaani.
 - Miundo ya Kiswahili cha pwani ya Kenya au ya kizamani.
-- Em dash (—) popote. Tumia nukta, koma, au koloni.
+- Em dash (-) popote. Tumia nukta, koma, au koloni.
 - Maneno ya Kiingereza yasiyo ya lazima.
 
 **TUMIA:**
@@ -263,7 +263,7 @@ swala · zaka · tawhidi · ikhlasi · khofu · subira · shukrani · zuhudi · 
 | Sehemu | Fonti | Ukubwa |
 |---|---|---|
 | Matini ya Kiswahili | Book Antiqua (mbadala: Georgia) | 11.5 pt |
-| Kiarabu | Amiri (**iwekwe ndani ya faili**) | 16–18 pt |
+| Kiarabu | Amiri (**iwekwe ndani ya faili**) | 16-18 pt |
 | Matamshi | italiki ya fonti ya matini | 11 pt |
 | Kichwa cha Robo | Cambria Bold | 18 pt |
 | Kichwa cha Kitabu | Cambria Bold | 16 pt |
@@ -305,7 +305,7 @@ Soma: mwongozo huu → kamusi → `HALI.md` → `MASWALI.md` → **sehemu ya mwi
 ## 12.2 Sehemu MOJA kwa kikao
 Sehemu moja iliyokamilika vizuri ni bora kuliko tatu za haraka. Ubora hushuka mwishoni mwa matokeo marefu. Usianze mpya kabla ya iliyotangulia kuonyeshwa.
 
-## 12.3 Thibitisha, usikumbuke — MUHIMU KULIKO YOTE
+## 12.3 Thibitisha, usikumbuke - MUHIMU KULIKO YOTE
 Kila aya, kila hadithi, kila mpokezi, kila hukumu: **kutoka kwenye ukurasa halisi wa chanzo.**
 *Sababu:* kumbukumbu ya matini za dini huonekana ya uhakika hata inapokuwa na kasoro. Kosa la nambari ya aya kwenye kitabu cha dini ni kosa zito.
 Usipoweza kuthibitisha: `MASWALI.md`, weka `[?]`, endelea.
@@ -334,7 +334,7 @@ Simama. Soma sehemu 5 mfululizo. Kagua istilahi, hali za mtindo, mfumo. Ripoti. 
 *Sababu:* mtindo hubadilika polepole bila kuonekana.
 
 ## 12.8 Git
-Commit baada ya kila sehemu iliyoidhinishwa: `sura: [jina] (uk. X–Y)`.
+Commit baada ya kila sehemu iliyoidhinishwa: `sura: [jina] (uk. X-Y)`.
 
 ## 12.9 Kasi si kigezo
 Hakuna makadirio ya "tutamaliza lini". Kigezo pekee: je, sehemu hii ni sahihi, imethibitishwa, inalingana na iliyotangulia?
@@ -344,7 +344,7 @@ Ukurasa usiposomeka: jaribu toleo la pili la Kiarabu, kisha Shamela, kisha **muu
 
 ---
 
-# SEHEMU YA 13: MAKOSA YA KAWAIDA — tahadhari
+# SEHEMU YA 13: MAKOSA YA KAWAIDA - tahadhari
 
 Haya ndiyo yanayoua miradi ya aina hii. Kila kimoja kimeshatokea au kinaweza kutokea.
 
@@ -358,7 +358,7 @@ Haya ndiyo yanayoua miradi ya aina hii. Kila kimoja kimeshatokea au kinaweza kut
 | **Kubadilisha istilahi kimyakimya** | Sura ya 20 inatumia neno tofauti na sura ya 3 | Kamusi + ukaguzi wa sehemu 5 |
 | **Kuongeza ufafanuzi ndani ya matini** | Maelezo ya mfasiri yanaonekana kama maneno ya mwandishi | Ufafanuzi huenda kwenye maelezo ya chini pekee |
 | **Kupuuza `[?]`** | Shaka inatoweka bila kujibiwa | `MASWALI.md`; mtumiaji pekee anafuta |
-| **Em dash kurudi** | — inarudi bila kuonekana | Orodha ya ukaguzi kila sehemu |
+| **Em dash kurudi** | - inarudi bila kuonekana | Orodha ya ukaguzi kila sehemu |
 | **Kiarabu kilichoharibika** | Kinaonekana sahihi, kinanakilika vibaya | Jaribio la 11.3 |
 | **Kurudia kanusho ndani ya matini** | "hazikunakiliwa neno kwa neno" katikati ya usomaji | Sema mara moja kwenye Kanuni za Mfasiri |
 | **Kuharakisha mwisho wa kikao** | Sehemu ya mwisho ni dhaifu kuliko ya kwanza | Sehemu moja kwa kikao |
@@ -380,7 +380,7 @@ Haya ndiyo yanayoua miradi ya aina hii. Kila kimoja kimeshatokea au kinaweza kut
 
 Yanagusa kitabu kizima. Yakiamuliwa baadaye, kazi ya nyuma italazimika kurekebishwa.
 
-### (1) Tafsiri ya Qur'an — YA HARAKA ZAIDI
+### (1) Tafsiri ya Qur'an - YA HARAKA ZAIDI
 Rasimu ya sasa inatumia **tafsiri ya maana ya mfasiri**. Awali tulikubaliana kunukuu tafsiri iliyochapishwa (Al-Farsy au King Fahd Complex).
 *Athari:* kila aya ya kitabu. *Uamuzi kabla ya sura ya pili.*
 
@@ -427,22 +427,22 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 
 ---
 
-# NYONGEZA YA MTUMIAJI (28 Julai 2026 — inachukua nafasi ya sheria zinazogongana nayo)
+# NYONGEZA YA MTUMIAJI (28 Julai 2026 - inachukua nafasi ya sheria zinazogongana nayo)
 
 1. **Sheria iliyofutwa:** ulinzi wa kila kiunganishi cha mwandishi (kila وـ/فـ/ثم kuwa «Na/Basi/Kisha»). Viunganishi vinatumika pale tu Kiswahili kinavyovihitaji.
-2. **Sheria mpya (kwa maneno ya mtumiaji): «Usikate sentensi — bali iandike kwa mpangilio mzuri wa Kiswahili.»** Sentensi HAIGAWANYWI vipande vifupi; inaundwa upya kwa mpangilio wa maneno wa Kiswahili fasaha: mpangilio wa asili wa maneno, virejeshi vya kawaida, msamiati wa kila siku. Maana inabaki kamili. Kazi ya mfasiri si kuzalisha sarufi ya Kiarabu kwa Kiswahili, bali kuzalisha MAANA ya mwandishi kwa Kiswahili fasaha.
+2. **Sheria mpya (kwa maneno ya mtumiaji): «Usikate sentensi - bali iandike kwa mpangilio mzuri wa Kiswahili.»** Sentensi HAIGAWANYWI vipande vifupi; inaundwa upya kwa mpangilio wa maneno wa Kiswahili fasaha: mpangilio wa asili wa maneno, virejeshi vya kawaida, msamiati wa kila siku. Maana inabaki kamili. Kazi ya mfasiri si kuzalisha sarufi ya Kiarabu kwa Kiswahili, bali kuzalisha MAANA ya mwandishi kwa Kiswahili fasaha.
 3. **Vinavyobaki vitakatifu:** maudhui yote bila kupungua; fomula za mwandishi (swali la balagha libaki swali, wito ubaki wito, swali-na-jibu libaki hivyo); hali tano za mtindo kwa ujumla wake; istilahi za kamusi.
 4. Kazi iliyokamilika imerekebishwa upya kwa mtindo huu (28 Julai 2026).
 
 
 ---
 
-# KANUNI KUU NA KANUNI ZA DHAHABU (28 Julai 2026 — zimeidhinishwa na mtumiaji; sehemu ya kudumu ya sheria)
+# KANUNI KUU NA KANUNI ZA DHAHABU (28 Julai 2026 - zimeidhinishwa na mtumiaji; sehemu ya kudumu ya sheria)
 
-## KANUNI KUU (North Star — kipimo cha kila ukurasa)
-**Msomaji wa Kiswahili apate elimu YOTE na uzoefu WOTE anaoupata msomaji wa Kiarabu — sawa naye, au bora.** Kila kipande kinapimwa kwa swali hili kabla ya kukubaliwa: je, aliyesoma Kiswahili chetu anajua na anahisi kila alichojua na kuhisi aliyesoma Kiarabu?
+## KANUNI KUU (North Star - kipimo cha kila ukurasa)
+**Msomaji wa Kiswahili apate elimu YOTE na uzoefu WOTE anaoupata msomaji wa Kiarabu - sawa naye, au bora.** Kila kipande kinapimwa kwa swali hili kabla ya kukubaliwa: je, aliyesoma Kiswahili chetu anajua na anahisi kila alichojua na kuhisi aliyesoma Kiarabu?
 
-## RULE 0 — pasi tatu kwa kila kifungu (lazima)
+## RULE 0 - pasi tatu kwa kila kifungu (lazima)
 1. **Kuelewa:** soma Kiarabu mpaka uweze kueleza maana bila kutazama matini.
 2. **Rasimu:** tafsiri aminifu, hata ikikaribiana na muundo wa Kiarabu.
 3. **Kung'arisha:** mpangilio mzuri wa Kiswahili; soma kwa sauti; kisichosomeka kwa kawaida kinaandikwa upya. Kila maana lazima isalimike.
@@ -452,8 +452,8 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 2. Usiongeze wazo. Usitie nguvu, usilegeze. Ufafanuzi huenda footnote tu.
 3. Usipunguze wazo. Kila maana lazima isalimike, hata marudio ya makusudi.
 4. Hifadhi utu wa Ibn Qudāmah: mtulivu, mwenye mantiki, mwenye mpangilio. Usimfanye wa kisasa, usimuigize mhubiri.
-5. Kiswahili rasmi cha msomi — kamwe si cha mazungumzo ya mtaani.
-6. **(Imeoanishwa na agizo la mtumiaji:)** Sentensi HAIKATWI kwa mazoea; inaandikwa kwa mpangilio mzuri wa Kiswahili. Sentensi ikizidi maneno ~30–40 ni KENGELE ya kusoma kwa sauti; kukata ni suluhisho la mwisho, pale tu mpangilio unaposhindikana.
+5. Kiswahili rasmi cha msomi - kamwe si cha mazungumzo ya mtaani.
+6. **(Imeoanishwa na agizo la mtumiaji:)** Sentensi HAIKATWI kwa mazoea; inaandikwa kwa mpangilio mzuri wa Kiswahili. Sentensi ikizidi maneno ~30-40 ni KENGELE ya kusoma kwa sauti; kukata ni suluhisho la mwisho, pale tu mpangilio unaposhindikana.
 7. Aya moja ya maandishi = wazo moja. Wazo likibadilika, aya mpya.
 8. Marudio ya kisarufi ya Kiarabu (ثم، ثم) hayahitaji kurudiwa Kiswahili kikishaelewa.
 9. Msisitizo (إنّ) uhifadhiwe, si lazima kwa neno lile lile kila mara: «Hakika», «Kwa yakini», au mpangilio wa sentensi.
@@ -472,7 +472,7 @@ sura/          sehemu zilizokamilika. Ya mwisho = nanga ya mtindo.
 ## ORODHA YA POINTI 10 (kwa kila kifungu, kabla ya kukubaliwa)
 maana kamili (hakuna kilichoongezwa/kupungua) · hukumu za kisheria sahihi · sauti ya Ibn Qudāmah · Kiswahili cha imamu msomi · inasomeka kwa sauti · kamusi imefuatwa · aya kwa utaratibu uliokubaliwa · hadithi imethibitishwa · maelezo ya mfasiri yametengwa na ya wahariri · muundo uleule (Kiarabu → matamshi → maana → tanbihi)
 
-5. **Hati ya Kiarabu (uamuzi wa mtumiaji, 28 Julai 2026 — unachukua nafasi ya jedwali la 8.1):** hati ya Kiarabu inabaki kwa AYA ZA QUR'AN PEKE YAKE. Hadithi na mengine yote: matamshi (italiki) + maana + tanbihi ya chanzo na hukumu. Jina la Kiarabu la kitabu kwenye jalada linabaki kama utambulisho wa asili.
+5. **Hati ya Kiarabu (uamuzi wa mtumiaji, 28 Julai 2026 - unachukua nafasi ya jedwali la 8.1):** hati ya Kiarabu inabaki kwa AYA ZA QUR'AN PEKE YAKE. Hadithi na mengine yote: matamshi (italiki) + maana + tanbihi ya chanzo na hukumu. Jina la Kiarabu la kitabu kwenye jalada linabaki kama utambulisho wa asili.
 6. **Ukamilishaji wa kitabu kizima kwa wakala (uamuzi wa mtumiaji, 28 Julai 2026):** tafsiri inaendelea kwa wakala (agents) wanaofuata sheria hizi zote, kila kipande kikikaguliwa na wakala-mhakiki mwenye nafasi ya sheikh wa Dar es Salaam kabla ya kukubaliwa. Idhini ya hatua kwa hatua ya mtumiaji imeondolewa; mtumiaji anapokea kitabu kilichokamilika. MASWALI.md inaendelea kukusanya hoja za mapitio yake ya mwisho.
 
 7. **Tafsiri ya aya (uamuzi wa mtumiaji, 26 Septemba 2026):** Al-Farsy imeachwa; tafsiri ya Al-Barwani (`chanzo/quran-ali-muhsin-al-barwani.sqlite`, zana `zana/aya.py`) ndiyo chanzo pekee cha maana za aya. Tahajia inasawazishwa kwa msomaji wa leo, maneno hayabadilishwi. Aya zote za kazi iliyokamilika zimebadilishwa. Tazama Kanuni ya Dhahabu 16.

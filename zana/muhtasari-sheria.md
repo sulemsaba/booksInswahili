@@ -1,8 +1,8 @@
-# MUHTASARI WA SHERIA KWA WAKALA (toleo 1 — 29 Julai 2026)
-### Hii ndiyo briefing pekee unayosoma kikamilifu. Ikitokea shaka mahususi TU, fungua sehemu husika ya CLAUDE.md. Kamusi (`kamusi/kamusi.md`) LAZIMA isomwe — ni katiba ya maneno.
+# MUHTASARI WA SHERIA KWA WAKALA (toleo 1-29 Julai 2026)
+### Hii ndiyo briefing pekee unayosoma kikamilifu. Ikitokea shaka mahususi TU, fungua sehemu husika ya CLAUDE.md. Kamusi (`kamusi/kamusi.md`) LAZIMA isomwe - ni katiba ya maneno.
 
 ## KANUNI KUU
-Msomaji wa Kiswahili apate elimu YOTE na uzoefu WOTE wa msomaji wa Kiarabu — sawa au bora. Hakuna kuongeza, hakuna kupunguza, hakuna kufupisha kimyakimya (kosa zito kuliko yote). Kila sentensi ya Kiarabu ina mwenzake kamili.
+Msomaji wa Kiswahili apate elimu YOTE na uzoefu WOTE wa msomaji wa Kiarabu - sawa au bora. Hakuna kuongeza, hakuna kupunguza, hakuna kufupisha kimyakimya (kosa zito kuliko yote). Kila sentensi ya Kiarabu ina mwenzake kamili.
 
 ## CHANZO
 - Tafsiri kutoka PICHA za kurasa (Read, pages: "X-Y") za `chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf`. OCR ghafi ni ya kutafutia tu.
@@ -13,15 +13,15 @@ Mwenyezi Mungu (si Allah; matamshi pekee: *Allāh*) · viwakilishi Vyake kwa her
 
 ## MTINDO
 - Rule 0: elewa Kiarabu kwanza → rasimu aminifu → ng'arisha kwa MPANGILIO MZURI WA KISWAHILI ukisoma kwa sauti.
-- **Usikate sentensi** — iandike kwa mpangilio wa Kiswahili; maneno 30–40+ ni kengele ya kusoma kwa sauti, kukata ni suluhisho la mwisho.
+- **Usikate sentensi** - iandike kwa mpangilio wa Kiswahili; maneno 30-40+ ni kengele ya kusoma kwa sauti, kukata ni suluhisho la mwisho.
 - Viunganishi (Na, Basi, Kisha) pale tu Kiswahili kinavyohitaji; marudio ya Kiarabu (inamwajibikia…) yabadilishwe: anawajibika / inampasa / analazimika.
 - Fomula za mwandishi ni takatifu: swali la balagha libaki swali; wito ubaki wito («Ewe…!»); swali-na-jibu (Ikiulizwa: … Jibu ni kwamba…) libaki hivyo.
 - Kiswahili rasmi cha imamu msomi wa Dar; usirembeshe, usihubiri, usimboreshe mwandishi.
 - Usahihi wa hukumu za kisheria ni mtakatifu: wajibu / sunna / mubāḥ / makruhu / haramu havichanganywi.
-- HAKUNA em dash (—) popote: nukta, koma, koloni au nusukoloni.
-- Vichwa vya ndani: vilivyomo kwenye Kiarabu tu (فصل = «Fasili: …»; vya mabano [] ni vya wahariri — taja kwenye tanbihi mara ya kwanza kwenye faili). USIBUNI vichwa.
+- HAKUNA em dash (-) popote: nukta, koma, koloni au nusukoloni.
+- Vichwa vya ndani: vilivyomo kwenye Kiarabu tu (فصل = «Fasili: …»; vya mabano [] ni vya wahariri - taja kwenye tanbihi mara ya kwanza kwenye faili). USIBUNI vichwa.
 
-## MUUNDO WA FAILI (HTML — templeti kamili)
+## MUUNDO WA FAILI (HTML - templeti kamili)
 ```html
 <article class="kitabu" id="ID">
 <p class="robo-kichwa">ROBO YA ____ YA KITABU: ROBO YA ____</p>
@@ -51,13 +51,13 @@ Mwenyezi Mungu (si Allah; matamshi pekee: *Allāh*) · viwakilishi Vyake kwa her
 ```
 
 ## TANBIHI (footnotes)
-- Jozi: `<a class="fnref" id="fnr-XXnn" href="#fn-XXnn"></a>` + `<span class="fn" id="fn-XXnn">…</span>` PAPO HAPO (XX = kiambishi ulichopewa; nn mfululizo). Namba za kuonyesha huwekwa na zana — si wewe.
+- Jozi: `<a class="fnref" id="fnr-XXnn" href="#fn-XXnn"></a>` + `<span class="fn" id="fn-XXnn">…</span>` PAPO HAPO (XX = kiambishi ulichopewa; nn mfululizo). Namba za kuonyesha huwekwa na zana - si wewe.
 - Chanzo cha hadithi kama mwandishi alivyotaja. Maelezo ya wahariri (chini ya ukurasa wa Kiarabu): kwa maneno yako, ukiwataja («Wahariri…»). Wahariri wakinyamaza kwa hadithi isiyo na hukumu: sema wamenyamaza. Chanzo kisichotajwa: WebSearch (sunnah.com, dorar.net) ukitaje «uthibitisho wa mfasiri»; usipoweza: [?] kwenye maswali. KAMWE usikisie; ukiwa na shaka: [?], si ubunifu.
 - Istilahi mpya ya dini: fafanua mara ya kwanza (mabano au tanbihi) + orodhesha kwenye kamusi_mapya.
 
 ## KABLA YA KUMALIZA (lazima)
 1. Mstari kwa mstari dhidi ya picha: hakuna sentensi iliyorukwa wala kuongezwa.
-2. `grep "—" faili` itoe tupu; jozi za fnref/fn zilingane.
+2. `grep "-" faili` itoe tupu; jozi za fnref/fn zilingane.
 3. Soma kwa sauti aya moja ya maandishi kila ukurasa; isiyosomeka, iandike upya.
 
 ## MARUFUKU

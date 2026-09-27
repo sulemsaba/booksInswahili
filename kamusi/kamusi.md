@@ -1,6 +1,6 @@
-# KAMUSI YA ISTILAHI — v0.9
+# KAMUSI YA ISTILAHI - v0.9
 ### Katiba ya mradi. Tahajia iliyofungwa haibadiliki bila idhini ya mtumiaji.
-*Hali: MBEGU — itakamilishwa kuwa v1.0 wakati wa Hatua 1, baada ya ukaguzi wa PDF.*
+*Hali: MBEGU - itakamilishwa kuwa v1.0 wakati wa Hatua 1, baada ya ukaguzi wa PDF.*
 
 ## A. Maneno yaliyofungwa (LOCKED)
 
@@ -49,10 +49,10 @@
 | ليلة القدر | Laylatul-Qadr | |
 | الحديث القدسي | hadithi qudsi | mara ya kwanza: ufafanuzi (tanbihi) |
 | الأيام البيض | siku nyeupe (ayyāmul-bīḍ) | tarehe 13, 14, 15 |
-| أيام التشريق | siku za tashrīq | tarehe 11–13 Dhul-Ḥijja |
+| أيام التشريق | siku za tashrīq | tarehe 11-13 Dhul-Ḥijja |
 | صوم التطوع | swaumu ya sunna | |
 | صوم الدهر | kufunga daima | |
-| الفقه | **fiqh** | uamuzi wa mtumiaji (28 Julai 2026): si "fikihi". Tahadhari: si "figh" — gh ni غ, fiqh ina q (ق). Wenye fani: mafaqihi |
+| الفقه | **fiqh** | uamuzi wa mtumiaji (28 Julai 2026): si "fikihi". Tahadhari: si "figh" - gh ni غ, fiqh ina q (ق). Wenye fani: mafaqihi |
 | الفيء | fayi (al-fayʾ) | mali ya jumuiya ya Kiislamu iliyopatikana kutoka kwa makafiri bila vita; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 92) |
 | الغلول | ghulul | kuficha sehemu ya ngawira za vita kabla ya kugawanywa rasmi kwa wanajeshi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 90) |
 | الورع | wara' (uchamungu) | kujiepusha na mambo yenye shaka hata yasiyo haramu waziwazi; mara ya kwanza: footnote ya ufafanuzi (Kuchuma, uk. 88) |
@@ -69,7 +69,7 @@
 | الإزار | izar | kitambaa cha kujifunga kiunoni (Ndoa, uk. 80) |
 | العدة | eda (ʿidda) | kipindi cha kusubiri baada ya talaka; imetumika bila ufafanuzi ikiwa ni neno la kawaida (Ndoa, uk. 81) |
 
-## B. Heshima na jina la Mwenyezi Mungu (LOCKED — kwa sampuli ya mtumiaji, 28 Julai 2026)
+## B. Heshima na jina la Mwenyezi Mungu (LOCKED - kwa sampuli ya mtumiaji, 28 Julai 2026)
 
 | Kwa | Fomula |
 |---|---|
@@ -78,7 +78,7 @@
 | تعالى | **Mtukufu** (mf. "Mwenyezi Mungu Mtukufu") |
 | Matamshi ya aya/hadithi | jina hubaki kama linavyotamkwa: *Allāh* |
 | Mtume Muhammad | **ﷺ** ndiyo ya kawaida kitabuni (uamuzi wa mtumiaji, 28 Julai 2026); fomula kamili kwa maneno pale asili inapoiandika kwa maneno |
-| صلى الله عليه — kitenzi | "Mwenyezi Mungu amswalie" (mf. dibaji: "…amswalie yeye pamoja na ahli zake…") |
+| صلى الله عليه - kitenzi | "Mwenyezi Mungu amswalie" (mf. dibaji: "…amswalie yeye pamoja na ahli zake…") |
 | Wanachuoni waliotangulia | (Mwenyezi Mungu amrehemu) |
 | Maswahaba | (Mwenyezi Mungu amridhie); wawili: (Mwenyezi Mungu awaridhie wote wawili) |
 | Nabii mwingine | (Amani imshukie) |
@@ -90,28 +90,28 @@
 | wanachuoni / mwanachuoni | si "wanazuoni" |
 | uongofu | si "uwongofu" |
 | zahidi | mtu (الزاهد); dhana inabaki "zuhudi" |
-| allama | العلّامة — hubaki kama lilivyo |
+| allama | العلّامة - hubaki kama lilivyo |
 | arifu wa Mwenyezi Mungu | العارف |
 | mwenye kutenda elimu yake | العامل |
 | himdi | الحمد katika muktadha wa "ninamhimidi kwa himdi ya…" |
 | Tanbihi | jina la sehemu ya maelezo ya chini |
-| تقي (mtu) | mwenye taqwa — si "mchamungu"; imesawazishwa na matumizi ya 03-zaka.html |
+| تقي (mtu) | mwenye taqwa - si "mchamungu"; imesawazishwa na matumizi ya 03-zaka.html |
 
-## C. Yaliyofungwa kwa chaguo-msingi (Julai 2026 — mtumiaji akitaka, hubadilishwa)
+## C. Yaliyofungwa kwa chaguo-msingi (Julai 2026 - mtumiaji akitaka, hubadilishwa)
 
 Mtumiaji aliagiza kazi ya tafsiri iendelee bila kusubiri; maamuzi haya yamefungwa
 kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 
 | Jambo | Uamuzi (chaguo-msingi) | Sababu |
 |---|---|---|
-| العبودية ('ubudiyyah) | **uja** — mara ya kwanza: "uja (ʿubūdiyyah)" | Kiswahili safi, hueleweka |
+| العبودية ('ubudiyyah) | **uja** - mara ya kwanza: "uja (ʿubūdiyyah)" | Kiswahili safi, hueleweka |
 | Tafsiri ya aya za Qur'an | **IMEAMULIWA (26 Septemba 2026, inachukua nafasi ya Al-Farsy): kunukuu tafsiri ya Al-Barwani**; maneno yake yanabaki, tahajia inasawazishwa; kila nukuu inathibitishwa kwa `python3 zana/aya.py SURA AYA` | Uamuzi wa mtumiaji; Kanuni ya Dhahabu ya 16 |
 | المحبة (mahabba) | **mahaba** (kwa Allah) | "mapenzi" ina rangi ya kidunia |
 | الشوق (shawq) | **shauku** | imezoeleka |
-| الأنس (uns) | **unsi** — mara ya kwanza na ufafanuzi | hakuna neno la Kiswahili linalobeba maana kamili |
+| الأنس (uns) | **unsi** - mara ya kwanza na ufafanuzi | hakuna neno la Kiswahili linalobeba maana kamili |
 | الرضا (rida) | **radhi** (kuridhika kwa muktadha) | imezoeleka |
 
-## C2. Istilahi za elimu ya hadithi (mwongozo 10.2d — kama zinavyotumika kwenye maelezo ya chini)
+## C2. Istilahi za elimu ya hadithi (mwongozo 10.2d - kama zinavyotumika kwenye maelezo ya chini)
 
 | Istilahi | Kiswahili kinachotumika |
 |---|---|
@@ -123,7 +123,7 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 | matruk | mpokezi aliyeachwa (matruk) |
 | sahihi / hasan / dhaifu | kama zilivyo; hukumu hutajwa kwa jina la mwenye hukumu |
 
-## C3. Istilahi za tasawwuf (mwongozo 10.2c — mara ya kwanza hupata maelezo ya chini)
+## C3. Istilahi za tasawwuf (mwongozo 10.2c - mara ya kwanza hupata maelezo ya chini)
 
 | Istilahi | Matumizi |
 |---|---|
@@ -141,4 +141,4 @@ kwa chaguo-msingi la mfasiri na yanaweza kubadilishwa kwa idhini yake:
 2. Kagua nani kachapisha chanzo kabla ya kukitumia kama kigezo (sera ya fitna, CLAUDE.md §5).
 3. Lenye utata: muulize mtumiaji. Kisha liingize sehemu A na tarehe.
 
-*Historia: v0.1 — mbegu (Julai 2026). v0.2 — sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 — sehemu za mwongozo v3.0 (C2–C4, heshima ya mabano). v0.5 — istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 — **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.7 — **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026). v0.8 — istilahi za fiqh za kuchuma: fayi, ghulul, wara' (uchamungu), shubha (29 Julai 2026, Kitabu cha Adabu za Kuchuma na Maisha). v0.9 — istilahi za Adabu za Kula na Ndoa: pishi, khabīṣ, al-ghamar, nushuz, azli, istihadha, aqiqa, tahniki, walima, izar, eda; rejista ya تقي (29 Julai 2026).*
+*Historia: v0.1 - mbegu (Julai 2026). v0.2 - sehemu C imefungwa kwa chaguo-msingi; maneno ya dibaji yameongezwa (28 Julai 2026). v0.3 - sehemu za mwongozo v3.0 (C2-C4, heshima ya mabano). v0.5 - istilahi za fiqh za kipande cha 2 cha Elimu (28 Julai 2026). v0.4 - **rejista ya sampuli ya mtumiaji**: Mwenyezi Mungu badala ya Allah, viwakilishi kwa herufi kubwa, wanachuoni, majina kwa alama kamili (28 Julai 2026). v0.7 - **fiqh** imefungwa badala ya fikihi (uamuzi wa mtumiaji, 28 Julai 2026). v0.8 - istilahi za fiqh za kuchuma: fayi, ghulul, wara' (uchamungu), shubha (29 Julai 2026, Kitabu cha Adabu za Kuchuma na Maisha). v0.9 - istilahi za Adabu za Kula na Ndoa: pishi, khabīṣ, al-ghamar, nushuz, azli, istihadha, aqiqa, tahniki, walima, izar, eda; rejista ya تقي (29 Julai 2026).*

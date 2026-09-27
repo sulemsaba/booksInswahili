@@ -8,7 +8,7 @@ export const meta = {
 }
 
 // HAITEGEMEI args (Workflow tool ilishindwa kuipitisha `args` kama object mara mbili
-// mfululizo, tarehe 29 Julai 2026 — angalia HALI.md kikao (4)). Hariri ROBO na UNITS
+// mfululizo, tarehe 29 Julai 2026 - angalia HALI.md kikao (4)). Hariri ROBO na UNITS
 // hapa chini kabla ya kila run, kama zana/wf-uhakiki-robo1.js inavyofanya.
 
 const ROOT = '/home/msaba/Desktop/me/Priority/minhaj-tafsiri-workspace'
@@ -16,7 +16,7 @@ const PDF = ROOT + '/chanzo/mukhtasar-minhaj-alqasidin-arnaut.pdf'
 
 const ROBO = 'ROBO YA PILI YA KITABU: ROBO YA ADA'
 
-// units: [{ id, jina, faili, pref, parts: [[a,b],...] }] — hariri kwa kila run
+// units: [{ id, jina, faili, pref, parts: [[a,b],...] }] - hariri kwa kila run
 const UNITS = [
   // { id: 'usuhuba', jina: "Kitabu cha Adabu za Usuhuba na Udugu",
   //   faili: 'sura/robo-2-ada/03-usuhuba-udugu.html', pref: 'us', parts: [[97, 105], [106, 114], [115, 122]] },
@@ -51,7 +51,7 @@ function transPrompt(u, a, b, sehemu, jumla, robo) {
 
 SOMA KWANZA (briefing fupi, ndiyo sheria zinazokufunga): ${ROOT}/zana/muhtasari-sheria.md kisha ${ROOT}/kamusi/kamusi.md. Usisome CLAUDE.md nzima; fungua sehemu mahususi TU ukiwa na shaka.
 
-KAZI: tafsiri kurasa ${a}-${b} za ${PDF} (Read pages:"${a}-${b}", kama picha) — sehemu ${sehemu}/${jumla} ya "${u.jina}". Sentensi ikiendelea ukurasa ${b + 1}, isome uimalizie kwa mshono wa asili; taja kwenye vidokezo.
+KAZI: tafsiri kurasa ${a}-${b} za ${PDF} (Read pages:"${a}-${b}", kama picha) - sehemu ${sehemu}/${jumla} ya "${u.jina}". Sentensi ikiendelea ukurasa ${b + 1}, isome uimalizie kwa mshono wa asili; taja kwenye vidokezo.
 
 ${mode}
 

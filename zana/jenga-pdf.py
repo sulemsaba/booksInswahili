@@ -106,7 +106,7 @@ def jenga():
     mwili = "".join(jalada) + "".join(mbele) + tengeneza_yaliyomo(orodha) + "".join(matini)
 
     # CSS inaingizwa ndani ya HTML moja kwa moja: Paged.js huvuta <link> kwa
-    # fetch(), na fetch ya file:// imezuiwa na Chromium (CORS) — hushindwa kimya.
+    # fetch(), na fetch ya file:// imezuiwa na Chromium (CORS) - hushindwa kimya.
     css = (MZIZI / "zana" / "mtindo.css").read_text(encoding="utf-8")
 
     # Paged.js huipa jina jipya id ya maelezo inapoyahamishia chini ya ukurasa
@@ -123,7 +123,7 @@ def jenga():
 
     html = (
         '<!DOCTYPE html><html lang="sw"><head><meta charset="utf-8">'
-        "<title>Mukhtasar Minhaj al-Qasidin — Tafsiri ya Kiswahili</title>"
+        "<title>Mukhtasar Minhaj al-Qasidin - Tafsiri ya Kiswahili</title>"
         f"<style>{css}</style>"
         f"{rekebisha_viungo}"
         '<script src="paged.polyfill.js"></script>'
