@@ -30,7 +30,7 @@ Matini ya kitabu: kurasa ~13-408. Fihris ya asili: 409-416.
 | 10 | Kitabu cha Adabu za usuhuba na udugu | 97-122 | kur. 26 |
 | 11 | Kitabu cha Kuamrisha mema na kukataza maovu | 123-147 | kur. 25 |
 
-⚠️ Fihris ya asili (uk. 410) inaonyesha *Kitabu cha Halali na Haramu* ndani ya robo hii, lakini matini inaonyesha kichwa chake uk. 321 (robo ya 4). Thibitisha mahali pake halisi kwa picha za kurasa 321 na fihris.
+Fihris ya asili (uk. 410) inataja *Kitabu cha Halali na Haramu* ndani ya robo hii (Robo 2); matini ya toleo hili haina kitabu hicho. Uk. 321 ni rejea ndani ya sentensi tu (imethibitishwa 27 Sep 2026).
 
 ## ROBO YA 3 - Yanayoangamiza (Rubʿ al-Muhlikāt) - kurasa 148-250
 | # | Kitabu | Kurasa | Ukubwa |
@@ -53,8 +53,8 @@ Matini ya kitabu: kurasa ~13-408. Fihris ya asili: 409-416.
 | 21 | Kitabu cha Tawba | 251-267 | kur. 17 |
 | 22 | Kitabu cha Subira na Shukrani | 268-296 | kur. 29 |
 | 23 | Kitabu cha Rajaa na Khofu | 297-315 | kur. 19 |
-| 24 | Kitabu cha Zuhudi na Ufakiri | 316-320 | kur. 5 |
-| 25 | ⚠️ Kitabu cha Halali na Haramu (mahali pake pathibitishwe - tazama robo ya 2) | 321-330 | kur. 10 |
+| 24 | Kitabu cha Zuhudi na Ufakiri | 316-330 | kur. 15 (uk. 321-330 ni nusu yake ya pili; imethibitishwa 27 Sep 2026) |
+| 25 | (Hakuna Kitabu cha Halali na Haramu: jina lake uk. 321 ni rejea ndani ya sentensi tu. Uamuzi wa mtumiaji 27 Sep 2026: uk. 321-330 zimeunganishwa na Zuhudi.) | - | - |
 | 26 | Kitabu cha Tawhidi na Tawakkali | 331-337 | kur. 7 |
 | 27 | Kitabu cha Mahabba, Shauku, Unsi na Radhi | 338-358 | kur. 21 |
 | 28 | Mlango wa Nia, Ikhlasi na Ukweli | 359-369 | kur. 11 |

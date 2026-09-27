@@ -96,8 +96,7 @@ it ends), add new terms to `kamusi/kamusi.md` with the date, then commit and pus
 | sura/robo-4-munjiyat/01-tawba.html | 251-267 | Robo 4 heading + كتاب التوبة |
 | sura/robo-4-munjiyat/02-subira-na-shukrani.html | 268-296 | كتاب الصبر والشكر |
 | sura/robo-4-munjiyat/03-rajaa-na-khofu.html | 297-315 | كتاب الرجاء والخوف |
-| sura/robo-4-munjiyat/04-zuhudi-na-ufakiri.html | 316-320 | كتاب الزهد والفقر |
-| sura/robo-4-munjiyat/05-halali-na-haramu.html | 321-330 | **see open issue 1** |
+| sura/robo-4-munjiyat/04-zuhudi-na-ufakiri.html | 316-330 | كتاب الزهد والفقر (pp. 321-330 are its second half; there is no Kitabu of Halali na Haramu) |
 | sura/robo-4-munjiyat/06-tawhidi-na-tawakkali.html | 331-337 | كتاب التوحيد والتوكل |
 | sura/robo-4-munjiyat/07-mahabba-shauku-unsi-radhi.html | 338-358 | كتاب المحبة والشوق والأنس والرضى |
 | sura/robo-4-munjiyat/08-nia-ikhlasi-ukweli.html | 359-369 | باب في النية والإخلاص والصدق |
@@ -124,11 +123,8 @@ Pages 409-416 are the original index: not translated.
   Matamanio, Maafa ya ulimi, Zuhudi (316-320), Tawhidi na tawakkali, Muhasaba, Tafakuri.
 - **Sheikh review NOT done yet (step B above), after the gaps are filled:** Usuhuba, Amri na makatazo,
   Hasira/kinyongo/husuda, Cheo na riyaa, Kibri, Ghururi, Tawba, Subira na shukrani, Rajaa na khofu,
-  file 05 (pp. 321-330), Mahabba, Nia/ikhlasi/ukweli, Kumbukumbu la mauti.
-- **Open issue 1:** there is no heading «كتاب الحلال والحرام» on p. 321. The words appear inside a
-  sentence («وقد تقدم في كتاب الحلال والحرام...»), and pp. 321-330 are the continuation of
-  كتاب الزهد والفقر («الشطر الثاني من الكتاب» is on p. 324). File 05 should most likely be merged
-  into file 04 with no separate Kitabu title. Ask the user before restructuring.
+  Zuhudi pp. 321-330, Mahabba, Nia/ikhlasi/ukweli, Kumbukumbu la mauti.
+- **Resolved (user decision, 27 Sep 2026):** pp. 321-330 were merged into the Zuhudi file; there is no separate Kitabu cha Halali na Haramu (the name on p. 321 is only an in-text reference).
 - End tasks still to do: back-of-book glossary, whole-book consistency check (terms, style, numbers),
   intentional blank pages and final layout (rule 8.8), then the user's and a real sheikh's review.
 - After every change: `python3 zana/kagua.py`, rebuild the PDF, update `HALI.md`, commit, push.
