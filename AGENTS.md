@@ -107,14 +107,22 @@ it ends), add new terms to `kamusi/kamusi.md` with the date, then commit and pus
 
 Pages 409-416 are the original index: not translated.
 
-## 6. Status and remaining work (27 September 2026)
+## 6. Status and remaining work (27 September 2026, translation stopped here)
 
-- All units above have a translation file. Translation of the last parts was still running when this
-  file was written; check `HALI.md` and run `python3 zana/kagua.py` to see what is incomplete
-  (a low ratio or a file that stops mid-thought).
+**Translation gaps. Do these first, in this order, continuing each file exactly where it ends:**
+
+| File | Translated up to | Still to translate |
+|---|---|---|
+| sura/robo-2-ada/05-amri-na-makatazo.html | end of p. 139 («...ورفقهم بالسياسة») | pp. 140-147, up to the Robo 3 heading (includes باب آداب المعيشة وأخلاق النبوة, p. 145) |
+| sura/robo-3-muhlikat/05-hasira-kinyongo-husuda.html | end of p. 199 («الطمع يذل الأمير...») | pp. 200-208, from «بيان علاج الحرص والطمع» up to كتاب ذم الجاه (p. 209) |
+| sura/robo-4-munjiyat/02-subira-na-shukrani.html | end of p. 288 («فأصبح وقد سري عنه») | pp. 289-296, up to كتاب الرجاء والخوف (p. 297) |
+| sura/robo-4-munjiyat/11-kumbukumbu-la-mauti.html | p. 395 («أجسامكم أم أرواحكم؟» translated) | pp. 395-408, the rest of the book (includes باب في ذكر سعة رحمة الله, p. 406) |
+| sura/robo-4-munjiyat/03-rajaa-na-khofu.html | file ends with «Mwisho wa Kitabu cha Khofu», but the last part (pp. 310-315) was interrupted | verify pp. 310-315 against the PDF; complete anything missing |
+| sura/robo-4-munjiyat/07-mahabba-shauku-unsi-radhi.html | end of p. 351 confirmed; the part pp. 352-358 was interrupted | verify pp. 352-358; complete anything missing |
+
 - **Sheikh review done:** Robo 1, Adabu za kula, Ndoa, Kuchuma, Ajabu za moyo, Kuiadibu nafsi,
   Matamanio, Maafa ya ulimi, Zuhudi (316-320), Tawhidi na tawakkali, Muhasaba, Tafakuri.
-- **Sheikh review NOT done yet (paused by the user to save usage):** Usuhuba, Amri na makatazo,
+- **Sheikh review NOT done yet (step B above), after the gaps are filled:** Usuhuba, Amri na makatazo,
   Hasira/kinyongo/husuda, Cheo na riyaa, Kibri, Ghururi, Tawba, Subira na shukrani, Rajaa na khofu,
   file 05 (pp. 321-330), Mahabba, Nia/ikhlasi/ukweli, Kumbukumbu la mauti.
 - **Open issue 1:** there is no heading «كتاب الحلال والحرام» on p. 321. The words appear inside a
@@ -123,6 +131,7 @@ Pages 409-416 are the original index: not translated.
   into file 04 with no separate Kitabu title. Ask the user before restructuring.
 - End tasks still to do: back-of-book glossary, whole-book consistency check (terms, style, numbers),
   intentional blank pages and final layout (rule 8.8), then the user's and a real sheikh's review.
+- After every change: `python3 zana/kagua.py`, rebuild the PDF, update `HALI.md`, commit, push.
 
 ## 7. Git rules
 
