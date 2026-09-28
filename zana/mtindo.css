@@ -23,7 +23,9 @@
     color: #444;
   }
   @top-center {
-    content: string(kichwa-kitabu, first);
+    /* Kichwa cha juu huanza ukurasa unaofuata. Kwa hiyo ukurasa wa
+       kufungulia Kitabu au Dibaji haujirudii kichwa chake juu yake. */
+    content: string(kichwa-kitabu, first-except);
     font-family: "Noto Serif", serif;
     font-style: italic;
     font-size: 8pt;
