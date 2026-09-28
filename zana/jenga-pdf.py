@@ -49,6 +49,32 @@ def weka_namba_za_maelezo(kipande):
     return kipande
 
 
+def weka_id_za_sehemu(kipande):
+    """Huongeza alama thabiti kwa vichwa vya Sehemu wakati wa ujenzi.
+
+    Alama hizi hutumiwa na Yaliyomo pekee. Hazibadilishi faili za matini,
+    lakini hufanya kila Sehemu ifikike na iwe na namba yake sahihi ya ukurasa.
+    """
+    def article(m):
+        article_id = m.group(1)
+        yaliyomo = m.group(0)
+        hesabu = 0
+
+        def kichwa(k):
+            nonlocal hesabu
+            tagi = k.group(0)
+            if " id=" in tagi:
+                return tagi
+            hesabu += 1
+            return f'<h2 id="{article_id}-sehemu-{hesabu}">'
+
+        return re.sub(r"<h2(?:\s[^>]*)?>", kichwa, yaliyomo)
+
+    return re.sub(
+        r'<article[^>]*id="([^"]+)"[^>]*>.*?</article>', article, kipande, flags=re.S
+    )
+
+
 def kusanya():
     vipande = []
     for folda in MPANGILIO:
@@ -56,19 +82,65 @@ def kusanya():
             if str(faili.relative_to(MZIZI)) in ZUILIWA_KWENYE_RASIMU:
                 continue
             vipande.append(
-                (faili.name, weka_namba_za_maelezo(faili.read_text(encoding="utf-8")))
+                (faili.name, weka_id_za_sehemu(weka_namba_za_maelezo(
+                    faili.read_text(encoding="utf-8")
+                )))
             )
     return vipande
 
 
 def tengeneza_yaliyomo(vipande):
     orodha = []
+    robo_iliyopita = None
+    mbele_imeanza = False
+
+    def safisha(matini):
+        # Kichwa chenye alama ya maelezo ya chini kinahitaji kuingia kwenye
+        # Yaliyomo kama kichwa pekee, bila namba wala maelezo ya wahariri.
+        matini = re.sub(r'<a class="fnref"[^>]*>.*?</a>', '', matini, flags=re.S)
+        matini = re.sub(
+            r'<span class="fn"[^>]*><span class="fn-num"[^>]*>.*?</span>.*?</span>',
+            '', matini, flags=re.S
+        )
+        matini = re.sub(r'<span class="fn"[^>]*>.*?</span>', '', matini, flags=re.S)
+        return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", matini)).strip()
+
+    def ufunguo_wa_robo(kichwa):
+        m = re.search(r"robo ya (kwanza|pili|tatu|nne)", kichwa, re.I)
+        return m.group(1).lower() if m else kichwa.casefold()
+
     for kipande in vipande:
-        for m in re.finditer(
-            r'<article[^>]*id="([^"]+)"[^>]*>.*?<h1>(.*?)</h1>', kipande, re.S
-        ):
-            kichwa = re.sub(r"<[^>]+>", "", m.group(2)).strip()
-            orodha.append(f'<li><a href="#{m.group(1)}">{kichwa}</a></li>')
+        for m in re.finditer(r'<article([^>]*)id="([^"]+)"[^>]*>(.*?)</article>', kipande, re.S):
+            sifa, article_id, article = m.groups()
+            kichwa_m = re.search(r"<h1>(.*?)</h1>", article, re.S)
+            if not kichwa_m:
+                continue
+            kichwa = safisha(kichwa_m.group(1))
+            mbele = "front-matter" in sifa
+            robo_m = re.search(r'<p class="robo-kichwa">(.*?)</p>', article, re.S)
+
+            if mbele and not mbele_imeanza:
+                orodha.append('<li class="toc-kundi">Kurasa za mwanzo</li>')
+                mbele_imeanza = True
+            if robo_m:
+                robo = safisha(robo_m.group(1))
+                ufunguo = ufunguo_wa_robo(robo)
+                if ufunguo != robo_iliyopita:
+                    orodha.append(f'<li class="toc-robo">{robo}</li>')
+                    robo_iliyopita = ufunguo
+
+            daraja = "toc-mbele" if mbele else "toc-kitabu"
+            orodha.append(
+                f'<li class="{daraja}"><a href="#{article_id}"><span class="toc-jina">'
+                f'{kichwa}</span><span class="toc-ukurasa" data-target="#{article_id}"></span></a></li>'
+            )
+            if not mbele:
+                for h2 in re.finditer(r'<h2 id="([^"]+)">(.*?)</h2>', article, re.S):
+                    sehemu_id, sehemu = h2.groups()
+                    orodha.append(
+                        f'<li class="toc-sehemu"><a href="#{sehemu_id}"><span class="toc-jina">'
+                        f'{safisha(sehemu)}</span><span class="toc-ukurasa" data-target="#{sehemu_id}"></span></a></li>'
+                    )
     if not orodha:
         return ""
     return (

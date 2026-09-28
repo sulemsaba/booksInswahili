@@ -81,20 +81,44 @@ body {
 
 /* ---------- Yaliyomo (TOC) ---------- */
 .yaliyomo { page-break-before: always; page-break-after: always; }
-.yaliyomo h1 { string-set: kichwa-kitabu "Yaliyomo"; }
-.yaliyomo ol { list-style: none; padding: 0; }
-.yaliyomo li { margin: 2.2mm 0; font-size: 10.5pt; border-bottom: 0.3pt dotted #bbb; }
+.yaliyomo h1 { string-set: kichwa-kitabu "Yaliyomo"; margin-bottom: 7mm; }
+.yaliyomo ol { list-style: none; margin: 0; padding: 0; }
+.yaliyomo li { break-inside: avoid; }
 .yaliyomo a {
-  text-decoration: none;
   color: #111;
   display: flex;
-  justify-content: space-between;
   align-items: baseline;
+  gap: 2mm;
+  text-align: left;
+  text-decoration: none;
 }
-.yaliyomo a::after {
-  content: target-counter(attr(href url), page);
-  color: #333;
+.toc-jina { display: flex; flex: 1; min-width: 0; }
+.toc-jina::after {
+  border-bottom: 0.35pt dotted #aaa;
+  content: "";
+  flex: 1;
+  margin: 0 1.5mm 0.28em 2mm;
 }
+.toc-ukurasa::after { content: target-counter(attr(data-target url), page); }
+.toc-mbele .toc-ukurasa::after {
+  content: target-counter(attr(data-target url), page, lower-roman);
+}
+.toc-kundi, .toc-robo {
+  border-bottom: 0.6pt solid #6b5310;
+  color: #6b5310;
+  font-family: "Caladea", "Cambria", serif;
+  font-size: 11.5pt;
+  font-weight: bold;
+  letter-spacing: 0.025em;
+  margin: 6mm 0 2.5mm;
+  padding-bottom: 1.4mm;
+}
+.toc-kundi { color: #1e3a5f; border-bottom-color: #1e3a5f; }
+.toc-mbele, .toc-kitabu { font-size: 10.5pt; font-weight: bold; margin: 2.1mm 0; }
+.toc-mbele { font-weight: normal; }
+.toc-sehemu { font-size: 9.1pt; line-height: 1.25; margin: 1.35mm 0 1.35mm 4.5mm; }
+.toc-sehemu .toc-jina::after { border-bottom-color: #c8c8c8; }
+.toc-sehemu .toc-ukurasa { color: #555; }
 
 /* ---------- Vichwa ---------- */
 article.kitabu {
