@@ -146,3 +146,7 @@ Tafsiri ya HTML ya kurasa 1-408 ipo kamili kama rasimu ya kazi. Pasi ya uthabiti
 Ukaguzi wa mwonekano wa toleo la A5 ulihakiki kwamba kurasa za mwanzo zina namba za Kirumi, ukurasa wa Ufunguo una kichwa chake cha juu na jedwali linasomeka vizuri. Ujenzi mpya wa PDF umeahirishwa mpaka uhakiki wa mwisho wa matini umalizike. Jaribio la Chromium la hakikisho lilionyesha kuwa mchakato wa ujenzi unaweza kuchelewa kuandika faili baada ya amri kurejea; usichukulie PDF inayotokea katika hali hiyo kuwa toleo la mwisho bila ukaguzi wa kurasa zake.
 
 Hali ya mwisho bado si idhini ya kielimu: vitabu vilivyoorodheshwa katika `AGENTS.md` kama havijapita ukaguzi wa sheikh vinahitaji kulinganishwa na picha za Kiarabu aya kwa aya; rejeo za hadithi za kumbukumbu zihakikishwe; kamusi ya nyuma na PDF ya mwisho vitengenezwe baada ya hapo.
+
+## Toleo la kuchapisha 0.02: 9 Oktoba 2026
+
+PDF ya A5 ya kitabu kizima imejengwa kutoka HTML iliyokaguliwa na kuhifadhiwa kama `matokeo/minhaj-kiswahili-toleo-0.02.pdf`. Ina kurasa 749, na SHA-256 yake ni `5f42493cd4ab33ee24bc6d08c6106dd447ed489f930f12dcf137f5239cbb8fc8`. Ukaguzi wa kuona umefanywa kwenye kurasa za mwanzo, Yaliyomo, ukurasa wa matini wenye tanbihi, na ukurasa wa mwisho; namba za Kirumi, vichwa vya juu, tanbihi, Yaliyomo, na hitimisho vimeonekana sawa. Ukaguzi wa matini na `zana/kagua.py` umepita bila kasoro.
