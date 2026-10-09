@@ -23,9 +23,9 @@
     color: #444;
   }
   @top-center {
-    /* Kichwa cha juu huanza ukurasa unaofuata. Kwa hiyo ukurasa wa
-       kufungulia Kitabu au Dibaji haujirudii kichwa chake juu yake. */
-    content: string(kichwa-kitabu, first-except);
+    /* Kichwa cha juu huonyesha jina la sehemu hata kwenye ukurasa wake wa
+       kufungulia, ili msomaji alione pamoja na kichwa kikuu cha ukurasa. */
+    content: string(kichwa-kitabu);
     font-family: "Noto Serif", serif;
     font-style: italic;
     font-size: 8pt;
