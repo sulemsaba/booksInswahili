@@ -175,7 +175,7 @@ def jenga():
              and any(n in f.name for f in (MZIZI / "sura/00-utangulizi").glob("*.html"))]
     matini = [c for (n, c) in vipande if 'class="jalada"' not in c and c not in mbele]
     orodha = mbele + matini
-    mwili = "".join(jalada) + "".join(mbele) + tengeneza_yaliyomo(orodha) + "".join(matini)
+    mwili = "".join(jalada) + "".join(mbele) + tengeneza_yaliyomo(orodha) + "".join(matini) + '<section class="ukurasa-tupu" aria-label="Ukurasa tupu wa mwisho">&nbsp;</section>'
 
     # CSS inaingizwa ndani ya HTML moja kwa moja: Paged.js huvuta <link> kwa
     # fetch(), na fetch ya file:// imezuiwa na Chromium (CORS) - hushindwa kimya.

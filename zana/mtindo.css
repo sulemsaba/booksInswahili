@@ -39,6 +39,12 @@
 }
 
 @page jalada {
+  margin: 0;
+  @bottom-center { content: none; }
+  @top-center { content: none; }
+}
+
+@page tupu {
   @bottom-center { content: none; }
   @top-center { content: none; }
 }
@@ -65,21 +71,76 @@ body {
 /* ---------- Jalada (title page) ---------- */
 .jalada {
   page: jalada;
+  position: relative;
+  box-sizing: border-box;
+  width: 148.5mm;
+  height: 210mm;
+  margin: 0;
+  overflow: hidden;
+  background: #12201d url("picha/jalada-asili.png") center / cover no-repeat;
   page-break-after: always;
+}
+.jalada-matini {
+  position: absolute;
+  inset: 32mm 26mm 34mm;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 5mm 3mm 4mm;
+  background: #13211d;
+  align-items: center;
   text-align: center;
-  margin-top: 28mm;
+  color: #f1efdc;
+  text-shadow: 0 1px 1px #000;
 }
-.jalada-ar {
-  font-family: "Amiri";
-  font-size: 26pt;
-  margin-bottom: 8mm;
+.jalada-aina {
+  font-family: "Caladea", "Cambria", serif;
+  font-size: 10.5pt;
+  font-weight: bold;
+  letter-spacing: 0.18em;
+  margin: 3mm 0 5mm;
 }
-.jalada-jina { font-size: 17pt; letter-spacing: 0.06em; margin: 0 0 3mm 0; }
-.jalada-tafsiri { font-size: 11.5pt; margin-bottom: 12mm; }
-.jalada-mwandishi { font-size: 11.5pt; margin-bottom: 8mm; }
-.jalada-asili { font-size: 9.5pt; color: #333; margin-bottom: 10mm; }
-.jalada-toleo { font-size: 9pt; color: #333; margin-bottom: 14mm; }
-.jalada-hali { font-size: 9pt; letter-spacing: 0.2em; color: #8a2020; }
+.jalada-jina {
+  color: #f1efdc;
+  font-size: 19pt;
+  line-height: 1.15;
+  letter-spacing: 0.035em;
+  margin: 0 0 13mm;
+  string-set: none;
+}
+.jalada-kazi {
+  font-family: "Caladea", "Cambria", serif;
+  font-size: 10pt;
+  font-weight: bold;
+  font-style: italic;
+  margin: 0 0 2mm;
+}
+.jalada-mwandishi {
+  font-family: "Caladea", "Cambria", serif;
+  font-size: 12pt;
+  line-height: 1.35;
+  margin: 0 0 22mm;
+}
+.jalada-mwandishi span { font-size: 9pt; font-style: italic; }
+.jalada-wahariri {
+  font-family: "Caladea", "Cambria", serif;
+  font-size: 10.5pt;
+  line-height: 1.3;
+  margin: 0 0 auto;
+}
+.jalada-wachapishaji {
+  font-family: "Caladea", "Cambria", serif;
+  font-size: 9.5pt;
+  line-height: 1.25;
+  margin: 0 0 3mm;
+}
+
+/* Ukurasa wa mwisho wa makusudi: hauna kichwa wala namba. */
+.ukurasa-tupu {
+  page: tupu;
+  page-break-before: always;
+  min-height: 1px;
+}
 
 /* ---------- Yaliyomo (TOC) ---------- */
 .yaliyomo { page-break-before: always; page-break-after: always; }
